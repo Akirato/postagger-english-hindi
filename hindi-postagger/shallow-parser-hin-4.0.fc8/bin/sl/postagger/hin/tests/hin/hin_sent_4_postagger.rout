@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	isalie	CC	<fs af='isaliye,avy,,,,,,'>
+2	isa	DEM	<fs af='yaha,pn,any,sg,3,o,,'>
+3	JIla	NN	<fs af='JIla,n,f,sg,,d,,'>|<fs af='JIla,n,f,sg,,o,,'>
+4	ko	PSP	<fs af='ko,psp,,,,,,'>
+5	SeRanAga	XC	<fs af='SeRanAga,n,m,sg,,d,,'>|<fs af='SeRanAga,n,m,pl,,d,,'>|<fs af='SeRanAga,n,m,sg,,o,,'>|<fs af='SeRanAga,n,m,pl,,o,,'>
+6	JIla	NNP	<fs af='JIla,n,f,sg,,d,,'>|<fs af='JIla,n,f,sg,,o,,'>
+7	kahA	VM	<fs af='kaha,v,m,sg,any,,yA,yA'>
+8	jAwA	VAUX	<fs af='jA,v,m,sg,any,,wA,wA'>
+9	hE	VAUX	<fs af='hE,v,any,sg,2,,hE,hE'>|<fs af='hE,v,any,sg,3,,hE,hE'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

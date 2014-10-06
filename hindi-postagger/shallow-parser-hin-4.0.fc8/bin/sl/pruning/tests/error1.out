@@ -1,0 +1,29 @@
+<Sentence id="1">
+1	((	NP	
+1.1	ਇਸ	DEM	<fs af='ਇਹ,pn,any,sg,,o,,'>
+1.2	ਪਵਿੱਤਰ	JJ	<fs af='ਪਵਿੱਤਰ,adj,,,,,,'>
+1.3	ਸਥਾਨ	NN	<fs af='ਸਥਾਨ,n,m,sg,3,d,,'>|<fs af='ਸਥਾਨ,n,m,sg,3,o,,'>|<fs af='ਸਥਾਨ,n,m,pl,3,d,,'>
+1.4	ਦੇ	PSP	<fs af='ਦਾ,psp,m,sg,,o,,'>|<fs af='ਦਾ,psp,m,pl,,d,,'>
+	))		
+2	((	NP	
+2.1	ਦਰਸ਼ਨਾਂ	NN	<fs af='ਦਰਸ਼ਨ,n,m,pl,3,o,,'>
+2.2	ਲਈ	PSP	<fs af='ਲਈ,psp,,,,,,'>
+	))		
+3	((	NP	
+3.1	ਹਰ	JJ	<fs af='ਹਰ,adj,,,,,,'>
+3.2	ਸਾਲ	NN	<fs af='ਸਾਲ,n,m,sg,3,d,,'>|<fs af='ਸਾਲ,n,m,sg,3,o,,'>|<fs af='ਸਾਲ,n,m,pl,3,d,,'>|<fs af='ਸਾਲ,n,f,sg,3,d,,'>|<fs af='ਸਾਲ,n,f,sg,3,o,,'>
+	))		
+4	((	NP	
+4.1	ਲੱਖਾਂ	QC	<fs af='ਲੱਖ,num,any,pl,,o,,'>
+4.2	ਸੰਗਤਾਂ	NN	<fs af='ਸੰਗਤ,n,f,pl,3,d,,'>|<fs af='ਸੰਗਤ,n,f,pl,3,o,,'>
+	))		
+5	((	NP	
+5.1	ਹੇਮਕੁੰਟ	NNP	<fs af='ਹੇਮਕੁੰਟ,n,m,sg,3,d,,'>|<fs af='ਹੇਮਕੁੰਟ,n,m,sg,3,o,,'>
+5.2	ਸਾਹਿਬ	RP	<fs af='ਸਾਹਿਬ,n,m,sg,3,d,,' poslcat="NM">|<fs af='ਸਾਹਿਬ,n,m,sg,3,o,,' poslcat="NM">|<fs af='ਸਾਹਿਬ,n,m,pl,3,d,,' poslcat="NM">
+	))		
+6	((	VGF	
+6.1	ਆਉਂਦੀਆਂ	VM	<fs af='ਆ,v,f,pl,any,,ਦਾ,ਦਾ'>
+6.2	ਹਨ	VAUX	<fs af='ਹੈ,v,any,pl,3,,,'>
+6.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>

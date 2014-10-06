@@ -1,0 +1,67 @@
+<Sentence id="3">
+1	((	NP	
+1.1	yahAz	PRP	<fs af='yahAz,adv,,,,,,'>|<fs af='yahAz,psp,,,,,,'>
+1.2	para	PSP	<fs af='para,psp,,,,,,'>
+	))		
+2	((	NP	
+2.1	trasta	NN	<fs af='trasta,n,m,sg,,d,,'>|<fs af='trasta,n,m,pl,,d,,'>|<fs af='trasta,n,m,sg,,o,,'>|<fs af='trasta,n,m,pl,,o,,'>
+2.2	ke	PSP	<fs af='kA,psp,m,sg,,o,,'>|<fs af='kA,psp,m,pl,,d,,'>|<fs af='kA,psp,m,pl,,o,,'>
+2.3	xvArA	PSP	<fs af='xvArA,psp,,,,,,'>|<fs af='xvArA,psp,,,,,,'>
+2.4	yAwriyoM	NN	<fs af='yAwrI,n,m,pl,,o,,'>
+2.5	kI	PSP	<fs af='kA,psp,f,sg,,d,,'>|<fs af='kA,psp,f,sg,,o,,'>|<fs af='kA,psp,f,pl,,d,,'>|<fs af='kA,psp,f,pl,,o,,'>|<fs af='kara,v,f,sg,any,,yA,yA'>
+	))		
+3	((	NP	
+3.1	suviXA	NN	<fs af='suviXA,n,f,sg,,d,,'>|<fs af='suviXA,n,f,sg,,o,,'>
+3.2	ke	PSP	<fs af='kA,psp,m,sg,,o,,'>|<fs af='kA,psp,m,pl,,d,,'>|<fs af='kA,psp,m,pl,,o,,'>
+3.3	lie	PSP	<fs af='le,v,m,pl,any,,yA,yA'>
+3.4	unaKatolA	NN	<fs af='unaKatolA,unk,,,,,,'>
+	))		
+4	((	NP	
+4.1	(	SYM	<fs af='(,punc,,,,,,'>
+4.2	ropa	XC	<fs af='ropa,v,any,any,any,,0,0'>
+	))		
+5	((	NP	
+5.1	ve	NN	<fs af='vaha,pn,any,pl,3,d,,'>
+5.2	)	SYM	<fs af='),punc,,,,,,'>
+	))		
+6	((	VGF	
+6.1	banAyA	VM	<fs af='banA,v,m,sg,any,,yA,yA'>
+6.2	gayA	VAUX	<fs af='jA,v,m,sg,any,,yA,yA'>
+6.3	hE	VAUX	<fs af='hE,v,any,sg,2,,hE,hE'>|<fs af='hE,v,any,sg,3,,hE,hE'>
+6.4	,	SYM	<fs af=',,punc,,,,,'>
+	))		
+7	((	NP	
+7.1	jisase	PRP	<fs af='jo,pn,any,sg,3,o,,'>
+	))		
+8	((	NP	
+8.1	xo	QC	<fs af='xo,n,m,sg,,d,,'>|<fs af='xo,n,m,pl,,d,,'>|<fs af='xo,n,m,sg,,o,,'>|<fs af='xe,v,any,pl,2,,eM,eM'>
+8.2	jagahoM	NN	<fs af='jagahoM,unk,,,,,,'>
+8.3	para	PSP	<fs af='para,psp,,,,,,'>
+	))
+9	((	NP
+8.4	yAwrI	NN	<fs af='yAwrI,n,m,sg,,d,,'>|<fs af='yAwrI,n,m,pl,,d,,'>|<fs af='yAwrI,n,m,sg,,o,,'>
+	))		
+9	((	NP	
+9.1	kuCa	QF	<fs af='kuCa,adv,,,,,,'>|<fs af='kuCa,adj,any,any,,d,,'>
+9.2	samaya	NN	<fs af='samaya,n,m,sg,,d,,'>|<fs af='samaya,n,m,pl,,d,,'>|<fs af='samaya,n,m,sg,,o,,'>|<fs af='samaya,n,m,pl,,o,,'>
+9.3	meM	PSP	<fs af='meM,psp,,,,,,'>
+9.4	hI	RP	<fs af='hI,adv,,,,,,'>
+	))		
+10	((	NP	
+10.1	mAwA	NN	<fs af='mAwA,n,f,sg,,d,,'>|<fs af='mAwA,n,f,sg,,o,,'>
+10.2	ke	PSP	<fs af='kA,psp,m,sg,,o,,'>|<fs af='kA,psp,m,pl,,d,,'>|<fs af='kA,psp,m,pl,,o,,'>
+	))		
+11	((	NP	
+11.1	xarSana	NN	<fs af='xarSana,n,m,sg,,d,,'>|<fs af='xarSana,n,m,pl,,d,,'>|<fs af='xarSana,n,m,sg,,o,,'>
+	))		
+12	((	VGNF	
+12.1	kara	VM	<fs af='kara,n,m,sg,,d,,'>|<fs af='kara,n,m,pl,,d,,'>|<fs af='kara,n,m,sg,,o,,'>|<fs af='kara,v,any,any,any,,0,0'>
+	))		
+13	((	VGF	
+13.1	lOta	VM	<fs af='lOta,v,any,any,any,,0,0'>
+13.2	sakawe	VAUX	<fs af='saka,v,m,pl,any,,wA,wA'>
+13.3	hEM	VAUX	<fs af='hE,v,any,pl,1,,hE,hE'>|<fs af='hE,v,any,pl,3,,hE,hE'>
+13.4	.	SYM	<fs af='.,punc,,,,,,'>
+	))
+</Sentence>
+

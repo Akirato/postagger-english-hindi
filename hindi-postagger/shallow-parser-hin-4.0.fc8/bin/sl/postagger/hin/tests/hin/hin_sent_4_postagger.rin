@@ -1,0 +1,12 @@
+<Sentence id="4">
+1	isalie	unk	<fs af='isaliye,avy,,,,,,'>
+2	isa	unk	<fs af='yaha,pn,any,sg,3,o,,'>
+3	JIla	unk	<fs af='JIla,n,f,sg,,d,,'>|<fs af='JIla,n,f,sg,,o,,'>
+4	ko	unk	<fs af='ko,psp,,,,,,'>
+5	SeRanAga	unk	<fs af='SeRanAga,n,m,sg,,d,,'>|<fs af='SeRanAga,n,m,pl,,d,,'>|<fs af='SeRanAga,n,m,sg,,o,,'>|<fs af='SeRanAga,n,m,pl,,o,,'>
+6	JIla	unk	<fs af='JIla,n,f,sg,,d,,'>|<fs af='JIla,n,f,sg,,o,,'>
+7	kahA	unk	<fs af='kaha,v,m,sg,any,,yA,yA'>
+8	jAwA	unk	<fs af='jA,v,m,sg,any,,wA,wA'>
+9	hE	unk	<fs af='hE,v,any,sg,2,,hE,hE'>|<fs af='hE,v,any,sg,3,,hE,hE'>
+10	.	unk	<fs af='.,punc,,,,,,'>
+</Sentence>

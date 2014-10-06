@@ -1,0 +1,15 @@
+The package is provide by LTRC, IIIT Hyderabad.
+
+Dependencies (to be installed before installation): g++,gcc,bash,perl
+Get the package.
+  - wget http://ltrc.iiit.ac.in/analyzer/hindi/shallow-parser-hin-4.0.fc8.tar.gz
+  - Refer shallow-parser-hin-4.0.fc8/INSTALL for installation
+  
+The package provides the parsing at various levels.
+For postags: 
+  - After running the parser.
+  - postags will be stored in OUTPUT.tmp/postagger.tmp
+
+To get output in good format:
+  - Run correctFormatPostags.py OUTPUT.tmp/postagger.tmp
+

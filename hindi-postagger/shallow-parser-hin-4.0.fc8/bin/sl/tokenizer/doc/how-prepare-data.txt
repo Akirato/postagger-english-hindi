@@ -1,0 +1,15 @@
+
+The design of this tokenizer is generic and can be used for any language.
+I have test it throughly for Hindi. and gives good accuracy.
+
+For Hindi we have generate the acronym list, we also some special symbols
+and create a file <language>.acr in data directory.
+
+To use it for your language you have put acronyms or tokens which you want to
+avoide as sentence split or single token in data/<language>.acr file.
+
+For help Hindi data are created by using "sample-acronym-data-hin" directory.
+
+
+
+For Good Accurcy use input encoding as utf-8.

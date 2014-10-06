@@ -1,0 +1,35 @@
+<Sentence id="5">
+1	((	NP	
+1.1	XarawI	NN	<fs af='XarawI,n,f,sg,,d,,'>|<fs af='XarawI,n,f,pl,,d,,'>|<fs af='XarawI,n,f,sg,,o,,'>|<fs af='XarawI,n,f,pl,,o,,'>
+1.2	para	PSP	<fs af='para,psp,,,,,,'>
+	))		
+2	((	NP	
+2.1	kahIM	PRP	<fs af='kahIM,adv,,,,,,' poslcat="NM">|<fs af='kaha,v,f,pl,any,,yA,yA' poslcat="NM">
+	))		
+3	((	NP	
+3.1	svarga	NN	<fs af='svarga,n,m,sg,,d,,'>|<fs af='svarga,n,m,pl,,d,,'>|<fs af='svarga,n,m,sg,,o,,'>
+	))		
+4	((	VGF	
+4.1	hE	VM	<fs af='hE,v,any,sg,2,,hE,hE'>|<fs af='hE,v,any,sg,3,,hE,hE'>
+4.2	,	SYM	<fs af=',,punc,,,,,'>
+	))		
+5	((	CCP	
+5.1	wo	CC	<fs af='wo,avy,,,,,,'>
+	))		
+6	((	NP	
+6.1	vaha	PRP	<fs af='vaha,pn,any,sg,3,d,,'>
+	))		
+7	((	NP	
+7.1	kaSmIra	NNP	<fs af='kaSmIra,n,m,sg,,d,,'>|<fs af='kaSmIra,n,m,pl,,d,,'>|<fs af='kaSmIra,n,m,sg,,o,,'>|<fs af='kaSmIra,n,m,pl,,o,,'>
+7.2	kI	PSP	<fs af='kA,psp,f,sg,,d,,'>|<fs af='kA,psp,f,sg,,o,,'>|<fs af='kA,psp,f,pl,,d,,'>|<fs af='kA,psp,f,pl,,o,,'>
+	))		
+8	((	NP	
+8.1	KUbasUrawa	JJ	<fs af='KUbasUrawa,adj,any,any,,any,,'>
+8.2	vAxiyAz	NN	<fs af='vAxiyAz,unk,,,,,,' poslcat="NM">
+8.3	hI	RP	<fs af='hI,adv,,,,,,' poslcat="NM">
+	))		
+9	((	VGF	
+9.1	hEM	VAUX	<fs af='hE,v,any,pl,1,,hE,hE'>|<fs af='hE,v,any,pl,3,,hE,hE'>
+9.2	.	SYM	<fs af='.,punc,,,,,,' poslcat="NM">
+	))		
+</Sentence>

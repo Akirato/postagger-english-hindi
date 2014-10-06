@@ -1,0 +1,84 @@
+						Shallow Parser Hindi (Version 4.0)
+						----------------------------------
+Shallow Parser Hindi :
+
+The Hindi shallow parser gives the analysis of a Hindi sentence at various
+levels. The analysis begins at the morphological level and accumulates at
+results of POS tagger and chunker*. The final ouput combines the results
+of all these levels and shows them in a single representation (called
+Shakti Standard Format)**. 
+
+1- Requirements:
+----------------
+ Operating System		:	LINUX (tested on Fedora-8 lower versions)
+
+ Compiler/Interpreter/Librarie(s):	g++, Perl and SSF API's
+
+2- Directory Structure:
+-----------------------
+
+shallow-parser-hin-4.0
+   |
+   |---bin
+   |	|--sys
+   |    |    |-convertor
+   |	|    |-hin
+   |	|	 
+   |	|--sl
+   |	   |-tokenizer 
+   |       |       
+   |	   |-morph
+   |       |       
+   |       |-postagger       
+   |	   |
+   |	   |-chunker
+   |       |
+   |       |-pruning 
+   |       |   
+   |	   |-pickonemorph 
+   |	   |	
+   |	   |-headcomputation
+   |	   |	
+   |       |-vibhakticomputation
+   |	 
+   |---data_bin
+   |	|--sl
+   |	   |-morph
+   |       |       
+   |       |-postagger       
+   |	   |
+   |	   |-chunker
+   |       |
+   |       |-pruning 
+   |
+   |
+   |---doc
+   |
+   |---tests
+   |
+   |---README-developer
+   |
+   |---README-user
+   |
+   |---README-INSTALL-FAQ
+
+
+To see the Intermediate output of the modules check
+   OUTPUT.tmp/filename.tmp
+
+2- Documents
+-------------
+     [i] doc/chunk_pos_ann_guidelines.pdf : Chunking and POS annotation
+					    guidelines
+    [ii] doc/ssf-guide-4oct07.pdf         : Shakti Standard Format Guide
+   [iii] doc/wx-chart.jpg		  : WX notation
+
+----------------------------------------    
+Any Queries Contact:
+----------------------------------------
+   Avinesh PVS,Kunal Sachdeva,Ankush Soni
+   Language Technologies Research Center
+   IIIT Hyderabad
+   (shallowparser@research.iiit.ac.in)
+-----------------------------------------
+

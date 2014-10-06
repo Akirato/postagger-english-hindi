@@ -1,0 +1,13 @@
+﻿Rules
+1. In case of NN most of the time amiguity is in case marking(direct ,oblique).We can decide the case on the basis of following PSP.
+Rule 1: If NN is just followed by PSP, then we will take only the feature structures having oblique case. Else  we will take the direct case.
+
+
+
+2. In case of JJ the case(d/o),should agree with the noun it is modifying.
+	Rule 2: If JJ has multiple morph analysis then we will look for noun it is modifying and we will take the morph analysis of JJ having case marked same as that of modified noun and eliminate the rest.
+
+
+3. In case of PSP the pruning module is giving multiple morph analysis for ‘ke’ and ‘kI’.
+Rule 3: We will look for the noun to which our PSP is related and will keep the morph analysis having gender and case agreeing with the gender and case of the noun to which our PSP is related and eliminate the rest.
+Most of the time the noun to which our PSP is related is found in the next chunk to chunk containing PSP.(Most probably head of the chunk).

@@ -1,0 +1,38 @@
+<Sentence id="1">
+1	yahAz	PRP	<fs af='yahAz,adv,,,,,,'>|<fs af='yahAz,psp,,,,,,'>
+2	para	PSP	<fs af='para,psp,,,,,,'>
+3	trasta	NN	<fs af='trasta,n,m,sg,,d,,'>|<fs af='trasta,n,m,pl,,d,,'>|<fs af='trasta,n,m,sg,,o,,'>|<fs af='trasta,n,m,pl,,o,,'>
+4	ke	PSP	<fs af='kA,psp,m,sg,,o,,'>|<fs af='kA,psp,m,pl,,d,,'>|<fs af='kA,psp,m,pl,,o,,'>
+5	xvArA	PSP	<fs af='xvArA,psp,,,,,,'>|<fs af='xvArA,psp,,,,,,'>
+6	yAwriyoM	NN	<fs af='yAwrI,n,m,pl,,o,,'>
+7	kI	PSP	<fs af='kA,psp,f,sg,,d,,'>|<fs af='kA,psp,f,sg,,o,,'>|<fs af='kA,psp,f,pl,,d,,'>|<fs af='kA,psp,f,pl,,o,,'>|<fs af='kara,v,f,sg,any,,yA,yA'>
+8	suviXA	NN	<fs af='suviXA,n,f,sg,,d,,'>|<fs af='suviXA,n,f,sg,,o,,'>
+9	ke	PSP	<fs af='kA,psp,m,sg,,o,,'>|<fs af='kA,psp,m,pl,,d,,'>|<fs af='kA,psp,m,pl,,o,,'>
+10	lie	PSP	<fs af='le,v,m,pl,any,,yA,yA'>
+11	unaKatolA	NNP	<fs af='unaKatolA,unk,,,,,,'>
+12	(	SYM	<fs af='(,punc,,,,,,'>
+13	ropa	XC	<fs af='ropa,v,any,any,any,,0,0'>
+14	ve	PRP	<fs af='vaha,pn,any,pl,3,d,,'>
+15	)	SYM	<fs af='),punc,,,,,,'>
+16	banAyA	VM	<fs af='banA,v,m,sg,any,,yA,yA'>
+17	gayA	VAUX	<fs af='jA,v,m,sg,any,,yA,yA'>
+18	hE	VAUX	<fs af='hE,v,any,sg,2,,hE,hE'>|<fs af='hE,v,any,sg,3,,hE,hE'>
+19	,	SYM	<fs af=',,punc,,,,,,'>
+20	jisase	PRP	<fs af='jo,pn,any,sg,3,o,,'>
+21	xo	QC	<fs af='xo,n,m,sg,,d,,'>|<fs af='xo,n,m,pl,,d,,'>|<fs af='xo,n,m,sg,,o,,'>|<fs af='xe,v,any,pl,2,,eM,eM'>
+22	jagahoM	NN	<fs af='jagahoM,unk,,,,,,'>
+23	para	PSP	<fs af='para,psp,,,,,,'>
+24	yAwrI	NN	<fs af='yAwrI,n,m,sg,,d,,'>|<fs af='yAwrI,n,m,pl,,d,,'>|<fs af='yAwrI,n,m,sg,,o,,'>
+25	kuCa	QF	<fs af='kuCa,adv,,,,,,'>|<fs af='kuCa,adj,any,any,,d,,'>
+26	samaya	NN	<fs af='samaya,n,m,sg,,d,,'>|<fs af='samaya,n,m,pl,,d,,'>|<fs af='samaya,n,m,sg,,o,,'>|<fs af='samaya,n,m,pl,,o,,'>
+27	meM	PSP	<fs af='meM,psp,,,,,,'>
+28	hI	RP	<fs af='hI,adv,,,,,,'>
+29	mAwA	NN	<fs af='mAwA,n,f,sg,,d,,'>|<fs af='mAwA,n,f,sg,,o,,'>
+30	ke	PSP	<fs af='kA,psp,m,sg,,o,,'>|<fs af='kA,psp,m,pl,,d,,'>|<fs af='kA,psp,m,pl,,o,,'>
+31	xarSana	NN	<fs af='xarSana,n,m,sg,,d,,'>|<fs af='xarSana,n,m,pl,,d,,'>|<fs af='xarSana,n,m,sg,,o,,'>
+32	kara	VM	<fs af='kara,n,m,sg,,d,,'>|<fs af='kara,n,m,pl,,d,,'>|<fs af='kara,n,m,sg,,o,,'>|<fs af='kara,v,any,any,any,,0,0'>
+33	lOta	VM	<fs af='lOta,v,any,any,any,,0,0'>
+34	sakawe	VAUX	<fs af='saka,v,m,pl,any,,wA,wA'>
+35	hEM	VAUX	<fs af='hE,v,any,pl,1,,hE,hE'>|<fs af='hE,v,any,pl,3,,hE,hE'>
+36	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

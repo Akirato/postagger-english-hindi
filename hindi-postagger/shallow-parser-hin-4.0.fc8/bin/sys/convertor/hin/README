@@ -1,0 +1,79 @@
+convertor-indic : 
+
+convertor is used for converting the input file into utf format or in wx 
+format.The fields which are converting is TKN,lex,vib,name and head in SSF.
+If the input file is in wx format the program converts only the words which 
+are in wx format irrespective of them starting with or without "@" symbol 
+and if the inputfile is in utf format the program converts only the words 
+which are in the source language mentioned by the user irrespective of them 
+starting with or without "@" symbol. The converter will not touch any  third
+language( other than source language) Unicode character .( i.e) while 
+processing. The input file must be in SSF or TEXT format.
+
+How to use ??
+
+1) convertor-indic (wx2utf or utf2wx)
+
+perl -C convertor.pl --format=[ssf|text] --lang=[hin|tel|..] --src_encoding=[utf|wx] \
+--tgt_encoding=[wx|utf] --input=<input-file>
+
+e.g.
+
+a) UTF to WX for Hindi (SSF format)
+
+perl -C convertor.pl -f=ssf -l=hin -s=utf -t=wx -i=tests/hin/ssf/test_case_3_utf.in
+
+output will be printed to STDOUT
+
+b) WX to UTF fo Hindi (SSF format)
+
+perl -C convertor.pl -f=ssf -l=hin -s=wx -t=utf -i=tests/hin/ssf/test_case_3_wx.in
+
+output will be printed to STDOUT
+
+c) UTF to WX for Hindi (TEXT format)
+
+perl -C convertor.pl -f=text -l=hin -s=utf -t=wx -i=tests/hin/text/sample_story_utf.in
+
+d) WX to UTF fo Hindi (TEXT format)
+
+perl -C convertor.pl -f=text -l=hin -s=wx -t=utf -i=tests/hin/text/sample_story_wx.in
+
+output will be printed to STDOUT
+
+e) more information check
+
+perl convertor.pl --help
+
+
+Directory Structure:
+
+convertor-indic
+     |
+     |---lib (source code of the convertor library)
+     |
+     |---ssfapi (SSF API's)
+     |
+     |---tests (contains the referenece input and output)
+     |
+     |---doc (documentaion)
+     |
+     |---extra-files (some backup/extra files)
+     |
+     |---convertor_indic.pl (main file)
+     |
+     |---wx2utf.pl (conversion wx2utf file)
+     |
+     |---utf2wx.pl (conversion utf2wx file)
+     |
+     |---README (How to run/use the module)
+     |
+     |---ChangeLog (version information)
+
+
+
+Contact :
+Rashid Ahmad
+Expert Software Ltd.
+rashid101b@gmail.com
+

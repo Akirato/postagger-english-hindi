@@ -1,0 +1,43 @@
+This is a very little use of the linguistic power provided by the nltk package.
+
+Installing nltk:
+1. Install setup-tools.
+   - wget https://bootstrap.pypa.io/ez_setup.py 
+   - Run setup.py (python setup.py) to install appropriate version on its own.
+   - Refer https://pypi.python.org/pypi/setuptools to install it manually.
+
+2. Install pip.
+   - Run sudo easy_install pip
+
+3. Install Numpy (optional).
+   - Run sudo pip install -U numpy
+
+4. Install nltk. 
+   - Run sudo pip install -U nltk
+   - If you are in proxy.
+     - Set the environment proxy.
+     - Run sudo -E pip install -U nltk
+For any doubts, refer http://www.nltk.org/install.html
+
+
+Installing nltk-data.
+1. Run python
+2. In the shell run nltk.download()[No proxy].
+   - Opens up a gui menu.
+   - Install package as required. All(Recommended).
+3. For proxy,
+   - Run nltk.set_proxy('http://proxy.example.com:3128', ('USERNAME', 'PASSWORD'))
+   - Run nltk.download()
+
+For any doubts, refer http://www.nltk.org/data.html
+Now you are ready to run the tagger.
+
+
+Run the tagger.
+1. Usage= python englishTagger.py <sentence>
+2. Output:
+   list of tuples in the form (word,pos-tag)
+
+Report the bugs in the issue tracker.
+
+

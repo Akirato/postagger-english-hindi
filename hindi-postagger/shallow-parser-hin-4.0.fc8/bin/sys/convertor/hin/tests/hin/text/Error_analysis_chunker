@@ -1,0 +1,1871 @@
+
+
+set : 1
+Gold
+NP agale sADZe wIna sAla meM
+BLK
+Parsed
+JJP agale
+NP sADZe wIna sAla meM
+
+
+set : 2
+Gold
+NP rakRA maMwrI praNaba muKarjI ne
+BLK
+Parsed
+NP rakRA maMwrI
+NP praNaba muKarjI ne
+
+
+set : 3
+Gold
+NP ParavarI , 2008 waka
+NP 24 hOYka ejetI vimAna
+BLK
+Parsed
+NP ParavarI ,
+NP 2008 waka
+NP 24 hOYka ejetI
+NP vimAna
+
+
+set : 4
+Gold
+NP hiMxuswAna eyaronatiksa limiteda meM
+BLK
+Parsed
+NP hiMxuswAna
+NP eyaronEYtiksa limiteda meM
+
+
+set : 5
+Gold
+NP mArca , 2008 se
+BLK
+Parsed
+NP mArca ,
+NP 2008 se
+
+
+set : 6
+Gold
+NP britiSa erospesa ne
+NP ' mEna - dijAina varka ' ke lie
+NP pAMca karodZa amerikI dOYlara kI
+VGNN nahIM kie jAne para
+NP sOxA
+JJP raxxa
+BLK
+Parsed
+NP britiSa erospesa ne '
+NP mEna - dijAina varka ' ke lie
+NP pAMca karodZa amerikI
+NP dOYlara kI
+VGF nahIM kie
+NP jAne para
+NP sOxA raxxa
+
+
+set : 7
+Gold
+BLK
+Parsed
+
+
+set : 8
+Gold
+NP pahale bEca kA
+BLK
+Parsed
+NP pahale
+NP bEca kA
+
+
+set : 9
+Gold
+NP xUsare
+NP wIsare
+NP bEca kA
+NP 20 siwaMbara , 2004
+NP 3 mArca , 2005 se
+BLK
+Parsed
+JJP xUsare
+NP wIsare bEca kA
+NP 20 siwaMbara ,
+NP 2004
+NP 3 mArca ,
+NP 2005 se
+
+
+set : 10
+Gold
+BLK
+Parsed
+
+
+set : 11
+Gold
+NP isake
+NP AXAra para
+BLK
+Parsed
+NP isake AXAra para
+
+
+set : 12
+Gold
+NP maMjUrI
+BLK
+Parsed
+JJP maMjUrI
+
+
+set : 13
+Gold
+NP 155 mimI 52 kElibara kI
+BLK
+Parsed
+NP 155 mimI
+NP 52 kElibara kI
+
+
+set : 14
+Gold
+JJP baxanAma
+BLK
+Parsed
+NP baxanAma
+
+
+set : 15
+Gold
+NP haMgAmA
+VGF huA
+BLK
+Parsed
+VGF haMgAmA huA
+
+
+set : 16
+Gold
+NP wo
+NP kama sAMsaxa
+NP saxana meM
+NP unakI
+NP maxaxa ko
+NP rela maMwrI lAlU prasAxa yAxava
+NP sAMsaxa
+RBP POrana
+BLK
+Parsed
+CCP wo
+NP kama sAMsaxa saxana meM
+NP unakI maxaxa ko
+NP rela maMwrI
+NP lAlU prasAxa yAxava
+NP sAMsaxa POrana
+
+
+set : 17
+Gold
+NP lokasaBA aXyakRa somanAWa catarjI ko
+NP KAsI muSkila
+BLK
+Parsed
+NP lokasaBA
+NP aXyakRa somanAWa catarjI ko
+NP KAsI
+JJP muSkila
+
+
+set : 18
+Gold
+BLK
+Parsed
+
+
+set : 19
+Gold
+NP wo
+BLK
+Parsed
+CCP wo
+
+
+set : 20
+Gold
+BLK
+Parsed
+
+
+set : 21
+Gold
+BLK
+Parsed
+
+
+set : 22
+Gold
+NP jArja hI
+BLK
+Parsed
+JJP jArja hI
+
+
+set : 23
+Gold
+BLK
+Parsed
+
+
+set : 24
+Gold
+NP isakI
+NP jAMca
+BLK
+Parsed
+NP isakI jAMca
+
+
+set : 25
+Gold
+NP isakI
+NP jAMca
+BLK
+Parsed
+NP isakI jAMca
+
+
+set : 26
+Gold
+BLK
+Parsed
+
+
+set : 27
+Gold
+NP unake
+NP BARaNa meM
+BLK
+Parsed
+NP unake BARaNa meM
+
+
+set : 28
+Gold
+NP kAMgresa aXyakRa soniyA gAMXI para
+NP tiWI
+VGF kI
+BLK
+Parsed
+NP kAMgresa aXyakRa
+NP soniyA gAMXI para
+NP tiWI kI
+
+
+set : 29
+Gold
+VGNF karawe
+VGF xeKe gae
+BLK
+Parsed
+VGF karawe xeKe gae
+
+
+set : 30
+Gold
+JJP KadZe
+VGF hue
+BLK
+Parsed
+VGF KadZe hue
+
+
+set : 31
+Gold
+NP karIba 15 minata waka
+BLK
+Parsed
+RBP karIba
+NP 15 minata waka
+
+
+set : 32
+Gold
+NP lokasaBA aXyakRa somanAWa catarjI ne
+NP binA notisa ke
+BLK
+Parsed
+NP lokasaBA
+NP aXyakRa somanAWa catarjI ne
+NEGP binA
+NP notisa ke
+
+
+set : 33
+Gold
+BLK
+Parsed
+
+
+set : 34
+Gold
+NP isakA
+NP jikra
+VGNN karane
+VGF xiyA jAnA cAhie
+BLK
+Parsed
+NP isakA jikra
+VGF karane xiyA jAnA cAhie
+
+
+set : 35
+Gold
+NP isa kI
+NP prawi
+BLK
+Parsed
+NP isa kI prawi
+
+
+set : 36
+Gold
+NP jisa waraha se
+NP usakA
+NP pUrA byorA
+BLK
+Parsed
+NP jisa
+NP waraha se
+NP usakA pUrA byorA
+
+
+set : 37
+Gold
+BLK
+Parsed
+
+
+set : 38
+Gold
+NP BAjapA saxasyoM ne
+NP apane
+NP hisse kA
+BLK
+Parsed
+NP BAjapA
+NP saxasyoM ne
+NP apane hisse kA
+
+
+set : 39
+Gold
+NP xo xinoM
+NP pahale
+NP rARtrapawi SAsana ke
+NP lAlU prasAxa yAxava
+RBP jamakara
+VGNF karawe
+VGF xiKAI xie
+BLK
+Parsed
+NP xo xinoM pahale
+NP rARtrapawi
+NP SAsana ke
+NP lAlU prasAxa
+CCP yAxava
+VGNF jamakara
+VGF karawe xiKAI xie
+
+
+set : 40
+Gold
+BLK
+Parsed
+
+
+set : 41
+Gold
+NP kyA
+NP sAjiSa
+BLK
+Parsed
+NP kyA sAjiSa
+
+
+set : 42
+Gold
+BLK
+Parsed
+
+
+set : 43
+Gold
+RBP jamakara
+BLK
+Parsed
+VGNF jamakara
+
+
+set : 44
+Gold
+NP JamAJama bAriSa ke bIca
+NP apanI
+NP Pilma
+NP ' xa rAijiMga ' ke
+NP kaI sIna
+BLK SUta
+BLK
+Parsed
+NP JamAJama
+NP bAriSa ke bIca
+NP apanI Pilma '
+NP xa rAijiMga ' ke
+NP kaI sIna SUta
+
+
+set : 45
+Gold
+NP maMgala pAMde ke rUpa meM
+NP SUtiMga
+VGF kI
+BLK
+Parsed
+NP maMgala pAMde ke
+NP rUpa meM
+NP SUtiMga kI
+
+
+set : 46
+Gold
+BLK
+Parsed
+
+
+set : 47
+Gold
+NP SOYta
+BLK oke
+BLK
+Parsed
+NP SOYta oke
+
+
+set : 48
+Gold
+BLK
+Parsed
+
+
+set : 49
+Gold
+RBP barabasa
+BLK
+Parsed
+NP barabasa
+
+
+set : 50
+Gold
+BLK
+Parsed
+
+
+set : 51
+Gold
+BLK
+Parsed
+
+
+set : 52
+Gold
+NP kadZe iMwajAma ke kAraNa
+NP cahewe kalAkAra kI
+BLK
+Parsed
+NP kadZe
+NP iMwajAma ke
+NP kAraNa
+VGNF cahewe
+NP kalAkAra kI
+
+
+set : 53
+Gold
+JJP nirASa
+BLK
+Parsed
+NP nirASa
+
+
+set : 54
+Gold
+NP karIba sADZe 11 baje waka
+BLK
+Parsed
+RBP karIba
+NP sADZe 11
+VGNF baje waka
+
+
+set : 55
+Gold
+NP Poto BI
+BLK
+Parsed
+VGNF Poto BI
+
+
+set : 56
+Gold
+NP unake
+NP parivAra ke
+BLK
+Parsed
+NP unake parivAra ke
+
+
+set : 57
+Gold
+BLK
+Parsed
+
+
+set : 58
+Gold
+NP keka
+NP SUtiMga meM
+NP haWiyAra ke rUpa meM
+VGNF kie jA rahe
+NP karIba eka Puta
+JJP laMbe
+NP cAkU se
+BLK
+Parsed
+NP keka SUtiMga meM
+NP haWiyAra ke
+NP rUpa meM
+VGF kie jA rahe
+RBP karIba
+NP eka Puta
+NP laMbe cAkU se
+
+
+set : 59
+Gold
+NP karIba sO saxasyoM ne
+NP baXAI
+VGF xI
+BLK
+Parsed
+RBP karIba
+NP sO saxasyoM ne
+VGF baXAI xI
+
+
+set : 60
+Gold
+NP amIna ke muwAbika
+NP ' xa rAijiMga '
+NP karIba 95 PIsaxI
+BLK
+Parsed
+NP amIna ke
+NP muwAbika '
+NP xa rAijiMga '
+RBP karIba
+NP 95 PIsaxI
+
+
+set : 61
+Gold
+NP SUtiMga
+NP laxxAKa
+BLK
+Parsed
+NP SUtiMga laxxAKa
+
+
+set : 62
+Gold
+NP yUnita
+NP siwaMbara meM
+BLK
+Parsed
+NP yUnita siwaMbara meM
+
+
+set : 63
+Gold
+BLK
+Parsed
+
+
+set : 64
+Gold
+JJP kula
+NP 3 se
+NP 4 minata ke hI
+BLK
+Parsed
+NP kula
+NP 3 se 4 minata ke hI
+
+
+set : 65
+Gold
+NP Poto
+VGF KiMcavAI
+BLK
+Parsed
+NP Poto KiMcavAI
+
+
+set : 66
+Gold
+RBP kyA ,
+NP manA
+VGF kara xiyA
+BLK
+Parsed
+NP kyA ,
+VGF manA kara xiyA
+
+
+set : 67
+Gold
+NP Amira ne
+NP pAsa
+JJP KadZe
+VGNN KIMcane
+BLK
+Parsed
+NP Amira ne pAsa
+VGNF KadZe
+VGF KIMcane
+
+
+set : 68
+Gold
+NP nyUnawama se
+NP nIce
+BLK
+Parsed
+NP nyUnawama se nIce
+
+
+set : 69
+Gold
+NP karanAla
+NP rAjaXAnI xillI meM
+NP ravivAra wadZake
+NP kohare kA
+BLK
+Parsed
+VGNN karanAla
+NP rAjaXAnI
+NP xillI meM
+NP ravivAra
+NP wadZake kohare kA
+
+
+set : 70
+Gold
+NP isakI vajaha se
+JJP raxxa
+BLK
+Parsed
+NP isakI
+NP vajaha se
+NP raxxa
+
+
+set : 71
+Gold
+JJP sabase TaMdA
+JJP xarja
+BLK
+Parsed
+NP sabase TaMdA xarja
+
+
+set : 72
+Gold
+NP 12 digrI selsiyasa
+BLK rikArda
+NP xo digrI
+NP nIce
+BLK
+Parsed
+NP 12 digrI selsiyasa rikArda
+NP xo digrI nIce
+
+
+set : 73
+Gold
+NP TaMda
+BLK
+Parsed
+JJP TaMda
+
+
+set : 74
+Gold
+BLK
+Parsed
+
+
+set : 75
+Gold
+NP rAjaXAnI xillI meM
+NP lagaBaga pAMca baje
+NP kohare ke kAraNa
+BLK
+Parsed
+NP rAjaXAnI
+NP xillI meM
+RBP lagaBaga
+NP pAMca
+VGNF baje
+NP kohare ke
+NP kAraNa
+
+
+set : 76
+Gold
+NP eyaraporta sUwroM ne
+NP udZAnoM ke samaya para
+NP isakA
+NP praBAva
+BLK
+Parsed
+NP eyaraporta
+NP sUwroM ne
+NP udZAnoM ke
+NP samaya para
+NP isakA praBAva
+
+
+set : 77
+Gold
+NP 65 digrI selsiyasa
+BLK rikArda
+NP isa mOsama ke hisAba se
+BLK
+Parsed
+NP 65 digrI selsiyasa rikArda
+NP isa mOsama ke
+NP hisAba se
+
+
+set : 78
+Gold
+NP 212 digrI selsiyasa
+BLK rikOYrda
+BLK
+Parsed
+NP 212 digrI
+NP selsiyasa rikOYrda
+
+
+set : 79
+Gold
+NP kohare ke kAraNa
+JJP raxxa
+NP lAla kilA eksapresa
+BLK
+Parsed
+NP kohare ke
+NP kAraNa
+NP raxxa
+NP lAla kilA
+NP eksapresa
+
+
+set : 80
+Gold
+NP kAPI sarxa rAweM
+BLK
+Parsed
+NP kAPI sarxa
+NP rAweM
+
+
+set : 81
+Gold
+BLK
+Parsed
+
+
+set : 82
+Gold
+NP rARtrIya mahilA Ayoga
+BLK
+Parsed
+NP rARtrIya mahilA
+NP Ayoga
+
+
+set : 83
+Gold
+BLK
+Parsed
+
+
+set : 84
+Gold
+NP xAKilA
+NP skUla meM
+BLK
+Parsed
+NP xAKilA skUla meM
+
+
+set : 85
+Gold
+BLK
+Parsed
+
+
+set : 86
+Gold
+BLK
+Parsed
+
+
+set : 87
+Gold
+NP vahAM
+NP mahilA vikAsa viBAga ko
+BLK
+Parsed
+NP vahAM mahilA
+NP vikAsa
+NP viBAga ko
+
+
+set : 88
+Gold
+NP kiwane baccoM kA
+NP xAKilA
+NP skUla meM
+NP unake
+VGNN nahIM jAne
+NP kyA vajaha
+BLK
+Parsed
+NP kiwane
+NP baccoM kA
+NP xAKilA skUla meM
+NP unake skUla
+VGF nahIM jAne
+NP kyA
+NP vajaha
+
+
+set : 89
+Gold
+NP sunavAI
+VGF hogI
+BLK
+Parsed
+VGF sunavAI hogI
+
+
+set : 90
+Gold
+NP isa yojanA ke wahawa
+NP uwwara pUrvI rAjyoM ko BI
+BLK
+Parsed
+NP isa yojanA ke
+NP wahawa uwwara
+NP pUrvI rAjyoM ko BI
+
+
+set : 91
+Gold
+NP jAnakArI ke muwAbika
+NP Ayoga meM
+NP anya mAmale
+JJP xarja
+NP anya kisI BI rAjya se
+NEGP na ke barAbara
+BLK
+Parsed
+NP jAnakArI ke
+NP muwAbika Ayoga meM
+NP anya mAmale xarja
+NP anya kisI BI
+NP rAjya se
+NEGP na ke
+JJP barAbara
+
+
+set : 92
+Gold
+NP isa yojanA ke wahawa
+NP jAMca padZawAla
+NP kina vajahoM se
+NP mAmale
+NP Ayoga waka
+VGF nahIM pahuMca pAwe hEM
+BLK ?
+Parsed
+NP isa yojanA ke
+NP wahawa
+NP jAMca
+NP padZawAla
+NP kina
+NP vajahoM se
+NP mAmale Ayoga waka
+VGF nahIM pahuMca pAwe hEM ?
+
+
+set : 93
+Gold
+?
+NP bagalihAra panabijalI pariyojanA para
+VGNF huI
+NP vArwA prakriyA para
+BLK
+Parsed
+
+NP bagalihAra
+NP panabijalI pariyojanA para
+VGF huI
+NP vArwA
+NP prakriyA para
+
+
+set : 94
+Gold
+NP vArwA prakriyA para
+BLK
+Parsed
+NP vArwA
+NP prakriyA para
+
+
+set : 95
+Gold
+NP ApasI BarosA
+BLK
+Parsed
+NP ApasI
+NP BarosA
+
+
+set : 96
+Gold
+VGNN GatAne
+BLK
+Parsed
+VGF GatAne
+
+
+set : 97
+Gold
+NP pawA
+VGF cala gayA WA
+NP yaha muxxA
+NP vArwA ke jarie
+NP isalie
+BLK
+Parsed
+JJP pawA
+NP cala gayA WA
+NP yaha
+NP muxxA vArwA ke jarie isalie
+
+
+set : 98
+Gold
+VGNN sulaJAnA
+NP hamArI
+NP prAWamikawA
+BLK
+Parsed
+VGNF sulaJAnA
+NP hamArI prAWamikawA
+
+
+set : 99
+Gold
+NP apanI
+NP ApawwiyoM ko
+BLK
+Parsed
+NP apanI ApawwiyoM ko
+
+
+set : 100
+Gold
+BLK
+Parsed
+
+
+set : 101
+Gold
+BLK
+Parsed
+
+
+set : 102
+Gold
+NP pawA
+BLK
+Parsed
+JJP pawA
+
+
+set : 103
+Gold
+NP karIba 90 seMtImItara nIce waka
+BLK
+Parsed
+RBP karIba
+NP 90 seMtImItara nIce waka
+
+
+set : 104
+Gold
+RBP xobArA
+JJP kqRi yogya
+BLK
+Parsed
+NP xobArA kqRi
+JJP yogya
+
+
+set : 105
+Gold
+NP pawA
+BLK
+Parsed
+JJP pawA
+
+
+set : 106
+Gold
+JJP bahuwa jyAxA
+JJP xarja
+BLK
+Parsed
+NP bahuwa jyAxA xarja
+
+
+set : 107
+Gold
+BLK
+Parsed
+
+
+set : 108
+Gold
+NP ' yaha
+NP KArepana kI
+BLK
+Parsed
+NP ' yaha KArepana kI
+
+
+set : 109
+Gold
+RBP xobArA
+VGF laga jAeMge
+BLK  '
+Parsed
+NP xobArA
+VGF laga jAeMge  '
+
+
+set : 110
+Gold
+'
+NP sunAmI
+JJP praBAviwa
+NP 45 watIya gAMvoM se
+NP lagaBaga sO alaga - alaga sWAnoM se
+BLK
+Parsed
+
+NP sunAmI praBAviwa 45
+NP watIya gAMvoM se
+RBP lagaBaga
+NP sO alaga - alaga sWAnoM se
+
+
+set : 111
+Gold
+RBP jalxa hI
+BLK
+Parsed
+NP jalxa hI
+
+
+set : 112
+Gold
+NP isalie
+BLK
+Parsed
+CCP isalie
+
+
+set : 113
+Gold
+NP praXAnamaMwrI
+BLK
+Parsed
+JJP praXAnamaMwrI
+
+
+set : 114
+Gold
+NP ' kora grupa OYPa wibbawana kOYjZa ' kA
+VGNN kahanA
+VGF hE
+NP keMxra sarakAra ko
+BLK
+Parsed
+NP ' kora grupa OYPa
+NP wibbawana kOYjZa ' kA
+VGF kahanA hE
+NP keMxra
+NP sarakAra ko
+
+
+set : 115
+Gold
+NP wibbawa
+JJP samarWaka
+NP sarvaxalIya saMsaxIya saMGa ne
+BLK
+Parsed
+NP wibbawa samarWaka sarvaxalIya saMsaxIya saMGa ne
+
+
+set : 116
+Gold
+BLK
+Parsed
+
+
+set : 117
+Gold
+NP BArawa yAwrA ke vakwa
+NP wibbawa viRaya para
+NP pUrva vixeSa saciva laKana maharowrA ne
+NP koI BI sarakAra
+BLK
+Parsed
+NP BArawa yAwrA ke
+NP vakwa wibbawa
+NP viRaya para
+NP pUrva
+NP vixeSa saciva laKana maharowrA ne
+NP koI BI
+NP sarakAra
+
+
+set : 118
+Gold
+NP rakRA ke lihAja se
+BLK
+Parsed
+NP rakRA ke
+NP lihAja se
+
+
+set : 119
+Gold
+BLK
+Parsed
+
+
+set : 120
+Gold
+VGNF biCAI jA rahI
+BLK
+Parsed
+VGF biCAI jA rahI
+
+
+set : 121
+Gold
+VGNN hone ke bAxa
+NP apane
+NP haWiyAra
+BLK
+Parsed
+VGNN hone ke
+NP bAxa
+NP apane haWiyAra
+
+
+set : 122
+Gold
+NP isa vakwa
+NP cIna ko
+BLK
+Parsed
+NP isa vakwa cIna ko
+
+
+set : 123
+Gold
+NP acCe riSwe
+VGF rahe hEM
+BLK
+Parsed
+JJP acCe
+VGF riSwe rahe hEM
+
+
+set : 124
+Gold
+NP hamAre
+NP kAPI karIba
+BLK
+Parsed
+NP hamAre kAPI
+RBP karIba
+
+
+set : 125
+Gold
+NP isalie ,
+BLK
+Parsed
+CCP isalie ,
+
+
+set : 126
+Gold
+NP pUrva eyara mArSala rameSa caMxra vAjapeyI kA
+VGNN kahanA
+VGF hE
+NP cIna
+NP wibbawa meM
+BLK
+Parsed
+NP pUrva eyara
+NP mArSala rameSa caMxra vAjapeyI kA
+VGF kahanA hE
+NP cIna wibbawa meM
+
+
+set : 127
+Gold
+BLK
+Parsed
+
+
+set : 128
+Gold
+BLK
+Parsed
+
+
+set : 129
+Gold
+NP usa 17 sUwrI Sarwo meM
+BLK
+Parsed
+NP usa 17 sUwrI
+NP Sarwo meM
+
+
+set : 130
+Gold
+CCP para
+NP bAxa meM
+BLK
+Parsed
+NP para bAxa meM
+
+
+set : 131
+Gold
+BLK
+Parsed
+
+
+set : 132
+Gold
+BLK
+Parsed
+
+
+set : 133
+Gold
+JJP nukasAnaxeha
+BLK
+Parsed
+NP nukasAnaxeha
+
+
+set : 134
+Gold
+NP hamArI
+NP sarakAreM
+BLK
+Parsed
+NP hamArI sarakAreM
+
+
+set : 135
+Gold
+BLK
+Parsed
+
+
+set : 136
+Gold
+NP keMxra sarakAra
+NP wibbawa ke bAre meM
+BLK
+Parsed
+NP keMxra
+NP sarakAra wibbawa ke bAre meM
+
+
+set : 137
+Gold
+BLK
+Parsed
+
+
+set : 138
+Gold
+BLK
+Parsed
+
+
+set : 139
+Gold
+NP hamArI
+NP sImAeM
+BLK
+Parsed
+NP hamArI sImAeM
+
+
+set : 140
+Gold
+NP cIna sarakAra ke
+NP apanI
+NP sImAoM kI
+BLK
+Parsed
+NP cIna
+NP sarakAra ke
+NP apanI sImAoM kI
+
+
+set : 141
+Gold
+NP sArvajanika viwaraNa praNAlI
+VGNF calAyI jA rahI
+BLK
+Parsed
+NP sArvajanika viwaraNa
+NP praNAlI
+VGF calAyI jA rahI
+
+
+set : 142
+Gold
+NP 1679 lAKa tana gehUz kI
+BLK
+Parsed
+NP 1679 lAKa tana
+NP gehUz kI
+
+
+set : 143
+Gold
+NP 20 lAKa tana gehUz kI
+BLK
+Parsed
+NP 20 lAKa tana
+NP gehUz kI
+
+
+set : 144
+Gold
+NP 14766 lAKa tana gehUz kI
+BLK
+Parsed
+NP 14766 lAKa tana
+NP gehUz kI
+
+
+set : 145
+Gold
+BLK
+Parsed
+
+
+set : 146
+Gold
+NP baPara niyamoM ke muwAbika
+NP 188 lAKa tana gehUM
+BLK
+Parsed
+VGNF baPara
+NP niyamoM ke
+NP muwAbika 188 lAKa tana
+NP gehUM
+
+
+set : 147
+Gold
+NP baPara niyamoM ke muwAbika
+NP 171 lAKa tana gehUM
+BLK
+Parsed
+NP baPara niyamoM ke
+NP muwAbika 171 lAKa tana
+NP gehUM
+
+
+set : 148
+Gold
+NP kisI BI xeSa ke lie
+BLK
+Parsed
+NP kisI BI
+NP xeSa ke lie
+
+
+set : 149
+Gold
+BLK
+Parsed
+
+
+set : 150
+Gold
+NP garIbI reKA se
+NP nIce
+VGNN rahane vAle
+VGNF CapI
+BLK
+Parsed
+NP garIbI reKA se nIce
+VGNF rahane vAle
+NP CapI
+
+
+set : 151
+Gold
+NP vixeSa maMwrI ke natavara siMha
+NP kolina pAvela se
+VGNF ho rahe
+BLK
+Parsed
+NP vixeSa maMwrI ke
+NP natavara siMha
+NP kolina
+NP pAvela se
+VGF ho rahe
+
+
+set : 152
+Gold
+BLK
+Parsed
+
+
+set : 153
+Gold
+NP vASiMgatana
+JJP ravAnA
+NP sAJA hiwoM vAle
+JJP aMwarrARtrIya
+NP muxxoM para BI
+BLK
+Parsed
+NP vASiMgatana ravAnA
+NP sAJA
+NP hiwoM vAle
+NP aMwarrARtrIya muxxoM para BI
+
+
+set : 154
+Gold
+NP Aja SAma
+NP amarIkI rAjaxUwa
+NP mulAkAwa
+VGF kI
+BLK
+Parsed
+NP Aja
+NP SAma
+JJP amarIkI rAjaxUwa
+NP mulAkAwa kI
+
+
+set : 155
+Gold
+BLK
+Parsed
+
+
+set : 156
+Gold
+NP jinevA
+VGF jAeMge
+BLK
+Parsed
+VGF jinevA jAeMge
+
+
+set : 157
+Gold
+NP vaha
+NP laMxana
+BLK
+Parsed
+NP vaha laMxana
+
+
+set : 158
+Gold
+NP unakI
+NP mulAkAwa
+BLK
+Parsed
+NP unakI mulAkAwa
+
+
+set : 159
+Gold
+NP pAka xEnika ' xa nyUja ' ne
+NP BArawIya uccAyukwa
+NP SivaSaMkara menana ke sAWa
+NP naI xillI
+VGF gae
+VGNF kara
+NP vAGA sImA ke
+BLK
+Parsed
+NP pAka xEnika '
+NP xa nyUja ' ne
+NP BArawIya uccAyukwa SivaSaMkara menana ke sAWa
+VGF naI xillI gae
+VGNF kara vAGA
+NP sImA ke
+
+
+set : 160
+Gold
+NP pAkiswAnI vixeSa maMwrI
+NP BArawIya uccAyukwa
+NP SivaSaMkara menana se
+BLK
+Parsed
+NP pAkiswAnI
+NP vixeSa maMwrI
+NP BArawIya uccAyukwa SivaSaMkara menana se
+
+
+set : 161
+Gold
+NP BArawa - pAka kriketa sIrIja ke
+BLK
+Parsed
+NP BArawa - pAka kriketa
+NP sIrIja ke
+
+
+set : 162
+Gold
+NP isakI
+NP puRti
+NP yAwrA ke saMbaMXa meM
+BLK
+Parsed
+NP isakI puRti
+NP yAwrA ke
+NP saMbaMXa meM
+
+
+set : 163
+Gold
+NP koI PEsalA
+BLK
+Parsed
+NP koI
+NP PEsalA
+
+
+set : 164
+Gold
+BLK
+Parsed
+
+
+set : 165
+Gold
+NP muSarraPa
+NP pAkiswAna kriketa borda ke
+BLK
+Parsed
+NP muSarraPa pAkiswAna
+NP kriketa
+NP borda ke
+
+
+set : 166
+Gold
+NP yaha
+NP muSarraPa ko
+NP kisa mEca ko
+VGNN xeKanA
+VGF kareMge
+BLK ?
+Parsed
+NP yaha muSarraPa ko
+NP kisa
+NP mEca ko
+VGNF xeKanA
+VGF kareMge ?
+
+
+set : 167
+Gold
+?
+NP BArawa - pAka kriketa sIrIja kA
+VGNN xeKane
+BLK
+Parsed
+
+NP BArawa - pAka kriketa
+NP sIrIja kA
+VGNF xeKane
+
+
+set : 168
+Gold
+FRAGP BArawa
+FRAGP pAkiswAna
+NP sarakAra
+BLK
+Parsed
+NP BArawa
+NP pAkiswAna sarakAra
+
+
+set : 169
+Gold
+VGNN xeKane
+VGNN AnA
+VGF cAhawe hEM
+BLK
+Parsed
+VGNF xeKane
+VGF AnA cAhawe hEM
+
+
+set : 170
+Gold
+VGNN xeKane
+BLK
+Parsed
+VGNF xeKane
+
+
+set : 171
+Gold
+NP wawkAlIna rARtrapawi
+NP jiyA ula haka
+VGNN xeKane
+BLK
+Parsed
+NP wawkAlIna rARtrapawi jiyA
+NP ula haka
+VGNF xeKane
+
+
+set : 172
+Gold
+NP rilAyaMsa samUha meM
+BLK
+Parsed
+NP rilAyaMsa
+NP samUha meM
+
+
+set : 173
+Gold
+FRAGP mukeSa
+FRAGP anila
+NP aMbAnI se
+JJP alaga - alaga
+BLK
+Parsed
+NP mukeSa
+NP anila aMbAnI se
+NP alaga - alaga
+
+
+set : 174
+Gold
+NP unake
+NP pawiyoM se BI
+BLK
+Parsed
+NP unake pawiyoM se BI
+
+
+set : 175
+Gold
+BLK
+Parsed
+
+
+set : 176
+Gold
+NP apanI
+NP riporta meM
+NP unake
+NP niyaMwraNa kA BI
+BLK
+Parsed
+NP apanI riporta meM
+NP unake niyaMwraNa kA BI
+
+
+set : 177
+Gold
+BLK
+Parsed
+
+
+set : 178
+Gold
+BLK
+Parsed
+
+
+set : 179
+Gold
+BLK
+Parsed
+
+
+set : 180
+Gold
+NP koI BI bayAna
+BLK
+Parsed
+NP koI BI
+NP bayAna
+
+
+set : 181
+Gold
+NP xUsare vikalpa ke wahawa
+BLK
+Parsed
+NP xUsare vikalpa ke
+NP wahawa
+
+
+set : 182
+Gold
+NP eka nirXAriwa sImA ke wahawa
+NP niyaMwraNa
+BLK
+Parsed
+NP eka nirXAriwa sImA ke
+NP wahawa niyaMwraNa
+
+
+set : 183
+Gold
+NP sImA ke wahawa
+VGF hogI
+BLK
+Parsed
+NP sImA ke
+NP wahawa
+VGNF hogI
+
+
+set : 184
+Gold
+NP rilAyaMsa samUha kI
+BLK
+Parsed
+NP rilAyaMsa
+NP samUha kI
+
+
+set : 185
+Gold
+NP apane - apane
+NP hisse vAlI
+JJP hAsila
+VGF ho sakegA
+BLK
+Parsed
+NP apane - apane hisse vAlI
+VGF hAsila ho sakegA
+
+
+set : 186
+Gold
+BLK
+Parsed
+
+
+set : 187
+Gold
+BLK
+Parsed
+
+
+set : 188
+Gold
+NP 5200 karodZa rupaye
+VGF rahA hE
+BLK
+Parsed
+NP 5200 karodZa
+VGF rupaye rahA hE
+
+
+set : 189
+Gold
+NP sabase aXika kESa Plo
+BLK
+Parsed
+NP sabase aXika kESa
+VGF Plo
+
+
+set : 190
+Gold
+NP megA pariyojanA
+NP yaha kaMpanI
+NP pramotarsa ko
+VGNN xenA
+BLK
+Parsed
+VGNF megA
+NP pariyojanA
+NP yaha
+NP kaMpanI pramotarsa ko
+VGNF xenA
+
+
+set : 191
+Gold
+Parsed
+544

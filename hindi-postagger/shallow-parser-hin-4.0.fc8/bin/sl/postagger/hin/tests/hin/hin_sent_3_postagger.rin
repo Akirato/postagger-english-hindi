@@ -1,0 +1,38 @@
+<Sentence id="3">
+1	yahAz	unk	<fs af='yahAz,adv,,,,,,'>|<fs af='yahAz,psp,,,,,,'>
+2	para	unk	<fs af='para,psp,,,,,,'>
+3	trasta	unk	<fs af='trasta,n,m,sg,,d,,'>|<fs af='trasta,n,m,pl,,d,,'>|<fs af='trasta,n,m,sg,,o,,'>|<fs af='trasta,n,m,pl,,o,,'>
+4	ke	unk	<fs af='kA,psp,m,sg,,o,,'>|<fs af='kA,psp,m,pl,,d,,'>|<fs af='kA,psp,m,pl,,o,,'>
+5	xvArA	unk	<fs af='xvArA,psp,,,,,,'>|<fs af='xvArA,psp,,,,,,'>
+6	yAwriyoM	unk	<fs af='yAwrI,n,m,pl,,o,,'>
+7	kI	unk	<fs af='kA,psp,f,sg,,d,,'>|<fs af='kA,psp,f,sg,,o,,'>|<fs af='kA,psp,f,pl,,d,,'>|<fs af='kA,psp,f,pl,,o,,'>|<fs af='kara,v,f,sg,any,,yA,yA'>
+8	suviXA	unk	<fs af='suviXA,n,f,sg,,d,,'>|<fs af='suviXA,n,f,sg,,o,,'>
+9	ke	unk	<fs af='kA,psp,m,sg,,o,,'>|<fs af='kA,psp,m,pl,,d,,'>|<fs af='kA,psp,m,pl,,o,,'>
+10	lie	unk	<fs af='le,v,m,pl,any,,yA,yA'>
+11	unaKatolA	unk	<fs af='unaKatolA,unk,,,,,,'>
+12	(	unk	<fs af='(,punc,,,,,,'>
+13	ropa	unk	<fs af='ropa,v,any,any,any,,0,0'>
+14	ve	unk	<fs af='vaha,pn,any,pl,3,d,,'>
+15	)	unk	<fs af='),punc,,,,,,'>
+16	banAyA	unk	<fs af='banA,v,m,sg,any,,yA,yA'>
+17	gayA	unk	<fs af='jA,v,m,sg,any,,yA,yA'>
+18	hE	unk	<fs af='hE,v,any,sg,2,,hE,hE'>|<fs af='hE,v,any,sg,3,,hE,hE'>
+19	,	unk	<fs af=',,punc,,,,,,'>
+20	jisase	unk	<fs af='jo,pn,any,sg,3,o,,'>
+21	xo	unk	<fs af='xo,n,m,sg,,d,,'>|<fs af='xo,n,m,pl,,d,,'>|<fs af='xo,n,m,sg,,o,,'>|<fs af='xe,v,any,pl,2,,eM,eM'>
+22	jagahoM	unk	<fs af='jagahoM,unk,,,,,,'>
+23	para	unk	<fs af='para,psp,,,,,,'>
+24	yAwrI	unk	<fs af='yAwrI,n,m,sg,,d,,'>|<fs af='yAwrI,n,m,pl,,d,,'>|<fs af='yAwrI,n,m,sg,,o,,'>
+25	kuCa	unk	<fs af='kuCa,adv,,,,,,'>|<fs af='kuCa,adj,any,any,,d,,'>
+26	samaya	unk	<fs af='samaya,n,m,sg,,d,,'>|<fs af='samaya,n,m,pl,,d,,'>|<fs af='samaya,n,m,sg,,o,,'>|<fs af='samaya,n,m,pl,,o,,'>
+27	meM	unk	<fs af='meM,psp,,,,,,'>
+28	hI	unk	<fs af='hI,adv,,,,,,'>
+29	mAwA	unk	<fs af='mAwA,n,f,sg,,d,,'>|<fs af='mAwA,n,f,sg,,o,,'>
+30	ke	unk	<fs af='kA,psp,m,sg,,o,,'>|<fs af='kA,psp,m,pl,,d,,'>|<fs af='kA,psp,m,pl,,o,,'>
+31	xarSana	unk	<fs af='xarSana,n,m,sg,,d,,'>|<fs af='xarSana,n,m,pl,,d,,'>|<fs af='xarSana,n,m,sg,,o,,'>
+32	kara	unk	<fs af='kara,n,m,sg,,d,,'>|<fs af='kara,n,m,pl,,d,,'>|<fs af='kara,n,m,sg,,o,,'>|<fs af='kara,v,any,any,any,,0,0'>
+33	lOta	unk	<fs af='lOta,v,any,any,any,,0,0'>
+34	sakawe	unk	<fs af='saka,v,m,pl,any,,wA,wA'>
+35	hEM	unk	<fs af='hE,v,any,pl,1,,hE,hE'>|<fs af='hE,v,any,pl,3,,hE,hE'>
+36	.	unk	<fs af='.,punc,,,,,,'>
+</Sentence>

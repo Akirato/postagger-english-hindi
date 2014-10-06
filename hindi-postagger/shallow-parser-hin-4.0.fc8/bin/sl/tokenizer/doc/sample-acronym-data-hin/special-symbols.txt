@@ -1,0 +1,15 @@
+# English Alphabet
+ए. बी. सी. डी. ई. एफ. एफ़. जी. एच. आई. आइ. जे. ज़े. के. एल. एम. एन. ओ. पी. क्यू. क्यु. आर. एस. टी. यू. यु. वी. डब्लू. डब्ल्यू. डब्ल्यु. एक्स. वाइ. वाई. जैड. जेड. ज़ैड. ज़ेड.
+
+# English Alphabet
+A. B. C. D. E. F. G. H. I. J. K. L. M. N. O. P. Q. R. S. T. U. V. W. X. Y. Z.
+
+# Roman Numerals
+I. II. III. IV. V. VI. VII. VIII. IX. X. XI. XII. XIII. XIV. XV. XVI. XVII. XVIII. XIX. XX. XXX. XL. L. LX. LXX. LXXX. XC. C. D. M.
+
+# English Acronyms used in Hindi text also
+Adj. Adm. Adv. Asst. Ave. Bldg. Brig. Bros. Capt. Cmdr. Col. Comdr. Con. Corp. Cpl. Dr. Ens. Gen. Gov. Govt. Hon. Hosp. Insp. Lt. Maj. Messrs. Mlle. Mme. Mr. Mrs. Ms. Msgr. Op. Ord. Pfc. Ph. Prof. Pvt. Rep. Reps. Res. Rev. Rt. Sen. Sens. Sgt. Sr. St. Supt. Surg. v. vs.
+
+# Special acronyms which are NOT hanadle by generated acronyms
+किमी. किग्रा. श्रीमती. उदा. डॅ.
+

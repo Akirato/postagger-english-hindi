@@ -1,0 +1,41 @@
+<Sentence id="1">
+1	((	NP	
+1.1	senA	NN	<fs af='senA,n,f,sg,3,d,0,0'>|<fs af='senA,n,f,sg,3,o,0,0'>|<fs af='se,v,m,sg,any,,nA,nA'>
+1.2	ko	PSP	<fs af='ko,psp,,,,,,'>
+	))		
+2	((	NP	
+2.1	ina	DEM	<fs af='yaha,pn,any,pl,3,o,0,0'>
+2.2	vimAnoM	NN	<fs af='vimAna,n,m,pl,3,o,0,0'>
+2.3	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>|<fs af='kA,psp,f,sg,,o,kA,kA'>|<fs af='kA,psp,f,pl,,d,kA,kA'>|<fs af='kA,psp,f,pl,,o,kA,kA'>|<fs af='kara,v,f,sg,any,,yA,yA'>
+	))		
+3	((	NP	
+3.1	ApUrwi	NN	<fs af='ApUrwi,n,f,sg,3,d,0,0'>|<fs af='ApUrwi,n,f,sg,3,o,0,0'>
+	))		
+4	((	NP	
+4.1	mArca	NNP	<fs af='mArca,n,m,sg,3,d,0,0'>|<fs af='mArca,n,m,pl,3,d,0,0'>|<fs af='mArca,n,m,sg,3,o,0,0'>|<fs af='mArca,n,m,pl,3,o,0,0'>
+4.2	,	SYM	<fs af=',,punc,,,,,'>
+	))		
+5	((	NP	
+5.1	2008	NNP	<fs af='2008,num,,,,,,'>
+5.2	se	PSP	<fs af='se,v,any,any,any,,0,0'>|<fs af='se,psp,,,,,,'>|<fs af='sA,psp,m,sg,,o,kA,kA'>|<fs af='sA,psp,m,pl,,d,kA,kA'>|<fs af='sA,psp,m,pl,,o,kA,kA'>
+	))		
+6	((	NP	
+6.1	SurU	NN	<fs af='SurU,avy,,,,,,'>
+	))		
+7	((	VGF	
+7.1	hogI	VM	<fs af='ho,v,f,sg,2,,gA,gA'>|<fs af='ho,v,f,sg,3,,gA,gA'>
+7.2	,	SYM	<fs af=',,punc,,,,,'>
+	))		
+8	((	NP	
+8.1	jo	PRP	<fs af='jo,avy,,,,,,'>|<fs af='jo,pn,any,sg,3,d,0,0'>|<fs af='jo,pn,any,pl,3,d,0,0'>
+	))		
+9	((	NP	
+9.1	maI	NNP	<fs af='maI,n,f,sg,3,d,0,0'>|<fs af='maI,n,f,pl,3,d,0,0'>|<fs af='maI,n,f,sg,3,o,0,0'>|<fs af='maI,n,f,pl,3,o,0,0'>
+9.2	2010	QC	<fs af='2010,num,,,,,,'>
+9.3	waka	RP	<fs af='waka,avy,,,,,,'>|<fs af='waka,psp,,,,,,'>
+	))		
+10	((	VGF	
+10.1	calegI	VM	<fs af='cala,v,f,sg,2,,gA,gA'>|<fs af='cala,v,f,sg,3,,gA,gA'>
+10.2	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>

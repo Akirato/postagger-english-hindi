@@ -1,0 +1,40 @@
+Basic Installation
+==================
+
+Follow the below Steps : 
+
+  1) untar the binary package of shallow-parser-hin-4.0.tgz
+	
+        tar -xvzf shallow-parser-hin-4.0.tgz
+
+  2) `cd' to the directory containing the package binary.
+
+	cd shallow-parser-hin-4.0
+
+  3.1) Export the Variable `SHALLOW_PARSER_HIN'.
+ 
+       echo "export SHALLOW_PARSER_HIN=~/sampark/shallow_parser_hin" >> ~/.bashrc
+
+  3.2) Set the PATH to the SHALLOW_PARSER_HIN/bin/sl/sys/hin
+
+       echo "export PATH=\$PATH:\$SHALLOW_PARSER_HIN/bin/sys/hin/" >> ~/.bashrc
+
+  3.3) Compile the ~/.bashrc
+  
+       source ~/.bashrc
+
+  4)   To Install 
+       Type `make install' to install the programs, data files and
+       documentation.
+                   
+	make install
+
+ For how to use shallow parser for hindi, please refer to the file README-user.
+
+ To Uninstall 
+ -- ---------
+
+     If you want to remove the program binaries and object files from the
+     binary package directory type `make uninstall'. 
+
+      make uninstall 

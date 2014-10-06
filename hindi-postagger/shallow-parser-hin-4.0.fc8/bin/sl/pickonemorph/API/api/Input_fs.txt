@@ -1,0 +1,6 @@
+<af=nirupam,n,m,s,3,0,,/B1=pratap>
+<af=pratap,n,m,s,3,0,,/A1=<ad2=add2/ad1=add2>/af2=newValue/af3=newValue3>
+<af1=ppratap/af2=chandan/af3=nirupam/af4=<cf2=pratap1/pf1=aka/pf2=<nf1=aka3/nf3=aka5/nf4=<lp1=<pr1=pr3>>>>/af5=aka6>
+<af1=ppratap/af2=chandan/af3=nirupam/af4=<pf1=aka/pf2=<nf1=aka3/nf3=aka5/nf4=<lp2=<pr2=pr4>>>>/af5=aka6/af6=aka8>
+<af1=ppratap/af2=chandan/af3=nirupam/af4=<pf1=aka/pf2=<nf1=aka3/nf3=aka5/nf4=<lp2=<pr2=pr4>>>>/af5=aka6|aka7|aka9/af6=aka8>|<p1=pp>
+r/kill,v,m,s,3,0,,|tense='PAST'|v_form='WK'|TYPE='VT'|   

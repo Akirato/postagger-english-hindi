@@ -1,0 +1,8 @@
+<Sentence id="1">
+1	saBI	QF	<fs af='saBI,adj,any,any,,any,,'>|<fs af='saBI,n,m,sg,3,d,0,0'>|<fs af='saBI,n,m,pl,3,d,0,0'>|<fs af='saBI,n,m,sg,3,o,0,0'>|<fs af='saBI,n,m,pl,3,o,0,0'>|<fs af='saba,pn,any,pl,3,o,0,0' emph='y'>
+2	bacce	NN	<fs af='baccA,n,m,pl,3,d,0,0'>|<fs af='baccA,n,m,sg,3,o,0,0'>
+3	kiwAba	NN	<fs af='kiwAba,n,f,sg,3,d,0,0'>|<fs af='kiwAba,n,f,sg,3,o,0,0'>
+4	paDZawe	VM	<fs af='paDZa,v,m,pl,any,,wA,wA'>
+5	hEM	VAUX	<fs af='hE,v,any,pl,1,,hE,hE'>|<fs af='hE,v,any,pl,3,,hE,hE'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

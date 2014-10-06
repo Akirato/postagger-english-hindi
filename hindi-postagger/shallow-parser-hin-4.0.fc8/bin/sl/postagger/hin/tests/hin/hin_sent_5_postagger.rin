@@ -1,0 +1,17 @@
+<Sentence id="5">
+1	XarawI	unk	<fs af='XarawI,n,f,sg,,d,,'>|<fs af='XarawI,n,f,pl,,d,,'>|<fs af='XarawI,n,f,sg,,o,,'>|<fs af='XarawI,n,f,pl,,o,,'>|<fs af='Xara,v,f,sg,any,,wA,wA'>
+2	para	unk	<fs af='para,psp,,,,,,'>
+3	kahIM	unk	<fs af='kahIM,adv,,,,,,'>|<fs af='kaha,v,f,pl,any,,yA,yA'>
+4	svarga	unk	<fs af='svarga,n,m,sg,,d,,'>|<fs af='svarga,n,m,pl,,d,,'>|<fs af='svarga,n,m,sg,,o,,'>
+5	hE	unk	<fs af='hE,v,any,sg,2,,hE,hE'>|<fs af='hE,v,any,sg,3,,hE,hE'>
+6	,	unk	<fs af=',,punc,,,,,,'>
+7	wo	unk	<fs af='wo,avy,,,,,,'>
+8	vaha	unk	<fs af='vaha,pn,any,sg,3,d,,'>
+9	kaSmIra	unk	<fs af='kaSmIra,n,m,sg,,d,,'>|<fs af='kaSmIra,n,m,pl,,d,,'>|<fs af='kaSmIra,n,m,sg,,o,,'>|<fs af='kaSmIra,n,m,pl,,o,,'>
+10	kI	unk	<fs af='kA,psp,f,sg,,d,,'>|<fs af='kA,psp,f,sg,,o,,'>|<fs af='kA,psp,f,pl,,d,,'>|<fs af='kA,psp,f,pl,,o,,'>|<fs af='kara,v,f,sg,any,,yA,yA'>
+11	KUbasUrawa	unk	<fs af='KUbasUrawa,adj,any,any,,any,,'>
+12	vAxiyAz	unk	<fs af='vAxiyAz,unk,,,,,,'>
+13	hI	unk	<fs af='hI,adv,,,,,,'>
+14	hEM	unk	<fs af='hE,v,any,pl,1,,hE,hE'>|<fs af='hE,v,any,pl,3,,hE,hE'>
+15	.	unk	<fs af='.,punc,,,,,,'>
+</Sentence>

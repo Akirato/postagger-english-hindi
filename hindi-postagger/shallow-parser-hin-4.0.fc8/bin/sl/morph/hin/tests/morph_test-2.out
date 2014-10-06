@@ -1,0 +1,27 @@
+1	nirmiwa	unk	<fs af='nirmiwa,n,m,sg,3,d,0,0'>|<fs af='nirmiwa,n,m,pl,3,d,0,0'>|<fs af='nirmiwa,n,m,sg,3,o,0,0'>|<fs af='nirmiwa,adj,any,any,,any,,'>
+2	saca	unk	<fs af='saca,n,m,sg,3,d,0,0'>|<fs af='saca,n,m,pl,3,d,0,0'>|<fs af='saca,n,m,sg,3,o,0,0'>|<fs af='saca,adv,,,,,,'>|<fs af='saca,avy,,,,,,'>|<fs af='saca,adj,any,any,,any,,'>
+3	nijI	unk	<fs af='nijI,n,m,sg,3,d,0,0'>|<fs af='nijI,n,m,pl,3,d,0,0'>|<fs af='nijI,n,m,sg,3,o,0,0'>|<fs af='nijI,adj,any,any,,any,,'>
+4	saPala	unk	<fs af='saPala,n,m,sg,3,d,0,0'>|<fs af='saPala,n,m,pl,3,d,0,0'>|<fs af='saPala,n,m,sg,3,o,0,0'>|<fs af='saPala,adj,any,any,,any,,'>
+5	SurU	unk	<fs af='SurU,adj,any,any,,any,,'>|<fs af='SurU,n,m,sg,3,d,0,0'>|<fs af='SurU,n,m,pl,3,d,0,0'>|<fs af='SurU,n,m,sg,3,o,0,0'>|<fs af='SurU,n,m,pl,3,o,0,0'>
+6	usakA	unk	<fs af='usakA,v,any,any,any,,0,0'>|<fs af='usaka,v,m,sg,any,,yA,yA'>|<fs af='vaha,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+7	jisakA	unk	<fs af='jo,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+8	werA	unk	<fs af='wU,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+9	pahacAna	unk	<fs af='pahacAna,n,f,sg,3,d,0,0'>|<fs af='pahacAna,n,f,sg,3,o,0,0'>|<fs af='pahacAna,v,any,any,any,,0,0'>
+10	KAie	unk	<fs af='KA,v,any,sg,2,,e,e' hon='y'>|<fs af='KA,v,any,pl,2,,e,e' hon='y'>
+11	Aie	unk	<fs af='A,v,any,sg,2,,e,e' hon='y'>|<fs af='A,v,any,pl,2,,e,e' hon='y'>
+12	Sreya	unk	<fs af='Sreya,n,m,sg,3,d,0,0'>|<fs af='Sreya,n,m,pl,3,d,0,0'>|<fs af='Sreya,n,m,sg,3,o,0,0'>|<fs af='Sreya,n,m,pl,3,o,0,0'>
+13	KAsakara	unk	<fs af='KAsakara,adv,,,,,,'>
+14	balAw	unk	<fs af='balAw,n,m,sg,3,d,0,0'>|<fs af='balAw,n,m,pl,3,d,0,0'>|<fs af='balAw,n,m,sg,3,o,0,0'>
+15	saMvaw	unk	<fs af='saMvaw,n,m,sg,3,d,0,0'>|<fs af='saMvaw,n,m,pl,3,d,0,0'>|<fs af='saMvaw,n,m,sg,3,o,0,0'>
+16	kalAwmaka	unk	<fs af='kalAwmaka,adj,any,any,,any,,'>
+17	mahArAjA	unk	<fs af='mahArAjA,n,m,sg,3,d,0,0'>|<fs af='mahArAjA,n,m,pl,3,d,0,0'>|<fs af='mahArAjA,n,m,sg,3,o,0,0'>
+18	nirxeSana	unk	<fs af='nirxeSana,n,m,sg,3,d,0,0'>|<fs af='nirxeSana,n,m,pl,3,d,0,0'>|<fs af='nirxeSana,n,m,sg,3,o,0,0'>|<fs af='nirxeSana,n,m,pl,3,o,0,0'>
+19	saMGatana	unk	<fs af='saMGatana,n,m,sg,3,d,0,0'>|<fs af='saMGatana,n,m,pl,3,d,0,0'>|<fs af='saMGatana,n,m,sg,3,o,0,0'>
+20	POrana	unk	<fs af='POrana,adv,,,,,,'>
+21	aPagAna	unk	<fs af='aPagAna,n,m,sg,3,d,0,0'>|<fs af='aPagAna,n,m,pl,3,d,0,0'>|<fs af='aPagAna,n,m,sg,3,o,0,0'>|<fs af='aPagAna,adj,any,any,,any,,'>
+22	mahArAnI	unk	<fs af='mahArAnI,n,f,sg,3,d,0,0'>|<fs af='mahArAnI,n,f,sg,3,o,0,0'>
+23	pariRax	unk	<fs af='pariRax,n,m,sg,3,d,0,0'>|<fs af='pariRax,n,m,pl,3,d,0,0'>|<fs af='pariRax,n,m,sg,3,o,0,0'>
+24	kahAnIkAra	unk	<fs af='kahAnIkAra,n,m,sg,3,d,0,0'>|<fs af='kahAnIkAra,n,m,pl,3,d,0,0'>|<fs af='kahAnIkAra,n,m,sg,3,o,0,0'>
+25	anwima	unk	<fs af='anwima,adj,any,any,,any,,'>
+26	Sreya	unk	<fs af='Sreya,n,m,sg,3,d,0,0'>|<fs af='Sreya,n,m,pl,3,d,0,0'>|<fs af='Sreya,n,m,sg,3,o,0,0'>|<fs af='Sreya,n,m,pl,3,o,0,0'>
+27	pahalI	unk	<fs af='pahalI,n,f,sg,3,d,0,0'>|<fs af='pahalI,n,f,pl,3,d,0,0'>|<fs af='pahalI,n,f,sg,3,o,0,0'>|<fs af='pahalI,n,f,pl,3,o,0,0'>|<fs af='pahalA,adj,f,any,,any,,'>

@@ -1,0 +1,10 @@
+1	xonoM		<fs af='xonoM,n,m,sg,3,d,0,0'>|<fs af='xonoM,n,m,pl,3,d,0,0'>|<fs af='xonoM,n,m,sg,3,o,0,0'>|<fs af='xonoM,n,m,pl,3,o,0,0'>|<fs af='xonoM,adj,any,pl,,d,,' emph='y'>|<fs af='xonoM,adj,any,pl,,o,,' emph='y'>
+2	Ca		<fs af='Ca,adj,any,pl,,d,,'>|<fs af='Ca,adj,any,pl,,o,,'>
+3	CaoM		<fs af='Ca,adj,any,pl,,d,,' emph='y'>|<fs af='Ca,adj,any,pl,,o,,' emph='y'>
+4	Caoz		<fs af='Ca,adj,any,pl,,d,,' emph='y'>|<fs af='Ca,adj,any,pl,,o,,' emph='y'>
+5	CavoM		<fs af='Ca,adj,any,pl,,d,,' emph='y'>|<fs af='Ca,adj,any,pl,,o,,' emph='y'>
+6	Cavoz		<fs af='Ca,adj,any,pl,,d,,' emph='y'>|<fs af='Ca,adj,any,pl,,o,,' emph='y'>
+7	hama		<fs af='mEM,pn,any,pl,1,d,0,0'>|<fs af='mEM,pn,any,pl,1,o,0,0'>
+8	hamIM		<fs af='mEM,pn,any,pl,1,d,0,0' emph='y'>|<fs af='mEM,pn,any,pl,1,o,0,0' emph='y'>
+9	hamI		<fs af='mEM,pn,any,pl,1,d,0,0' emph='y'>|<fs af='mEM,pn,any,pl,1,o,0,0' emph='y'>
+10	hamArA		<fs af='mEM,pn,any,pl,1,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='d'>

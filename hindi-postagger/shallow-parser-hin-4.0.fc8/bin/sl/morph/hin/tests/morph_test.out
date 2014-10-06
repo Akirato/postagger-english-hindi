@@ -1,0 +1,57 @@
+1	rAma		<fs af='rAma,n,m,sg,3,d,0,0'>|<fs af='rAma,n,m,pl,3,d,0,0'>|<fs af='rAma,n,m,sg,3,o,0,0'>
+2	KAnA		<fs af='KAnA,n,m,sg,3,d,0,0'>|<fs af='KA,v,m,sg,any,,nA,nA'>
+3	KAne		<fs af='KAnA,n,m,pl,3,d,0,0'>|<fs af='KAnA,n,m,sg,3,o,0,0'>|<fs af='KA,v,m,pl,any,,nA,nA'>
+4	ke		<fs af='kA,psp,m,sg,,o,kA,kA'>|<fs af='kA,psp,m,pl,,d,kA,kA'>|<fs af='kA,psp,m,pl,,o,kA,kA'>
+5	liye		<fs af='liye,psp,,,,,,'>|<fs af='le,v,any,sg,2,,e,e'>|<fs af='le,v,any,sg,3,,e,e'>|<fs af='le,v,m,pl,any,,yA,yA'>
+6	apane		<fs af='apanA,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>|<fs af='apanA,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>|<fs af='apanA,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>|<fs af='apanA,adj,m,sg,,o,,'>|<fs af='apanA,adj,m,pl,,d,,'>|<fs af='apanA,adj,m,pl,,o,,'>|<fs af='apanA,n,m,pl,3,d,0,0'>|<fs af='apanA,n,m,sg,3,o,0,0'>
+7	Gara		<fs af='Gara,n,m,sg,3,d,0,0'>|<fs af='Gara,n,m,pl,3,d,0,0'>|<fs af='Gara,n,m,sg,3,o,0,0'>
+8	gayA		<fs af='jA,v,m,sg,any,,yA1,yA1'>
+9	hE		<fs af='hE,v,any,sg,2,,hE,hE'>|<fs af='hE,v,any,sg,3,,hE,hE'>
+10	?		<fs af='?,punc,,,,,,'>
+11	-		<fs af='-,punc,,,,,,'>
+12	.		<fs af='.,punc,,,,,,'>
+13	rAjA		<fs af='rAjA,n,m,sg,3,d,0,0'>|<fs af='rAjA,n,m,pl,3,d,0,0'>|<fs af='rAjA,n,m,sg,3,o,0,0'>
+14	Gode		<fs af='GodA,n,m,pl,3,d,0,0'>|<fs af='GodA,n,m,sg,3,o,0,0'>
+15	pe		<fs af='pe,psp,,,,,,'>
+16	SAxi		<fs af='SAxi,unk,,,,,,'>
+17	karane		<fs af='kara,v,m,pl,any,,nA,nA'>
+18	jA		<fs af='jA,n,f,sg,3,d,0,0'>|<fs af='jA,n,f,sg,3,o,0,0'>|<fs af='jA,v,any,any,any,,0,0'>
+19	rahA		<fs af='raha,v,m,sg,any,,yA,yA'>
+20	WA		<fs af='WA,v,m,sg,any,,WA,WA'>
+21	.		<fs af='.,punc,,,,,,'>
+22	777		<fs af='777,num,,,,,,'>
+23	99.99		<fs af='99.99,num,,,,,,'>
+24	A		<fs af='A,v,any,any,any,,0,0'>
+25	9		<fs af='9,num,,,,,,'>
+26	vahA		<fs af='vahA,unk,,,,,,'>
+27	.		<fs af='.,punc,,,,,,'>
+28	102.3x		<fs af='102.3x,unk,,,,,,'>
+29	ladZakA		<fs af='ladZakA,adj,m,sg,,d,,'>|<fs af='ladZakA,n,m,sg,3,d,0,0'>
+30	ladakoM		<fs af='ladakA,n,m,pl,3,o,0,0'>
+31	.		<fs af='.,punc,,,,,,'>
+32	yahAz		<fs af='yahAz,adv,,,,,,'>|<fs af='yahAz,psp,,,,,,'>
+33	vaha		<fs af='vaha,pn,any,sg,3,d,0,0'>
+34	vahAz		<fs af='vahAz,adv,,,,,,'>
+35	yaha		<fs af='yaha,pn,any,sg,3,d,0,0'>
+36	Kela		<fs af='Kela,n,f,sg,3,d,0,0'>|<fs af='Kela,n,f,sg,3,o,0,0'>|<fs af='Kela,v,any,any,any,,0,0'>
+37	raha		<fs af='raha,v,any,any,any,,0,0'>
+38	.		<fs af='.,punc,,,,,,'>
+39	muJe		<fs af='mEM,pn,any,sg,1,o,ko,ko'>
+40	jAne		<fs af='jAna,v,any,sg,2,,e,e'>|<fs af='jAna,v,any,sg,3,,e,e'>|<fs af='jAna,v,m,pl,any,,yA,yA'>|<fs af='jA,v,m,pl,any,,nA,nA'>
+41	BI		<fs af='BI,adv,,,,,,'>|<fs af='BI,avy,,,,,,'>
+42	wo		<fs af='wo,avy,,,,,,'>
+43	xo		<fs af='xo,adj,any,any,,any,,'>|<fs af='xo,n,m,sg,3,d,0,0'>|<fs af='xo,n,m,pl,3,d,0,0'>|<fs af='xo,n,m,sg,3,o,0,0'>|<fs af='xo,n,m,pl,3,o,0,0'>|<fs af='xe,v,any,pl,2,,e,e'>
+44	.		<fs af='.,punc,,,,,,'>
+45	rASixa		<fs af='rASixa,adj,any,any,,any,,'>|<fs af='rASixa,n,m,sg,3,d,0,0'>|<fs af='rASixa,n,m,pl,3,d,0,0'>|<fs af='rASixa,n,m,sg,3,o,0,0'>|<fs af='rASixa,n,m,pl,3,o,0,0'>
+46	ko		<fs af='ko,psp,,,,,,'>
+47	maI		<fs af='maI,n,m,sg,3,d,0,0'>|<fs af='maI,n,m,pl,3,d,0,0'>|<fs af='maI,n,m,sg,3,o,0,0'>|<fs af='maI,n,m,pl,3,o,0,0'>
+48	meM		<fs af='meM,psp,,,,,,'>
+49	bombe		<fs af='bombe,n,m,sg,3,d,0,0'>|<fs af='bombe,n,m,pl,3,d,0,0'>|<fs af='bombe,n,m,sg,3,o,0,0'>|<fs af='bombe,n,m,pl,3,o,0,0'>
+50	jAnA		<fs af='jAna,v,m,sg,any,,yA,yA'>|<fs af='jA,v,m,sg,any,,nA,nA'>
+51	pada		<fs af='pada,v,any,any,any,,0,0'>
+52	sakawA		<fs af='sakawA,n,m,sg,3,d,0,0'>|<fs af='saka,v,m,sg,any,,wA,wA'>
+53	.		<fs af='.,punc,,,,,,'>
+54	uxyoga		<fs af='uxyoga,n,m,sg,3,d,0,0'>|<fs af='uxyoga,n,m,pl,3,d,0,0'>|<fs af='uxyoga,n,m,sg,3,o,0,0'>
+55	pahacAna		<fs af='pahacAna,n,f,sg,3,d,0,0'>|<fs af='pahacAna,n,f,sg,3,o,0,0'>|<fs af='pahacAna,v,any,any,any,,0,0'>
+56	jO		<fs af='jO,n,m,sg,3,d,0,0'>|<fs af='jO,n,m,pl,3,d,0,0'>|<fs af='jO,n,m,sg,3,o,0,0'>|<fs af='jO,n,m,pl,3,o,0,0'>
+57	pUne		<fs af='pUne,n,m,sg,3,d,0,0'>|<fs af='pUne,n,m,pl,3,d,0,0'>|<fs af='pUne,n,m,sg,3,o,0,0'>|<fs af='pUne,n,m,pl,3,o,0,0'>

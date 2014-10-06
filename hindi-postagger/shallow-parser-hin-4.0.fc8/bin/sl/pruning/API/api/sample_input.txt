@@ -1,0 +1,28 @@
+# ---------- SAMPLE INPUT ---------------
+<S> SENTENCE
+1	((	NP	
+1.1	the	DT	//the,det,m,s,3,0,,|
+1.2	bag	NN	//bag,n,m,s,3,0,,|
+	))		
+2	((	VG	
+2.1	is	VBZ	//be,v,m,s,3,0,,|tense='PRES'|
+2.2	not	RB	/not,adv,m,s,3,0,,|
+2.2	fastly	RB	//fast,adv,m,s,3,0,,|
+2.3	going	VBG	//go,v,m,s,3,0,,|
+	))		
+3	((	PP	
+3.1	in	IN	//in,p,m,s,3,0,,|
+3.2	((	NP	
+3.2.1	the	DT	//the,det,m,s,3,0,,|
+3.2.2	corner	NN	//corner,n,m,s,3,0,,|
+	))		
+	))		
+4	((	PP	
+4.1	of	IN	//of,p,m,s,3,0,,|
+4.2	((	NP	
+4.2.1	the	DT	//the,det,m,s,3,0,,|
+4.2.2	room	NN	//room,n,m,s,3,0,,|
+	))		
+	))		
+5	quickly	RB	//quick,a,m,s,3,0,,|
+</S> End SENTENCE

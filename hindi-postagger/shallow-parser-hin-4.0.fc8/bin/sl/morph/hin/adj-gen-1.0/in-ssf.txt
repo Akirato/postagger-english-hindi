@@ -1,0 +1,6 @@
+<Sentence id="1">
+1	acCI	ADJ	<fs af="acCI,adj,f,any,,,cm," mykey="val">
+1	rA	ADJ	<fs af="rA,v,f,any,,,vib,">
+1	TanMdI	ADJ	<fs af="TanMdI,adj,f,any,,,,">
+1	pyArA	ADJ	<fs af="pyArI,adj,f,any,,,,">|<fs af="pyArI,n,f,any,,,,">
+</Sentence>

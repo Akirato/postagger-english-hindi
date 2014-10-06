@@ -1,0 +1,30 @@
+						README-INSTALL
+						--------------
+
+
+
+1- Requirements:
+----------------
+ Operating System		:	LINUX (tested on Fedora-8 and lower versions)
+
+ Compiler/Interpreter/Librarie(s):	g++, Perl and SSF API's
+
+2. FAQ's for INSTALLATION
+-- ----------------------
+
+ 2.1) Error: test.sh: line 5: shallow_parser_hin: command not found
+      
+      Export the PATH variable properly. Check INSTALL for that.
+
+ NOTE:  To INSTALL please check INSTALL file
+
+ 
+----------------------------------------    
+Any Queries Contact:
+----------------------------------------
+   Avinesh PVS,Kunal Sachdeva,Ankush Soni
+   Language Technologies Research Center
+   IIIT Hyderabad
+   (shallowparser@research.iiit.ac.in)
+-----------------------------------------
+

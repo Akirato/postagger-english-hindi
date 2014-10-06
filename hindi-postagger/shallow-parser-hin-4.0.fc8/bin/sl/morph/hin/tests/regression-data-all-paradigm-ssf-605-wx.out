@@ -1,0 +1,605 @@
+1	-		<fs af='-,punc,,,,,,'>
+2	aba		<fs af='aba,adv,,,,,,'>
+3	AjAxI		<fs af='AjAxI,n,f,sg,3,d,0,0'>|<fs af='AjAxI,n,f,pl,3,d,0,0'>|<fs af='AjAxI,n,f,sg,3,o,0,0'>|<fs af='AjAxI,n,f,pl,3,o,0,0'>
+4	AlU		<fs af='AlU,n,m,sg,3,d,0,0'>|<fs af='AlU,n,m,pl,3,d,0,0'>|<fs af='AlU,n,m,sg,3,o,0,0'>
+5	AluoM		<fs af='AlU,n,m,pl,3,o,0,0'>
+6	amIra		<fs af='amIra,n,m,sg,3,d,0,0'>|<fs af='amIra,n,m,pl,3,d,0,0'>|<fs af='amIra,n,m,sg,3,o,0,0'>|<fs af='amIra,adj,any,any,,any,,'>
+7	aneka		<fs af='aneka,n,m,sg,3,d,0,0'>|<fs af='aneka,n,m,pl,3,d,0,0'>|<fs af='aneka,n,m,sg,3,o,0,0'>|<fs af='aneka,adj,any,pl,,d,,'>|<fs af='aneka,adj,any,pl,,o,,'>
+8	anekoM		<fs af='aneka,n,m,pl,3,o,0,0'>|<fs af='aneka,adj,any,pl,,d,,' emph='y'>|<fs af='aneka,adj,any,pl,,o,,' emph='y'>
+9	Apa		<fs af='Apa,pn,any,any,any,o,0,0'>|<fs af='Apa,adv,,,,,,'>
+10	ApahI		<fs af='ApahI,adv,,,,,,'>|<fs af='Apa,pn,any,any,any,o,0,0' emph='y'>
+11	ApakA		<fs af='Apa,pn,any,any,any,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='d'>
+12	Apake		<fs af='Apa,pn,any,any,any,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='Apa,pn,any,any,any,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='Apa,pn,any,any,any,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='o'>
+13	ApakI		<fs af='Apa,pn,any,any,any,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='Apa,pn,any,any,any,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='Apa,pn,any,any,any,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='Apa,pn,any,any,any,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='o'>
+14	Apako		<fs af='Apa,pn,any,any,any,o,ko,ko'>
+15	ApameM		<fs af='Apa,pn,any,any,any,o,meM,meM'>
+16	apanA		<fs af='apanA,v,any,any,any,,0,0'>|<fs af='apanA,pn,any,sg,1,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='d'>|<fs af='apanA,adj,m,sg,,d,,'>|<fs af='apanA,n,m,sg,3,d,0,0'>
+17	apane		<fs af='apanA,pn,any,sg,1,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='apanA,pn,any,sg,1,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='apanA,pn,any,sg,1,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='o'>|<fs af='apanA,adj,m,sg,,o,,'>|<fs af='apanA,adj,m,pl,,d,,'>|<fs af='apanA,adj,m,pl,,o,,'>|<fs af='apanA,n,m,pl,3,d,0,0'>|<fs af='apanA,n,m,sg,3,o,0,0'>
+18	Apane		<fs af='Apa,pn,any,any,any,o,ne,ne'>
+19	apanI		<fs af='apanI,adj,f,any,,any,,'>|<fs af='apanA,pn,any,sg,1,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='apanA,pn,any,sg,1,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='apanA,pn,any,sg,1,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='apanA,pn,any,sg,1,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='o'>
+20	apanoM		<fs af='apanA,pn,any,pl,1,o,0,0'>|<fs af='apanA,n,m,pl,3,o,0,0'>
+21	Apapara		<fs af='Apa,pn,any,any,any,o,para,para'>
+22	Apase		<fs af='ApasA,adj,m,sg,,o,,'>|<fs af='ApasA,adj,m,pl,,d,,'>|<fs af='ApasA,adj,m,pl,,o,,'>|<fs af='Apa,pn,any,any,any,o,se,se'>
+23	Apawwi		<fs af='Apawwi,n,f,sg,3,d,0,0'>|<fs af='Apawwi,n,f,sg,3,o,0,0'>
+24	ApawwiyAz		<fs af='Apawwi,n,f,pl,3,d,0,0'>
+25	ApawwiyoM		<fs af='Apawwi,n,f,pl,3,o,0,0'>
+26	ASA		<fs af='ASA,n,f,sg,3,d,0,0'>|<fs af='ASA,n,f,sg,3,o,0,0'>
+27	ASAoM		<fs af='ASA,n,f,pl,3,o,0,0'>
+28	ASAyeM		<fs af='ASA,n,f,pl,3,d,0,0'>
+29	AxamI		<fs af='AxamI,n,m,sg,3,d,0,0'>|<fs af='AxamI,n,m,pl,3,d,0,0'>|<fs af='AxamI,n,m,sg,3,o,0,0'>
+30	AxamiyoM		<fs af='AxamI,n,m,pl,3,o,0,0'>
+31	bahU		<fs af='bahU,n,f,sg,3,d,0,0'>|<fs af='bahU,n,f,sg,3,o,0,0'>|<fs af='baha,v,any,sg,1,,e,e'>
+32	bahuez		<fs af='bahU,n,f,pl,3,d,0,0'>
+33	bahuoM		<fs af='bahU,n,f,pl,3,o,0,0'>
+34	bAlaka		<fs af='bAlaka,n,m,sg,3,d,0,0'>|<fs af='bAlaka,n,m,pl,3,d,0,0'>|<fs af='bAlaka,n,m,sg,3,o,0,0'>|<fs af='bAlaka,adj,m,sg,,any,,'>
+35	bAlikA		<fs af='bAlikA,n,f,sg,3,d,0,0'>|<fs af='bAlikA,n,f,sg,3,o,0,0'>|<fs af='bAlikA,adj,f,sg,,any,,'>
+36	bAlU		<fs af='bAlU,n,f,sg,3,d,0,0'>|<fs af='bAlU,n,f,pl,3,d,0,0'>|<fs af='bAlU,n,f,sg,3,o,0,0'>|<fs af='bAlU,n,f,pl,3,o,0,0'>
+37	BARAvix		<fs af='BARAvix,n,m,sg,3,d,0,0'>|<fs af='BARAvix,n,m,pl,3,d,0,0'>|<fs af='BARAvix,n,m,sg,3,o,0,0'>
+38	BARAvixoM		<fs af='BARAvix,n,m,pl,3,o,0,0'>|<fs af='BARAvixa,n,m,pl,3,o,0,0'>
+39	BIda		<fs af='BIda,unk,,,,,,'>
+40	bIsa		<fs af='bIsa,n,m,sg,3,d,0,0'>|<fs af='bIsa,n,m,pl,3,d,0,0'>|<fs af='bIsa,n,m,sg,3,o,0,0'>|<fs af='bIsa,adj,any,pl,,d,,'>|<fs af='bIsa,adj,any,pl,,o,,'>|<fs af='bIsa,v,any,any,any,,0,0'>
+41	bIsiyoz		<fs af='bIsa,adj,any,pl,,d,,' emph='y'>|<fs af='bIsa,adj,any,pl,,o,,' emph='y'>
+42	CU		<fs af='CU,v,any,any,any,,0,0'>
+43	Cue		<fs af='CU,v,any,sg,2,,e,e'>|<fs af='CU,v,any,sg,3,,e,e'>|<fs af='CU,v,m,pl,any,,yA,yA'>
+44	CuegA		<fs af='CU,v,m,sg,2,,gA,gA'>|<fs af='CU,v,m,sg,3,,gA,gA'>
+45	CuegI		<fs af='CU,v,f,sg,2,,gA,gA'>|<fs af='CU,v,f,sg,3,,gA,gA'>
+46	Cuezge		<fs af='CU,v,m,pl,1,,gA,gA'>|<fs af='CU,v,m,pl,3,,gA,gA'>
+47	CuezgI		<fs af='CU,v,f,pl,1,,gA,gA'>|<fs af='CU,v,f,pl,3,,gA,gA'>
+48	CuI		<fs af='CU,v,f,sg,any,,yA,yA'>
+49	CuiegA		<fs af='CU,v,m,sg,2,,gA,gA' hon='y'>|<fs af='CU,v,m,pl,2,,gA,gA' hon='y'>|<fs af='CU,v,f,sg,2,,gA,gA' hon='y'>|<fs af='CU,v,f,pl,2,,gA,gA' hon='y'>
+50	CuIM		<fs af='CU,v,f,pl,any,,yA,yA'>
+51	Cuiye		<fs af='CU,v,any,sg,2,,e,e' hon='y'>|<fs af='CU,v,any,pl,2,,e,e' hon='y'>
+52	CUkara		<fs af='CU,v,any,any,any,,kara,kara'>
+53	CUnA		<fs af='CU,v,m,sg,any,,nA,nA'>
+54	CUne		<fs af='CU,v,m,pl,any,,nA,nA'>
+55	CUnI		<fs af='CU,v,f,sg,any,,nA,nA'>
+56	CUnIM		<fs af='CU,v,f,pl,any,,nA,nA'>
+57	Cuo		<fs af='CU,v,any,pl,2,,e,e'>
+58	Cuoge		<fs af='CU,v,m,pl,2,,gA,gA'>
+59	CuogI		<fs af='CU,v,f,pl,2,,gA,gA'>
+60	CuUz		<fs af='CU,v,any,sg,1,,e,e'>
+61	CuUzgA		<fs af='CU,v,m,sg,1,,gA,gA'>
+62	CuUzgI		<fs af='CU,v,f,sg,1,,gA,gA'>
+63	CuvA		<fs af='CuvA,v,any,any,any,,0,0'>|<fs af='CU,v,m,sg,any,,yA,yA'>
+64	CUwA		<fs af='CU,v,m,sg,any,,wA,wA'>
+65	CUwe		<fs af='CU,v,m,pl,any,,wA,wA'>
+66	CUwI		<fs af='CU,v,f,sg,any,,wA,wA'>
+67	CUwIM		<fs af='CU,v,f,pl,any,,wA,wA'>
+68	Cuye		<fs af='CU,v,any,sg,2,,e,e'>|<fs af='CU,v,any,sg,3,,e,e'>|<fs af='CU,v,m,pl,any,,yA,yA'>
+69	CuyeM		<fs af='CU,v,any,pl,1,,e,e'>|<fs af='CU,v,any,pl,3,,e,e'>
+70	Gara		<fs af='Gara,n,m,sg,3,d,0,0'>|<fs af='Gara,n,m,pl,3,d,0,0'>|<fs af='Gara,n,m,sg,3,o,0,0'>
+71	GaroM		<fs af='Gara,n,m,pl,3,o,0,0'>
+72	gayA		<fs af='jA,v,m,sg,any,,yA1,yA1'>
+73	gaye		<fs af='jA,v,m,pl,any,,yA1,yA1'>
+74	gayI		<fs af='jA,v,f,sg,any,,yA1,yA1'>
+75	gayIM		<fs af='jA,v,f,pl,any,,yA1,yA1'>
+76	gehUz		<fs af='gehUz,n,m,sg,3,d,0,0'>|<fs af='gehUz,n,m,pl,3,d,0,0'>|<fs af='gehUz,n,m,sg,3,o,0,0'>
+77	gehuzoM		<fs af='gehUz,n,m,pl,3,o,0,0'>
+78	gudiyA		<fs af='gudiyA,n,f,sg,3,d,0,0'>|<fs af='gudiyA,n,f,sg,3,o,0,0'>
+79	gudiyAz		<fs af='gudiyA,n,f,pl,3,d,0,0'>
+80	gudiyoM		<fs af='gudiyA,n,f,pl,3,o,0,0'>
+81	hama		<fs af='mEM,pn,any,pl,1,d,0,0'>|<fs af='mEM,pn,any,pl,1,o,0,0'>
+82	hamameM		<fs af='mEM,pn,any,pl,1,o,meM,meM'>
+83	hamane		<fs af='mEM,pn,any,pl,1,o,ne,ne'>
+84	hamapara		<fs af='mEM,pn,any,pl,1,o,para,para'>
+85	hamArA		<fs af='mEM,pn,any,pl,1,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='d'>
+86	hamAre		<fs af='mEM,pn,any,pl,1,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='mEM,pn,any,pl,1,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='mEM,pn,any,pl,1,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='o'>
+87	hamArI		<fs af='mEM,pn,any,pl,1,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='mEM,pn,any,pl,1,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='mEM,pn,any,pl,1,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='mEM,pn,any,pl,1,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='o'>
+88	hamase		<fs af='hamasA,adj,m,sg,,o,,'>|<fs af='hamasA,adj,m,pl,,d,,'>|<fs af='hamasA,adj,m,pl,,o,,'>|<fs af='mEM,pn,any,pl,1,o,se,se'>
+89	hameM		<fs af='mEM,pn,any,pl,1,o,ko,ko'>
+90	hamIM		<fs af='mEM,pn,any,pl,1,o,0,0' emph='y'>
+91	hamIMkA		<fs af='mEM,pn,any,pl,1,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='d'>
+92	hamIMke		<fs af='mEM,pn,any,pl,1,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='mEM,pn,any,pl,1,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='mEM,pn,any,pl,1,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='o'>
+93	hamIMkI		<fs af='mEM,pn,any,pl,1,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='mEM,pn,any,pl,1,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='mEM,pn,any,pl,1,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='mEM,pn,any,pl,1,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='o'>
+94	hamIMko		<fs af='mEM,pn,any,pl,1,o,ko,ko' emph='y'>
+95	hamIMmeM		<fs af='mEM,pn,any,pl,1,o,meM,meM' emph='y'>
+96	hamIMne		<fs af='mEM,pn,any,pl,1,o,ne,ne' emph='y'>
+97	hamIMpara		<fs af='mEM,pn,any,pl,1,o,para,para' emph='y'>
+98	hamIMse		<fs af='mEM,pn,any,pl,1,o,se,se' emph='y'>
+99	hari		<fs af='hari,n,m,sg,3,d,0,0'>|<fs af='hari,n,m,pl,3,d,0,0'>|<fs af='hari,n,m,sg,3,o,0,0'>
+100	hE		<fs af='hE,v,any,sg,2,,hE,hE'>|<fs af='hE,v,any,sg,3,,hE,hE'>
+101	hEM		<fs af='hE,v,any,pl,1,,hE,hE'>|<fs af='hE,v,any,pl,3,,hE,hE'>
+102	ho		<fs af='ho,n,f,sg,3,d,0,0'>|<fs af='ho,n,f,pl,3,d,0,0'>|<fs af='ho,n,f,sg,3,o,0,0'>|<fs af='ho,n,f,pl,3,o,0,0'>|<fs af='ho,v,any,any,any,,0,0'>|<fs af='hE,v,any,pl,2,,hE,hE'>
+103	hogA		<fs af='ho,v,m,sg,2,,gA,gA'>|<fs af='ho,v,m,sg,3,,gA,gA'>
+104	hoge		<fs af='ho,v,m,pl,2,,gA,gA'>
+105	hogI		<fs af='ho,v,f,sg,2,,gA,gA'>|<fs af='ho,v,f,sg,3,,gA,gA'>
+106	hoie		<fs af='ho,v,any,sg,2,,e,e' hon='y'>|<fs af='ho,v,any,pl,2,,e,e' hon='y'>
+107	hoiyegA		<fs af='ho,v,m,sg,2,,gA,gA' hon='y'>|<fs af='ho,v,m,pl,2,,gA,gA' hon='y'>|<fs af='ho,v,f,sg,2,,gA,gA' hon='y'>|<fs af='ho,v,f,pl,2,,gA,gA' hon='y'>
+108	hokara		<fs af='ho,v,any,any,any,,kara,kara'>
+109	hoM		<fs af='hE,v,any,sg,any,,hE,hE'>|<fs af='hE,v,any,pl,any,,hE,hE'>
+110	hoMge		<fs af='ho,v,m,pl,1,,gA,gA'>|<fs af='ho,v,m,pl,3,,gA,gA'>
+111	hoMgI		<fs af='ho,v,f,pl,1,,gA,gA'>|<fs af='ho,v,f,pl,3,,gA,gA'>
+112	honA		<fs af='ho,v,m,sg,any,,nA,nA'>
+113	hone		<fs af='ho,v,m,pl,any,,nA,nA'>
+114	honI		<fs af='honI,n,f,sg,3,d,0,0'>|<fs af='honI,n,f,sg,3,o,0,0'>|<fs af='ho,v,f,sg,any,,nA,nA'>
+115	honIM		<fs af='ho,v,f,pl,any,,nA,nA'>
+116	hoo		<fs af='ho,v,any,pl,2,,e,e'>
+117	hoogI		<fs af='ho,v,f,pl,2,,gA,gA'>
+118	hoUz		<fs af='ho,v,any,sg,1,,e,e'>
+119	hoUzgA		<fs af='ho,v,m,sg,1,,gA,gA'>
+120	hoUzgI		<fs af='ho,v,f,sg,1,,gA,gA'>
+121	howA		<fs af='howA,n,m,sg,3,d,0,0'>|<fs af='howA,n,m,pl,3,d,0,0'>|<fs af='howA,n,m,sg,3,o,0,0'>|<fs af='ho,v,m,sg,any,,wA,wA'>
+122	howe		<fs af='ho,v,m,pl,any,,wA,wA'>
+123	howI		<fs af='ho,v,f,sg,any,,wA,wA'>
+124	howIM		<fs af='ho,v,f,pl,any,,wA,wA'>
+125	hoyeM		<fs af='ho,v,any,pl,1,,e,e'>|<fs af='ho,v,any,pl,3,,e,e'>
+126	hue		<fs af='ho,v,any,sg,2,,e,e'>|<fs af='ho,v,any,sg,3,,e,e'>|<fs af='ho,v,m,pl,any,,yA,yA'>
+127	huI		<fs af='ho,v,f,sg,any,,yA,yA'>
+128	huIM		<fs af='ho,v,f,pl,any,,yA,yA'>
+129	huvA		<fs af='ho,v,m,sg,any,,yA,yA'>
+130	huye		<fs af='ho,v,any,sg,2,,e,e'>|<fs af='ho,v,any,sg,3,,e,e'>|<fs af='ho,v,m,pl,any,,yA,yA'>
+131	hUz		<fs af='hE,v,any,sg,1,,hE,hE'>
+132	ikkAnave		<fs af='ikkAnave,adj,any,pl,,d,,'>|<fs af='ikkAnave,adj,any,pl,,o,,'>|<fs af='ikkAnave,n,m,sg,3,d,0,0'>|<fs af='ikkAnave,n,m,pl,3,d,0,0'>|<fs af='ikkAnave,n,m,sg,3,o,0,0'>|<fs af='ikkAnave,n,m,pl,3,o,0,0'>
+133	ikkAnaveoz		<fs af='ikkAnave,adj,any,pl,,d,,' emph='y'>|<fs af='ikkAnave,adj,any,pl,,o,,' emph='y'>
+134	ina		<fs af='yaha,pn,any,pl,3,o,0,0'>
+135	inakA		<fs af='yaha,pn,any,pl,3,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='d'>
+136	inake		<fs af='yaha,pn,any,pl,3,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='yaha,pn,any,pl,3,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='yaha,pn,any,pl,3,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='o'>
+137	inakI		<fs af='yaha,pn,any,pl,3,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='yaha,pn,any,pl,3,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='yaha,pn,any,pl,3,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='yaha,pn,any,pl,3,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='o'>
+138	inameM		<fs af='yaha,pn,any,pl,3,o,meM,meM'>
+139	inapara		<fs af='yaha,pn,any,pl,3,o,para,para'>
+140	inase		<fs af='inasA,adj,m,sg,,o,,'>|<fs af='inasA,adj,m,pl,,d,,'>|<fs af='inasA,adj,m,pl,,o,,'>|<fs af='yaha,pn,any,pl,3,o,se,se'>
+141	inheM		<fs af='yaha,pn,any,pl,3,o,ko,ko'>
+142	inhIM		<fs af='yaha,pn,any,pl,3,o,0,0' emph='y'>
+143	inhIMkA		<fs af='yaha,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='d'>
+144	inhIMke		<fs af='yaha,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='yaha,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='yaha,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='o'>
+145	inhIMkI		<fs af='yaha,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='yaha,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='yaha,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='yaha,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='o'>
+146	inhIMko		<fs af='yaha,pn,any,pl,3,o,ko,ko' emph='y'>
+147	inhIMmeM		<fs af='yaha,pn,any,pl,3,o,meM,meM' emph='y'>
+148	inhIMne		<fs af='yaha,pn,any,pl,3,o,ne,ne' emph='y'>
+149	inhIMpara		<fs af='yaha,pn,any,pl,3,o,para,para' emph='y'>
+150	inhIMse		<fs af='yaha,pn,any,pl,3,o,se,se' emph='y'>
+151	inhoMne		<fs af='yaha,pn,any,pl,3,o,ne,ne'>
+152	IrRyA		<fs af='IrRyA,n,f,sg,3,d,0,0'>|<fs af='IrRyA,n,f,pl,3,d,0,0'>|<fs af='IrRyA,n,f,sg,3,o,0,0'>|<fs af='IrRyA,n,f,pl,3,o,0,0'>
+153	isa		<fs af='yaha,pn,any,sg,3,o,0,0'>
+154	isakA		<fs af='yaha,pn,any,sg,3,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='d'>
+155	isake		<fs af='yaha,pn,any,sg,3,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='yaha,pn,any,sg,3,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='yaha,pn,any,sg,3,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='o'>
+156	isakI		<fs af='yaha,pn,any,sg,3,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='yaha,pn,any,sg,3,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='yaha,pn,any,sg,3,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='yaha,pn,any,sg,3,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='o'>
+157	isameM		<fs af='yaha,pn,any,sg,3,o,meM,meM'>
+158	isane		<fs af='yaha,pn,any,sg,3,o,ne,ne'>
+159	isapara		<fs af='yaha,pn,any,sg,3,o,para,para'>
+160	isase		<fs af='yaha,pn,any,sg,3,o,se,se'>
+161	ise		<fs af='yaha,pn,any,sg,3,o,ko,ko'>
+162	isI		<fs af='yaha,pn,any,sg,3,o,0,0' emph='y'>
+163	isIkA		<fs af='yaha,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='d'>
+164	isIke		<fs af='yaha,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='yaha,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='yaha,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='o'>
+165	isIkI		<fs af='yaha,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='yaha,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='yaha,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='yaha,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='o'>
+166	isIko		<fs af='yaha,pn,any,sg,3,o,ko,ko' emph='y'>
+167	isImeM		<fs af='yaha,pn,any,sg,3,o,meM,meM' emph='y'>
+168	isIne		<fs af='yaha,pn,any,sg,3,o,ne,ne' emph='y'>
+169	isIpara		<fs af='yaha,pn,any,sg,3,o,para,para' emph='y'>
+170	isIse		<fs af='yaha,pn,any,sg,3,o,se,se' emph='y'>
+171	jA		<fs af='jA,n,f,sg,3,d,0,0'>|<fs af='jA,n,f,sg,3,o,0,0'>|<fs af='jA,v,any,any,any,,0,0'>
+172	jAyA		<fs af='jAyA,adj,any,any,,any,,'>|<fs af='jA,v,m,sg,any,,yA,yA'>
+173	jina		<fs af='jina,n,m,sg,3,d,0,0'>|<fs af='jina,n,m,pl,3,d,0,0'>|<fs af='jina,n,m,sg,3,o,0,0'>|<fs af='jo,pn,any,pl,3,o,0,0'>
+174	jinakA		<fs af='jo,pn,any,pl,3,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='d'>
+175	jinake		<fs af='jo,pn,any,pl,3,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='jo,pn,any,pl,3,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='jo,pn,any,pl,3,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='o'>
+176	jinakI		<fs af='jo,pn,any,pl,3,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='jo,pn,any,pl,3,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='jo,pn,any,pl,3,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='jo,pn,any,pl,3,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='o'>
+177	jinameM		<fs af='jo,pn,any,pl,3,o,meM,meM'>
+178	jinapara		<fs af='jo,pn,any,pl,3,o,para,para'>
+179	jinase		<fs af='jo,pn,any,pl,3,o,se,se'>
+180	jinheM		<fs af='jo,pn,any,pl,3,o,ko,ko'>
+181	jinhIM		<fs af='jo,pn,any,pl,3,o,0,0' emph='y'>
+182	jinhIMkA		<fs af='jo,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='d'>
+183	jinhIMke		<fs af='jo,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='jo,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='jo,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='o'>
+184	jinhIMkI		<fs af='jo,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='jo,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='jo,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='jo,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='o'>
+185	jinhIMko		<fs af='jo,pn,any,pl,3,o,ko,ko' emph='y'>
+186	jinhIMmeM		<fs af='jo,pn,any,pl,3,o,meM,meM' emph='y'>
+187	jinhIMne		<fs af='jo,pn,any,pl,3,o,ne,ne' emph='y'>
+188	jinhIMpara		<fs af='jo,pn,any,pl,3,o,para,para' emph='y'>
+189	jinhIMse		<fs af='jo,pn,any,pl,3,o,se,se' emph='y'>
+190	jinhoMne		<fs af='jo,pn,any,pl,3,o,ne,ne'>
+191	jisa		<fs af='jo,pn,any,sg,3,o,0,0'>
+192	jisakA		<fs af='jo,pn,any,sg,3,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='d'>
+193	jisake		<fs af='jo,pn,any,sg,3,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='jo,pn,any,sg,3,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='jo,pn,any,sg,3,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='o'>
+194	jisakI		<fs af='jo,pn,any,sg,3,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='jo,pn,any,sg,3,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='jo,pn,any,sg,3,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='jo,pn,any,sg,3,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='o'>
+195	jisameM		<fs af='jo,pn,any,sg,3,o,meM,meM'>
+196	jisane		<fs af='jo,pn,any,sg,3,o,ne,ne'>
+197	jisapara		<fs af='jo,pn,any,sg,3,o,para,para'>
+198	jisase		<fs af='jo,pn,any,sg,3,o,se,se'>
+199	jise		<fs af='jo,pn,any,sg,3,o,ko,ko'>
+200	jo		<fs af='jo,avy,,,,,,'>|<fs af='jo,pn,any,sg,3,d,0,0'>|<fs af='jo,pn,any,pl,3,d,0,0'>
+201	jO		<fs af='jO,n,m,sg,3,d,0,0'>|<fs af='jO,n,m,pl,3,d,0,0'>|<fs af='jO,n,m,sg,3,o,0,0'>|<fs af='jO,n,m,pl,3,o,0,0'>
+202	kA		<fs af='kA,psp,m,sg,,d,kA,kA'>
+203	KA		<fs af='KA,v,any,any,any,,0,0'>
+204	KAegA		<fs af='KA,v,m,sg,2,,gA,gA'>|<fs af='KA,v,m,sg,3,,gA,gA'>
+205	KAegI		<fs af='KA,v,f,sg,2,,gA,gA'>|<fs af='KA,v,f,sg,3,,gA,gA'>
+206	KAezge		<fs af='KA,v,m,pl,1,,gA,gA'>|<fs af='KA,v,m,pl,3,,gA,gA'>
+207	KAezgI		<fs af='KA,v,f,pl,1,,gA,gA'>|<fs af='KA,v,f,pl,3,,gA,gA'>
+208	kaI		<fs af='kaI,n,m,sg,3,d,0,0'>|<fs af='kaI,n,m,pl,3,d,0,0'>|<fs af='kaI,n,m,sg,3,o,0,0'>|<fs af='kaI,adj,any,pl,,d,,'>|<fs af='kaI,adj,any,pl,,o,,'>
+209	KAI		<fs af='KAI,n,f,sg,3,d,0,0'>|<fs af='KAI,n,f,sg,3,o,0,0'>|<fs af='KA,v,f,sg,any,,yA,yA'>
+210	KAiegA		<fs af='KA,v,m,sg,2,,gA,gA' hon='y'>|<fs af='KA,v,m,pl,2,,gA,gA' hon='y'>|<fs af='KA,v,f,sg,2,,gA,gA' hon='y'>|<fs af='KA,v,f,pl,2,,gA,gA' hon='y'>
+211	KAIM		<fs af='KA,v,f,pl,any,,yA,yA'>
+212	KAiye		<fs af='KA,v,any,sg,2,,e,e' hon='y'>|<fs af='KA,v,any,pl,2,,e,e' hon='y'>
+213	kaiyoz		<fs af='kaI,n,m,pl,3,o,0,0'>|<fs af='kaI,n,m,pl,3,o,0,0'>|<fs af='kaI,adj,any,pl,,d,,' emph='y'>|<fs af='kaI,adj,any,pl,,o,,' emph='y'>
+214	KAkara		<fs af='KA,v,any,any,any,,kara,kara'>
+215	kAlA		<fs af='kAlA,adj,m,sg,,d,,'>|<fs af='kAlA,n,m,sg,3,d,0,0'>
+216	kAle		<fs af='kAlA,adj,m,sg,,o,,'>|<fs af='kAlA,adj,m,pl,,d,,'>|<fs af='kAlA,adj,m,pl,,o,,'>|<fs af='kAlA,n,m,pl,3,d,0,0'>|<fs af='kAlA,n,m,sg,3,o,0,0'>
+217	kAlI		<fs af='kAlI,n,f,sg,3,d,0,0'>|<fs af='kAlI,n,f,pl,3,d,0,0'>|<fs af='kAlI,n,f,sg,3,o,0,0'>|<fs af='kAlI,n,f,pl,3,o,0,0'>|<fs af='kAlI,adj,f,any,,any,,'>
+218	KAnA		<fs af='KAnA,n,m,sg,3,d,0,0'>|<fs af='KA,v,m,sg,any,,nA,nA'>
+219	KAne		<fs af='KAnA,n,m,pl,3,d,0,0'>|<fs af='KAnA,n,m,sg,3,o,0,0'>|<fs af='KA,v,m,pl,any,,nA,nA'>
+220	KAnI		<fs af='KA,v,f,sg,any,,nA,nA'>
+221	KAnIM		<fs af='KA,v,f,pl,any,,nA,nA'>
+222	KAo		<fs af='KA,v,any,pl,2,,e,e'>
+223	KAoge		<fs af='KA,v,m,pl,2,,gA,gA'>
+224	KAogI		<fs af='KA,v,f,pl,2,,gA,gA'>
+225	kara		<fs af='kara,n,m,sg,3,d,0,0'>|<fs af='kara,n,m,pl,3,d,0,0'>|<fs af='kara,n,m,sg,3,o,0,0'>|<fs af='kara,v,any,any,any,,0,0'>
+226	karake		<fs af='karakA,n,m,pl,3,d,0,0'>|<fs af='karakA,n,m,sg,3,o,0,0'>|<fs af='karaka,v,any,sg,2,,e,e'>|<fs af='karaka,v,any,sg,3,,e,e'>|<fs af='karaka,v,m,pl,any,,yA,yA'>|<fs af='kara,v,any,any,any,,kara,kara'>
+227	karanA		<fs af='kara,v,m,sg,any,,nA,nA'>
+228	karane		<fs af='kara,v,m,pl,any,,nA,nA'>
+229	karanI		<fs af='karanI,n,f,sg,3,d,0,0'>|<fs af='karanI,n,f,pl,3,d,0,0'>|<fs af='karanI,n,f,sg,3,o,0,0'>|<fs af='karanI,n,f,pl,3,o,0,0'>|<fs af='kara,v,f,sg,any,,nA,nA'>
+230	karanIM		<fs af='kara,v,f,pl,any,,nA,nA'>
+231	karawA		<fs af='karawA,n,m,sg,3,d,0,0'>|<fs af='kara,v,m,sg,any,,wA,wA'>
+232	karawe		<fs af='karawA,n,m,pl,3,d,0,0'>|<fs af='karawA,n,m,sg,3,o,0,0'>|<fs af='kara,v,m,pl,any,,wA,wA'>
+233	karawI		<fs af='kara,v,f,sg,any,,wA,wA'>
+234	karawIM		<fs af='kara,v,f,pl,any,,wA,wA'>
+235	Karca		<fs af='Karca,n,m,sg,3,d,0,0'>|<fs af='Karca,n,m,sg,3,o,0,0'>|<fs af='Karca,v,any,any,any,,0,0'>
+236	Karce		<fs af='Karca,n,m,pl,3,d,0,0'>|<fs af='Karca,v,any,sg,2,,e,e'>|<fs af='Karca,v,any,sg,3,,e,e'>|<fs af='Karca,v,m,pl,any,,yA,yA'>
+237	KarcoM		<fs af='Karca,n,m,pl,3,o,0,0'>
+238	karegA		<fs af='kara,v,m,sg,2,,gA,gA'>|<fs af='kara,v,m,sg,3,,gA,gA'>
+239	karegI		<fs af='kara,v,f,sg,2,,gA,gA'>|<fs af='kara,v,f,sg,3,,gA,gA'>
+240	kareM		<fs af='kara,v,any,pl,1,,e,e'>|<fs af='kara,v,any,pl,2,,e,e' hon='y'>
+241	kareMge		<fs af='kara,v,m,pl,1,,gA,gA'>|<fs af='kara,v,m,pl,3,,gA,gA'>
+242	kareMgI		<fs af='kara,v,f,pl,1,,gA,gA'>|<fs af='kara,v,f,pl,3,,gA,gA'>
+243	karie		<fs af='kara,v,any,sg,2,,e,e' hon='y'>|<fs af='kara,v,any,pl,3,,e,e'>
+244	karo		<fs af='kara,v,any,pl,2,,e,e'>
+245	karoge		<fs af='kara,v,m,pl,2,,gA,gA'>
+246	karogI		<fs af='kara,v,f,pl,2,,gA,gA'>
+247	karUz		<fs af='kara,v,any,sg,1,,e,e'>
+248	karUzgA		<fs af='kara,v,m,sg,1,,gA,gA'>
+249	karUzgI		<fs af='kara,v,f,sg,1,,gA,gA'>
+250	katu		<fs af='katu,n,m,sg,3,d,0,0'>|<fs af='katu,n,m,pl,3,d,0,0'>|<fs af='katu,n,m,sg,3,o,0,0'>|<fs af='katu,adj,any,any,,any,,'>
+251	KAUz		<fs af='KA,v,any,sg,1,,e,e'>
+252	KAUzgA		<fs af='KA,v,m,sg,1,,gA,gA'>
+253	KAUzgI		<fs af='KA,v,f,sg,1,,gA,gA'>
+254	kavi		<fs af='kavi,n,m,sg,3,d,0,0'>|<fs af='kavi,n,m,pl,3,d,0,0'>|<fs af='kavi,n,m,sg,3,o,0,0'>
+255	kaviyoM		<fs af='kavi,n,m,pl,3,o,0,0'>
+256	KAwA		<fs af='KAwA,n,m,sg,3,d,0,0'>|<fs af='KA,v,m,sg,any,,wA,wA'>
+257	KAwe		<fs af='KAwA,n,m,pl,3,d,0,0'>|<fs af='KAwA,n,m,sg,3,o,0,0'>|<fs af='KA,v,m,pl,any,,wA,wA'>
+258	KAwI		<fs af='KAwI,n,m,sg,3,d,0,0'>|<fs af='KAwI,n,m,pl,3,d,0,0'>|<fs af='KAwI,n,m,sg,3,o,0,0'>|<fs af='KA,v,f,sg,any,,wA,wA'>
+259	KAwIM		<fs af='KA,v,f,pl,any,,wA,wA'>
+260	KAyA		<fs af='KA,v,m,sg,any,,yA,yA'>
+261	KAye		<fs af='KA,v,any,sg,2,,e,e'>|<fs af='KA,v,any,sg,3,,e,e'>|<fs af='KA,v,m,pl,any,,yA,yA'>
+262	KAyeM		<fs af='KA,v,any,pl,1,,e,e'>|<fs af='KA,v,any,pl,3,,e,e'>
+263	ke		<fs af='kA,psp,m,sg,,o,kA,kA'>|<fs af='kA,psp,m,pl,,d,kA,kA'>|<fs af='kA,psp,m,pl,,o,kA,kA'>
+264	kI		<fs af='kA,psp,f,sg,,d,kA,kA'>|<fs af='kA,psp,f,sg,,o,kA,kA'>|<fs af='kA,psp,f,pl,,d,kA,kA'>|<fs af='kA,psp,f,pl,,o,kA,kA'>|<fs af='kara,v,f,sg,any,,yA,yA'>
+265	kie		<fs af='kara,v,any,sg,2,,e,e'>|<fs af='kara,v,any,sg,3,,e,e'>|<fs af='kara,v,m,pl,any,,yA,yA'>
+266	kIjiyegA		<fs af='kara,v,m,sg,2,,gA,gA' hon='y'>|<fs af='kara,v,m,pl,2,,gA,gA' hon='y'>|<fs af='kara,v,f,sg,2,,gA,gA' hon='y'>|<fs af='kara,v,f,pl,2,,gA,gA' hon='y'>
+267	kIM		<fs af='kara,v,f,pl,any,,yA,yA'>
+268	kina		<fs af='kOna,pn,any,pl,3,o,0,0'>
+269	kinakA		<fs af='kOna,pn,any,pl,3,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='d'>
+270	kinake		<fs af='kOna,pn,any,pl,3,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='kOna,pn,any,pl,3,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='kOna,pn,any,pl,3,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='o'>
+271	kinakI		<fs af='kinakI,n,f,sg,3,d,0,0'>|<fs af='kinakI,n,f,sg,3,o,0,0'>|<fs af='kOna,pn,any,pl,3,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='kOna,pn,any,pl,3,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='kOna,pn,any,pl,3,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='kOna,pn,any,pl,3,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='o'>
+272	kinameM		<fs af='kOna,pn,any,pl,3,o,meM,meM'>
+273	kinapara		<fs af='kOna,pn,any,pl,3,o,para,para'>
+274	kinase		<fs af='kinasA,adj,m,sg,,o,,'>|<fs af='kinasA,adj,m,pl,,d,,'>|<fs af='kinasA,adj,m,pl,,o,,'>|<fs af='kOna,pn,any,pl,3,o,se,se'>
+275	kinheM		<fs af='kOna,pn,any,pl,3,o,ko,ko'>
+276	kinhIM		<fs af='koI,pn,any,pl,3,o,0,0'>
+277	kinhIMkA		<fs af='kOna,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='d'>
+278	kinhIMke		<fs af='kOna,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='kOna,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='kOna,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='o'>
+279	kinhIMkI		<fs af='kOna,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='kOna,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='kOna,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='kOna,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='o'>
+280	kinhIMko		<fs af='koI,pn,any,pl,3,o,ko,ko'>
+281	kinhIMmeM		<fs af='koI,pn,any,pl,3,o,meM,meM'>
+282	kinhIMpara		<fs af='koI,pn,any,pl,3,o,para,para'>
+283	kinhIMse		<fs af='koI,pn,any,pl,3,o,se,se'>
+284	kinhoMne		<fs af='kOna,pn,any,pl,3,o,ne,ne'>|<fs af='koI,pn,any,pl,3,o,ne,ne'>
+285	kisa		<fs af='kOna,pn,any,sg,3,o,0,0'>
+286	kisakA		<fs af='kOna,pn,any,sg,3,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='d'>
+287	kisake		<fs af='kOna,pn,any,sg,3,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='kOna,pn,any,sg,3,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='kOna,pn,any,sg,3,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='o'>
+288	kisakI		<fs af='kOna,pn,any,sg,3,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='kOna,pn,any,sg,3,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='kOna,pn,any,sg,3,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='kOna,pn,any,sg,3,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='o'>|<fs af='kOna,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='o'>
+289	kisameM		<fs af='kOna,pn,any,sg,3,o,meM,meM'>
+290	kisane		<fs af='kOna,pn,any,sg,3,o,ne,ne'>
+291	kisapara		<fs af='kOna,pn,any,sg,3,o,para,para'>
+292	kisase		<fs af='kOna,pn,any,sg,3,o,se,se'>
+293	kise		<fs af='kOna,pn,any,sg,3,o,ko,ko'>
+294	kisI		<fs af='koI,pn,any,sg,3,o,0,0'>
+295	kisIkA		<fs af='kOna,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='d'>
+296	kisIke		<fs af='kOna,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='kOna,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='kOna,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='o'>
+297	kisIkI		<fs af='kOna,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='kOna,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='kOna,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='o'>
+298	kisIko		<fs af='koI,pn,any,sg,3,o,ko,ko'>
+299	kisImeM		<fs af='koI,pn,any,sg,3,o,meM,meM'>
+300	kisIne		<fs af='koI,pn,any,sg,3,o,ne,ne'>
+301	kisIpara		<fs af='koI,pn,any,sg,3,o,para,para'>
+302	kisIse		<fs af='koI,pn,any,sg,3,o,se,se'>
+303	kiyA		<fs af='kara,v,m,sg,any,,yA,yA'>
+304	kiye		<fs af='kara,v,any,sg,2,,e,e'>|<fs af='kara,v,any,sg,3,,e,e'>|<fs af='kara,v,m,pl,any,,yA,yA'>
+305	koI		<fs af='koI,pn,any,sg,3,d,0,0'>|<fs af='koI,pn,any,pl,3,d,0,0'>
+306	kOna		<fs af='kOna,avy,,,,,,'>|<fs af='kOna,pn,any,sg,3,d,0,0'>|<fs af='kOna,pn,any,pl,3,d,0,0'>
+307	kroXa		<fs af='kroXa,n,m,sg,3,d,0,0'>|<fs af='kroXa,n,m,pl,3,d,0,0'>|<fs af='kroXa,n,m,sg,3,o,0,0'>
+308	kuAz		<fs af='kuAz,n,m,sg,3,d,0,0'>
+309	kuez		<fs af='kuAz,n,m,pl,3,d,0,0'>|<fs af='kuAz,n,m,sg,3,o,0,0'>
+310	kuoM		<fs af='kuAz,n,m,pl,3,o,0,0'>
+311	ladakA		<fs af='ladakA,adj,m,sg,,d,,'>|<fs af='ladakA,n,m,sg,3,d,0,0'>
+312	ladake		<fs af='ladakA,adj,m,sg,,o,,'>|<fs af='ladakA,adj,m,pl,,d,,'>|<fs af='ladakA,adj,m,pl,,o,,'>|<fs af='ladakA,n,m,pl,3,d,0,0'>|<fs af='ladakA,n,m,sg,3,o,0,0'>|<fs af='lada,v,any,any,any,,kara,kara'>
+313	ladakI		<fs af='ladakI,adj,f,any,,any,,'>|<fs af='ladakI,n,f,sg,3,d,0,0'>|<fs af='ladakI,n,f,sg,3,o,0,0'>
+314	ladakiyAz		<fs af='ladakI,n,f,pl,3,d,0,0'>
+315	ladakiyoM		<fs af='ladakI,n,f,pl,3,o,0,0'>
+316	ladakoM		<fs af='ladakA,n,m,pl,3,o,0,0'>
+317	lahU		<fs af='lahU,n,m,sg,3,d,0,0'>|<fs af='lahU,n,m,pl,3,d,0,0'>|<fs af='lahU,n,m,sg,3,o,0,0'>
+318	le		<fs af='le,v,any,any,any,,0,0'>
+319	legA		<fs af='le,v,m,sg,2,,gA,gA'>|<fs af='le,v,m,sg,3,,gA,gA'>
+320	legI		<fs af='le,v,f,sg,2,,gA,gA'>|<fs af='le,v,f,sg,3,,gA,gA'>
+321	lekara		<fs af='le,v,any,any,any,,kara,kara'>
+322	leM		<fs af='le,v,any,pl,1,,e,e'>|<fs af='le,v,any,pl,3,,e,e'>
+323	leMge		<fs af='le,v,m,pl,1,,gA,gA'>|<fs af='le,v,m,pl,3,,gA,gA'>
+324	leMgI		<fs af='le,v,f,pl,1,,gA,gA'>|<fs af='le,v,f,pl,3,,gA,gA'>
+325	lenA		<fs af='le,v,m,sg,any,,nA,nA'>
+326	lene		<fs af='le,v,m,pl,any,,nA,nA'>
+327	lenI		<fs af='le,v,f,sg,any,,nA,nA'>
+328	lenIM		<fs af='le,v,f,pl,any,,nA,nA'>
+329	lewA		<fs af='le,v,m,sg,any,,wA,wA'>
+330	lewe		<fs af='le,v,m,pl,any,,wA,wA'>
+331	lewI		<fs af='le,v,f,sg,any,,wA,wA'>
+332	lewIM		<fs af='le,v,f,pl,any,,wA,wA'>
+333	lI		<fs af='le,v,f,sg,any,,yA,yA'>
+334	lie		<fs af='lie,psp,,,,,,'>|<fs af='le,v,any,sg,2,,e,e'>|<fs af='le,v,any,sg,3,,e,e'>|<fs af='le,v,m,pl,any,,yA,yA'>
+335	lIjie		<fs af='le,v,any,sg,2,,e,e' hon='y'>|<fs af='le,v,any,pl,2,,e,e' hon='y'>
+336	lIjiyegA		<fs af='le,v,m,sg,2,,gA,gA' hon='y'>|<fs af='le,v,m,pl,2,,gA,gA' hon='y'>|<fs af='le,v,f,sg,2,,gA,gA' hon='y'>|<fs af='le,v,f,pl,2,,gA,gA' hon='y'>
+337	lIM		<fs af='le,v,f,pl,any,,yA,yA'>
+338	liyA		<fs af='le,v,m,sg,any,,yA,yA'>
+339	liye		<fs af='liye,psp,,,,,,'>|<fs af='le,v,any,sg,2,,e,e'>|<fs af='le,v,any,sg,3,,e,e'>|<fs af='le,v,m,pl,any,,yA,yA'>
+340	lo		<fs af='lo,avy,,,,,,'>|<fs af='le,v,any,pl,2,,e,e'>
+341	lO		<fs af='lO,n,f,sg,3,d,0,0'>|<fs af='lO,n,f,sg,3,o,0,0'>
+342	lOez		<fs af='lO,n,f,pl,3,d,0,0'>
+343	loge		<fs af='le,v,m,pl,2,,gA,gA'>
+344	logI		<fs af='le,v,f,pl,2,,gA,gA'>
+345	lohA		<fs af='lohA,v,any,any,any,,0,0'>|<fs af='lohA,n,m,sg,3,d,0,0'>
+346	lohe		<fs af='lohA,n,m,pl,3,d,0,0'>|<fs af='lohA,n,m,sg,3,o,0,0'>|<fs af='lohA,n,m,pl,3,o,0,0'>
+347	lOvoM		<fs af='lO,n,f,pl,3,o,0,0'>
+348	lUz		<fs af='le,v,any,sg,1,,e,e'>
+349	lUzgA		<fs af='le,v,m,sg,1,,gA,gA'>
+350	lUzgI		<fs af='le,v,f,sg,1,,gA,gA'>
+351	mAz		<fs af='mAz,n,f,sg,3,d,0,0'>|<fs af='mAz,n,f,sg,3,o,0,0'>
+352	mAzoM		<fs af='mAz,n,f,pl,3,o,0,0'>
+353	mAzyeM		<fs af='mAz,n,f,pl,3,d,0,0'>
+354	mEM		<fs af='mEM,pn,any,sg,1,d,0,0'>
+355	mEMne		<fs af='mEM,pn,any,sg,1,o,ne,ne'>
+356	merA		<fs af='merA,adj,m,sg,,d,,'>|<fs af='mEM,pn,any,sg,1,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='d'>
+357	mere		<fs af='merA,adj,m,sg,,o,,'>|<fs af='merA,adj,m,pl,,d,,'>|<fs af='merA,adj,m,pl,,o,,'>|<fs af='mEM,pn,any,sg,1,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='mEM,pn,any,sg,1,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='mEM,pn,any,sg,1,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='o'>
+358	merI		<fs af='merI,adj,f,any,,any,,'>|<fs af='mEM,pn,any,sg,1,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='mEM,pn,any,sg,1,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='mEM,pn,any,sg,1,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='mEM,pn,any,sg,1,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='o'>
+359	muJa		<fs af='mEM,pn,any,sg,1,o,0,0'>
+360	muJameM		<fs af='mEM,pn,any,sg,1,o,meM,meM'>
+361	muJapara		<fs af='mEM,pn,any,sg,1,o,para,para'>
+362	muJase		<fs af='muJasA,adj,m,sg,,o,,'>|<fs af='muJasA,adj,m,pl,,d,,'>|<fs af='muJasA,adj,m,pl,,o,,'>|<fs af='mEM,pn,any,sg,1,o,se,se'>
+363	muJe		<fs af='mEM,pn,any,sg,1,o,ko,ko'>
+364	muJI		<fs af='mEM,pn,any,sg,1,o,0,0' emph='y'>
+365	muJIkA		<fs af='mEM,pn,any,sg,1,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='d'>
+366	muJIke		<fs af='mEM,pn,any,sg,1,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='mEM,pn,any,sg,1,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='mEM,pn,any,sg,1,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='o'>
+367	muJIkI		<fs af='mEM,pn,any,sg,1,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='mEM,pn,any,sg,1,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='mEM,pn,any,sg,1,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='mEM,pn,any,sg,1,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='o'>
+368	muJIko		<fs af='mEM,pn,any,sg,1,o,ko,ko' emph='y'>
+369	muJImeM		<fs af='mEM,pn,any,sg,1,o,meM,meM' emph='y'>
+370	muJIne		<fs af='mEM,pn,any,sg,1,o,ne,ne' emph='y'>
+371	muJIpara		<fs af='mEM,pn,any,sg,1,o,para,para' emph='y'>
+372	muJIse		<fs af='mEM,pn,any,sg,1,o,se,se' emph='y'>
+373	pAnI		<fs af='pAnI,n,m,sg,3,d,0,0'>|<fs af='pAnI,n,m,pl,3,d,0,0'>|<fs af='pAnI,n,m,sg,3,o,0,0'>|<fs af='pA,v,f,sg,any,,nA,nA'>
+374	pI		<fs af='pI,v,any,any,any,,0,0'>|<fs af='pI,v,f,sg,any,,yA,yA'>
+375	piegA		<fs af='pI,v,m,sg,2,,gA,gA'>|<fs af='pI,v,m,sg,3,,gA,gA'>
+376	piezge		<fs af='pI,v,m,pl,1,,gA,gA'>|<fs af='pI,v,m,pl,3,,gA,gA'>
+377	piezgI		<fs af='pI,v,f,pl,1,,gA,gA'>|<fs af='pI,v,f,pl,3,,gA,gA'>
+378	pIjiegA		<fs af='pI,v,m,sg,2,,gA,gA' hon='y'>|<fs af='pI,v,m,pl,2,,gA,gA' hon='y'>|<fs af='pI,v,f,sg,2,,gA,gA' hon='y'>|<fs af='pI,v,f,pl,2,,gA,gA' hon='y'>
+379	pIjiye		<fs af='pI,v,any,sg,2,,e,e' hon='y'>|<fs af='pI,v,any,pl,2,,e,e' hon='y'>
+380	pIkara		<fs af='pI,v,any,any,any,,kara,kara'>
+381	pIM		<fs af='pI,v,f,pl,any,,yA,yA'>
+382	pInA		<fs af='pI,v,m,sg,any,,nA,nA'>
+383	pIne		<fs af='pI,v,m,pl,any,,nA,nA'>
+384	pInI		<fs af='pI,v,f,sg,any,,nA,nA'>
+385	pInIM		<fs af='pI,v,f,pl,any,,nA,nA'>
+386	pio		<fs af='pI,v,any,pl,2,,e,e'>
+387	pioge		<fs af='pI,v,m,pl,2,,gA,gA'>
+388	piogI		<fs af='pI,v,f,pl,2,,gA,gA'>
+389	piUz		<fs af='pI,v,any,sg,1,,e,e'>
+390	piUzgA		<fs af='pI,v,m,sg,1,,gA,gA'>
+391	piUzgI		<fs af='pI,v,f,sg,1,,gA,gA'>
+392	pIwA		<fs af='pI,v,m,sg,any,,wA,wA'>
+393	pIwe		<fs af='pI,v,m,pl,any,,wA,wA'>
+394	pIwI		<fs af='pI,v,f,sg,any,,wA,wA'>
+395	pIwIM		<fs af='pI,v,f,pl,any,,wA,wA'>
+396	piyA		<fs af='piyA,v,any,any,any,,0,0'>|<fs af='piyA,n,m,sg,3,d,0,0'>|<fs af='piyA,n,m,pl,3,d,0,0'>|<fs af='piyA,n,m,sg,3,o,0,0'>|<fs af='piyA,n,m,pl,3,o,0,0'>|<fs af='pI,v,m,sg,any,,yA,yA'>
+397	piye		<fs af='pI,v,any,sg,2,,e,e'>|<fs af='pI,v,any,sg,3,,e,e'>|<fs af='pI,v,m,pl,any,,yA,yA'>
+398	piyegI		<fs af='pI,v,f,sg,2,,gA,gA'>|<fs af='pI,v,f,sg,3,,gA,gA'>
+399	piyeM		<fs af='pI,v,any,pl,1,,e,e'>|<fs af='pI,v,any,pl,3,,e,e'>
+400	Poto		<fs af='Poto,n,f,sg,3,d,0,0'>|<fs af='Poto,n,f,pl,3,d,0,0'>|<fs af='Poto,n,f,sg,3,o,0,0'>|<fs af='Poto,n,f,pl,3,o,0,0'>
+401	pUne		<fs af='pUne,n,m,sg,3,d,0,0'>|<fs af='pUne,n,m,pl,3,d,0,0'>|<fs af='pUne,n,m,sg,3,o,0,0'>|<fs af='pUne,n,m,pl,3,o,0,0'>
+402	qwu		<fs af='qwu,n,f,sg,3,d,0,0'>|<fs af='qwu,n,f,sg,3,o,0,0'>
+403	qwuez		<fs af='qwu,n,f,pl,3,d,0,0'>
+404	qwuoM		<fs af='qwu,n,f,pl,3,o,0,0'>
+405	rAjA		<fs af='rAjA,n,m,sg,3,d,0,0'>|<fs af='rAjA,n,m,pl,3,d,0,0'>|<fs af='rAjA,n,m,sg,3,o,0,0'>
+406	rAjAoM		<fs af='rAjA,n,m,pl,3,o,0,0'>
+407	rAwa		<fs af='rAwa,n,f,sg,3,d,0,0'>|<fs af='rAwa,n,f,sg,3,o,0,0'>
+408	rAweM		<fs af='rAwa,n,f,pl,3,d,0,0'>
+409	rAwoM		<fs af='rAwa,n,f,pl,3,o,0,0'>
+410	redio		<fs af='redio,n,m,sg,3,d,0,0'>|<fs af='redio,n,m,pl,3,d,0,0'>|<fs af='redio,n,m,sg,3,o,0,0'>|<fs af='redio,n,m,pl,3,o,0,0'>
+411	saba		<fs af='saba,n,m,sg,3,d,0,0'>|<fs af='saba,n,m,pl,3,d,0,0'>|<fs af='saba,n,m,sg,3,o,0,0'>|<fs af='saba,adj,any,any,,any,,'>|<fs af='saba,pn,any,pl,3,any,0,0'>
+412	sabakA		<fs af='saba,pn,any,pl,3,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='d'>
+413	sabake		<fs af='saba,pn,any,pl,3,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='saba,pn,any,pl,3,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='saba,pn,any,pl,3,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='o'>
+414	sabakI		<fs af='saba,pn,any,pl,3,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='saba,pn,any,pl,3,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='saba,pn,any,pl,3,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='saba,pn,any,pl,3,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='o'>
+415	sabako		<fs af='saba,pn,any,pl,3,o,ko,ko'>
+416	sabameM		<fs af='saba,pn,any,pl,3,o,meM,meM'>
+417	sabane		<fs af='saba,pn,any,pl,3,o,ne,ne'>
+418	sabapara		<fs af='saba,pn,any,pl,3,o,para,para'>
+419	sabase		<fs af='sabase,adv,,,,,,'>|<fs af='sabasA,adj,m,sg,,o,,'>|<fs af='sabasA,adj,m,pl,,d,,'>|<fs af='sabasA,adj,m,pl,,o,,'>|<fs af='saba,pn,any,pl,3,o,se,se'>
+420	saBI		<fs af='saBI,adj,any,any,,any,,'>|<fs af='saBI,n,m,sg,3,d,0,0'>|<fs af='saBI,n,m,pl,3,d,0,0'>|<fs af='saBI,n,m,sg,3,o,0,0'>|<fs af='saBI,n,m,pl,3,o,0,0'>|<fs af='saba,pn,any,pl,3,o,0,0' emph='y'>
+421	saBIkA		<fs af='saba,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='d'>
+422	saBIke		<fs af='saba,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='saba,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='saba,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='o'>
+423	saBIkI		<fs af='saba,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='saba,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='saba,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='saba,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='o'>
+424	saBIko		<fs af='saba,pn,any,pl,3,o,ko,ko' emph='y'>
+425	saBImeM		<fs af='saba,pn,any,pl,3,o,meM,meM' emph='y'>
+426	saBIne		<fs af='saba,pn,any,pl,3,o,ne,ne' emph='y'>
+427	saBIpara		<fs af='saba,pn,any,pl,3,o,para,para' emph='y'>
+428	saBIse		<fs af='saba,pn,any,pl,3,o,se,se' emph='y'>
+429	saboM		<fs af='saba,n,m,pl,3,o,0,0'>|<fs af='saba,pn,any,pl,3,o,0,0'>
+430	SAnwi		<fs af='SAnwi,n,f,sg,3,d,0,0'>|<fs af='SAnwi,n,f,pl,3,d,0,0'>|<fs af='SAnwi,n,f,sg,3,o,0,0'>|<fs af='SAnwi,n,f,pl,3,o,0,0'>
+431	sarasoM		<fs af='sarasoM,n,f,sg,3,d,0,0'>|<fs af='sarasoM,n,f,pl,3,d,0,0'>|<fs af='sarasoM,n,f,sg,3,o,0,0'>|<fs af='sarasoM,n,f,pl,3,o,0,0'>
+432	Sawru		<fs af='Sawru,n,m,sg,3,d,0,0'>|<fs af='Sawru,n,m,pl,3,d,0,0'>|<fs af='Sawru,n,m,sg,3,o,0,0'>
+433	SawruoM		<fs af='Sawru,n,m,pl,3,o,0,0'>
+434	se		<fs af='se,psp,,,,,,'>|<fs af='se,v,any,any,any,,0,0'>|<fs af='sA,psp,m,sg,,o,kA,kA'>|<fs af='sA,psp,m,pl,,d,kA,kA'>|<fs af='sA,psp,m,pl,,o,kA,kA'>
+435	see		<fs af='se,v,any,sg,2,,e,e'>|<fs af='se,v,any,sg,3,,e,e'>|<fs af='se,v,m,pl,any,,yA,yA'>
+436	seegA		<fs af='se,v,m,sg,2,,gA,gA'>|<fs af='se,v,m,sg,3,,gA,gA'>
+437	seI		<fs af='se,v,f,sg,any,,yA,yA'>
+438	seiegA		<fs af='se,v,m,sg,2,,gA,gA' hon='y'>|<fs af='se,v,m,pl,2,,gA,gA' hon='y'>|<fs af='se,v,f,sg,2,,gA,gA' hon='y'>|<fs af='se,v,f,pl,2,,gA,gA' hon='y'>
+439	seIM		<fs af='se,v,f,pl,any,,yA,yA'>
+440	seiye		<fs af='se,v,any,sg,2,,e,e' hon='y'>|<fs af='se,v,any,pl,2,,e,e' hon='y'>
+441	sekara		<fs af='se,v,any,any,any,,kara,kara'>
+442	senA		<fs af='senA,n,f,sg,3,d,0,0'>|<fs af='senA,n,f,sg,3,o,0,0'>|<fs af='se,v,m,sg,any,,nA,nA'>
+443	sene		<fs af='se,v,m,pl,any,,nA,nA'>
+444	senI		<fs af='se,v,f,sg,any,,nA,nA'>
+445	senIM		<fs af='se,v,f,pl,any,,nA,nA'>
+446	seo		<fs af='se,v,any,pl,2,,e,e'>
+447	seoge		<fs af='se,v,m,pl,2,,gA,gA'>
+448	seogI		<fs af='se,v,f,pl,2,,gA,gA'>
+449	seUz		<fs af='se,v,any,sg,1,,e,e'>
+450	seUzgA		<fs af='se,v,m,sg,1,,gA,gA'>
+451	seUzgI		<fs af='se,v,f,sg,1,,gA,gA'>
+452	sewA		<fs af='se,v,m,sg,any,,wA,wA'>
+453	sewe		<fs af='se,v,m,pl,any,,wA,wA'>
+454	sewI		<fs af='se,v,f,sg,any,,wA,wA'>
+455	sewIM		<fs af='se,v,f,pl,any,,wA,wA'>
+456	seyA		<fs af='se,v,m,sg,any,,yA,yA'>
+457	seye		<fs af='se,v,any,sg,2,,e,e'>|<fs af='se,v,any,sg,3,,e,e'>|<fs af='se,v,m,pl,any,,yA,yA'>
+458	seyegI		<fs af='se,v,f,sg,2,,gA,gA'>|<fs af='se,v,f,sg,3,,gA,gA'>
+459	seyeM		<fs af='se,v,any,pl,1,,e,e'>|<fs af='se,v,any,pl,3,,e,e'>
+460	seyeMge		<fs af='se,v,m,pl,1,,gA,gA'>|<fs af='se,v,m,pl,3,,gA,gA'>
+461	seyeMgI		<fs af='se,v,f,pl,1,,gA,gA'>|<fs af='se,v,f,pl,3,,gA,gA'>
+462	so		<fs af='so,v,any,any,any,,0,0'>
+463	soe		<fs af='so,v,any,sg,2,,e,e'>|<fs af='so,v,any,sg,3,,e,e'>|<fs af='so,v,m,pl,any,,yA,yA'>|<fs af='soA,n,m,pl,3,d,0,0'>|<fs af='soA,n,m,sg,3,o,0,0'>
+464	soegA		<fs af='so,v,m,sg,2,,gA,gA'>|<fs af='so,v,m,sg,3,,gA,gA'>
+465	soI		<fs af='so,v,f,sg,any,,yA,yA'>
+466	soie		<fs af='so,v,any,sg,2,,e,e' hon='y'>|<fs af='so,v,any,pl,2,,e,e' hon='y'>
+467	soiegA		<fs af='so,v,m,sg,2,,gA,gA' hon='y'>|<fs af='so,v,m,pl,2,,gA,gA' hon='y'>|<fs af='so,v,f,sg,2,,gA,gA' hon='y'>|<fs af='so,v,f,pl,2,,gA,gA' hon='y'>
+468	soIM		<fs af='so,v,f,pl,any,,yA,yA'>
+469	sokara		<fs af='so,v,any,any,any,,kara,kara'>
+470	sonA		<fs af='sonA,n,m,sg,3,d,0,0'>|<fs af='so,v,m,sg,any,,nA,nA'>
+471	sone		<fs af='sonA,n,m,pl,3,d,0,0'>|<fs af='sonA,n,m,sg,3,o,0,0'>|<fs af='so,v,m,pl,any,,nA,nA'>
+472	sonI		<fs af='sonI,n,m,sg,3,d,0,0'>|<fs af='sonI,n,m,pl,3,d,0,0'>|<fs af='sonI,n,m,sg,3,o,0,0'>|<fs af='so,v,f,sg,any,,nA,nA'>
+473	sonIM		<fs af='so,v,f,pl,any,,nA,nA'>
+474	soo		<fs af='so,v,any,pl,2,,e,e'>
+475	sooge		<fs af='so,v,m,pl,2,,gA,gA'>
+476	soogI		<fs af='so,v,f,pl,2,,gA,gA'>
+477	soUz		<fs af='so,v,any,sg,1,,e,e'>
+478	soUzgA		<fs af='so,v,m,sg,1,,gA,gA'>
+479	soUzgI		<fs af='so,v,f,sg,1,,gA,gA'>
+480	sowA		<fs af='sowA,adj,m,sg,,d,,'>|<fs af='sowA,n,m,sg,3,d,0,0'>|<fs af='so,v,m,sg,any,,wA,wA'>
+481	sowe		<fs af='sowA,adj,m,sg,,o,,'>|<fs af='sowA,adj,m,pl,,d,,'>|<fs af='sowA,adj,m,pl,,o,,'>|<fs af='sowA,n,m,pl,3,d,0,0'>|<fs af='sowA,n,m,sg,3,o,0,0'>|<fs af='so,v,m,pl,any,,wA,wA'>
+482	sowI		<fs af='sowI,adj,f,any,,any,,'>|<fs af='so,v,f,sg,any,,wA,wA'>
+483	sowIM		<fs af='so,v,f,pl,any,,wA,wA'>
+484	soyA		<fs af='soyA,adj,m,sg,,d,,'>|<fs af='soyA,n,m,sg,3,d,0,0'>|<fs af='so,v,m,sg,any,,yA,yA'>
+485	soyegI		<fs af='so,v,f,sg,2,,gA,gA'>|<fs af='so,v,f,sg,3,,gA,gA'>
+486	soyeM		<fs af='so,v,any,pl,1,,e,e'>|<fs af='so,v,any,pl,3,,e,e'>
+487	soyeMge		<fs af='so,v,m,pl,1,,gA,gA'>|<fs af='so,v,m,pl,3,,gA,gA'>
+488	soyeMgI		<fs af='so,v,f,pl,1,,gA,gA'>|<fs af='so,v,f,pl,3,,gA,gA'>
+489	una		<fs af='vaha,pn,any,pl,3,o,0,0'>
+490	unakA		<fs af='vaha,pn,any,pl,3,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='d'>
+491	unake		<fs af='vaha,pn,any,pl,3,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='vaha,pn,any,pl,3,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='vaha,pn,any,pl,3,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='o'>
+492	unakI		<fs af='vaha,pn,any,pl,3,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='vaha,pn,any,pl,3,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='vaha,pn,any,pl,3,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='vaha,pn,any,pl,3,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='o'>
+493	unameM		<fs af='vaha,pn,any,pl,3,o,meM,meM'>
+494	unapara		<fs af='vaha,pn,any,pl,3,o,para,para'>
+495	unase		<fs af='unasA,adj,m,sg,,o,,'>|<fs af='unasA,adj,m,pl,,d,,'>|<fs af='unasA,adj,m,pl,,o,,'>|<fs af='vaha,pn,any,pl,3,o,se,se'>
+496	unheM		<fs af='vaha,pn,any,pl,3,o,ko,ko'>
+497	unhIM		<fs af='vaha,pn,any,pl,3,o,0,0' emph='y'>
+498	unhIMkA		<fs af='vaha,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='d'>
+499	unhIMke		<fs af='vaha,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='vaha,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='vaha,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='o'>
+500	unhIMkI		<fs af='vaha,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='vaha,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='vaha,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='vaha,pn,any,pl,3,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='o'>
+501	unhIMko		<fs af='vaha,pn,any,pl,3,o,ko,ko' emph='y'>
+502	unhIMmeM		<fs af='vaha,pn,any,pl,3,o,meM,meM' emph='y'>
+503	unhIMne		<fs af='vaha,pn,any,pl,3,o,ne,ne' emph='y'>
+504	unhIMpara		<fs af='vaha,pn,any,pl,3,o,para,para' emph='y'>
+505	unhIMse		<fs af='vaha,pn,any,pl,3,o,se,se' emph='y'>
+506	unhoMne		<fs af='vaha,pn,any,pl,3,o,ne,ne'>
+507	usa		<fs af='vaha,pn,any,sg,3,o,0,0'>
+508	usakA		<fs af='usakA,v,any,any,any,,0,0'>|<fs af='usaka,v,m,sg,any,,yA,yA'>|<fs af='vaha,pn,any,sg,3,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='d'>
+509	usake		<fs af='usaka,v,any,sg,2,,e,e'>|<fs af='usaka,v,any,sg,3,,e,e'>|<fs af='usaka,v,m,pl,any,,yA,yA'>|<fs af='vaha,pn,any,sg,3,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='vaha,pn,any,sg,3,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='vaha,pn,any,sg,3,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='o'>
+510	usakI		<fs af='usaka,v,f,sg,any,,yA,yA'>|<fs af='vaha,pn,any,sg,3,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='vaha,pn,any,sg,3,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='vaha,pn,any,sg,3,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='vaha,pn,any,sg,3,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='o'>
+511	usameM		<fs af='vaha,pn,any,sg,3,o,meM,meM'>
+512	usane		<fs af='usanA,adj,m,sg,,o,,'>|<fs af='usanA,adj,m,pl,,d,,'>|<fs af='usanA,adj,m,pl,,o,,'>|<fs af='usanA,n,m,pl,3,d,0,0'>|<fs af='usanA,n,m,sg,3,o,0,0'>|<fs af='vaha,pn,any,sg,3,o,ne,ne'>
+513	usapara		<fs af='vaha,pn,any,sg,3,o,para,para'>
+514	usase		<fs af='vaha,pn,any,sg,3,o,se,se'>
+515	use		<fs af='vaha,pn,any,sg,3,o,ko,ko'>
+516	usI		<fs af='vaha,pn,any,sg,3,o,0,0' emph='y'>
+517	usIkA		<fs af='vaha,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='d'>
+518	usIke		<fs af='vaha,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='vaha,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='vaha,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='o'>
+519	usIkI		<fs af='vaha,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='vaha,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='vaha,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='vaha,pn,any,sg,3,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='o'>
+520	usIko		<fs af='vaha,pn,any,sg,3,o,ko,ko' emph='y'>
+521	usImeM		<fs af='vaha,pn,any,sg,3,o,meM,meM' emph='y'>
+522	usIne		<fs af='vaha,pn,any,sg,3,o,ne,ne' emph='y'>
+523	usIpara		<fs af='vaha,pn,any,sg,3,o,para,para' emph='y'>
+524	usIse		<fs af='vaha,pn,any,sg,3,o,se,se' emph='y'>
+525	uTa		<fs af='uTa,v,any,any,any,,0,0'>
+526	uTA		<fs af='uTA,v,any,any,any,,0,0'>|<fs af='uTA,adj,m,sg,,d,,'>|<fs af='uTA,n,m,sg,3,d,0,0'>|<fs af='uTa,v,m,sg,any,,yA,yA'>
+527	uTakara		<fs af='uTa,v,any,any,any,,kara,kara'>
+528	uTanA		<fs af='uTa,v,m,sg,any,,nA,nA'>
+529	uTane		<fs af='uTa,v,m,pl,any,,nA,nA'>
+530	uTanI		<fs af='uTa,v,f,sg,any,,nA,nA'>
+531	uTanIM		<fs af='uTa,v,f,pl,any,,nA,nA'>
+532	uTawA		<fs af='uTa,v,m,sg,any,,wA,wA'>
+533	uTawe		<fs af='uTa,v,m,pl,any,,wA,wA'>
+534	uTawI		<fs af='uTa,v,f,sg,any,,wA,wA'>
+535	uTawIM		<fs af='uTa,v,f,pl,any,,wA,wA'>
+536	uTe		<fs af='uTA,adj,m,sg,,o,,'>|<fs af='uTA,adj,m,pl,,d,,'>|<fs af='uTA,adj,m,pl,,o,,'>|<fs af='uTA,n,m,pl,3,d,0,0'>|<fs af='uTA,n,m,sg,3,o,0,0'>|<fs af='uTa,v,any,sg,2,,e,e'>|<fs af='uTa,v,any,sg,3,,e,e'>|<fs af='uTa,v,m,pl,any,,yA,yA'>
+537	uTegA		<fs af='uTa,v,m,sg,2,,gA,gA'>|<fs af='uTa,v,m,sg,3,,gA,gA'>
+538	uTegI		<fs af='uTa,v,f,sg,2,,gA,gA'>|<fs af='uTa,v,f,sg,3,,gA,gA'>
+539	uTeM		<fs af='uTa,v,any,pl,1,,e,e'>|<fs af='uTa,v,any,pl,3,,e,e'>
+540	uTeMge		<fs af='uTa,v,m,pl,1,,gA,gA'>|<fs af='uTa,v,m,pl,2,,gA,gA' hon='y'>
+541	uTeMgI		<fs af='uTa,v,f,pl,1,,gA,gA'>|<fs af='uTa,v,f,pl,3,,gA,gA'>
+542	uTI		<fs af='uTI,adj,f,any,,any,,'>|<fs af='uTa,v,f,sg,any,,yA,yA'>
+543	uTie		<fs af='uTa,v,any,sg,2,,e,e' hon='y'>|<fs af='uTa,v,any,pl,2,,e,e' hon='y'>
+544	uTiegA		<fs af='uTa,v,m,sg,2,,gA,gA' hon='y'>|<fs af='uTa,v,m,pl,3,,gA,gA'>|<fs af='uTa,v,f,sg,2,,gA,gA' hon='y'>|<fs af='uTa,v,f,pl,2,,gA,gA' hon='y'>
+545	uTIM		<fs af='uTa,v,f,pl,any,,yA,yA'>
+546	uTo		<fs af='uTa,v,any,pl,2,,e,e'>
+547	uToge		<fs af='uTa,v,m,pl,2,,gA,gA'>
+548	uTogI		<fs af='uTa,v,f,pl,2,,gA,gA'>
+549	uTUz		<fs af='uTa,v,any,sg,1,,e,e'>
+550	uTUzgA		<fs af='uTa,v,m,sg,1,,gA,gA'>
+551	uTUzgI		<fs af='uTa,v,f,sg,1,,gA,gA'>
+552	vaha		<fs af='vaha,pn,any,sg,3,d,0,0'>
+553	vahIM		<fs af='vahIM,adv,,,,,,'>|<fs af='vaha,pn,any,sg,3,d,0,0' emph='y'>
+554	vAyu		<fs af='vAyu,n,f,sg,3,d,0,0'>|<fs af='vAyu,n,f,pl,3,d,0,0'>|<fs af='vAyu,n,f,sg,3,o,0,0'>|<fs af='vAyu,n,f,pl,3,o,0,0'>
+555	ve		<fs af='vaha,pn,any,pl,3,d,0,0'>
+556	viXAwA		<fs af='viXAwA,n,m,sg,3,d,0,0'>|<fs af='viXAwA,n,m,pl,3,d,0,0'>|<fs af='viXAwA,n,m,sg,3,o,0,0'>
+557	WA		<fs af='WA,v,m,sg,any,,WA,WA'>
+558	We		<fs af='WA,v,m,pl,any,,WA,WA'>
+559	werA		<fs af='wU,pn,any,sg,2,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='d'>
+560	were		<fs af='wU,pn,any,sg,2,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='wU,pn,any,sg,2,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='wU,pn,any,sg,2,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='o'>
+561	werI		<fs af='wU,pn,any,sg,2,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='wU,pn,any,sg,2,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='wU,pn,any,sg,2,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='wU,pn,any,sg,2,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='o'>
+562	WI		<fs af='WA,v,f,sg,any,,WA,WA'>
+563	WIM		<fs af='WA,v,f,pl,any,,WA,WA'>
+564	wU		<fs af='wU,pn,any,sg,2,d,0,0'>
+565	wuJa		<fs af='wU,pn,any,sg,2,o,0,0'>
+566	wuJameM		<fs af='wU,pn,any,sg,2,o,meM,meM'>
+567	wuJapara		<fs af='wU,pn,any,sg,2,o,para,para'>
+568	wuJase		<fs af='wU,pn,any,sg,2,o,se,se'>
+569	wuJe		<fs af='wU,pn,any,sg,2,o,ko,ko'>
+570	wuJI		<fs af='wU,pn,any,sg,2,o,0,0' emph='y'>
+571	wuJIkA		<fs af='wU,pn,any,sg,2,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='d'>
+572	wuJIke		<fs af='wU,pn,any,sg,2,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='wU,pn,any,sg,2,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='wU,pn,any,sg,2,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='o'>
+573	wuJIkI		<fs af='wU,pn,any,sg,2,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='wU,pn,any,sg,2,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='wU,pn,any,sg,2,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='wU,pn,any,sg,2,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='o'>
+574	wuJIko		<fs af='wU,pn,any,sg,2,o,ko,ko' emph='y'>
+575	wuJImeM		<fs af='wU,pn,any,sg,2,o,meM,meM' emph='y'>
+576	wuJIne		<fs af='wU,pn,any,sg,2,o,ne,ne' emph='y'>
+577	wuJIpara		<fs af='wU,pn,any,sg,2,o,para,para' emph='y'>
+578	wuJIse		<fs af='wU,pn,any,sg,2,o,se,se' emph='y'>
+579	wuma		<fs af='wU,pn,any,pl,2,d,0,0'>|<fs af='wU,pn,any,sg,2,o,0,0'>
+580	wumameM		<fs af='wU,pn,any,pl,2,o,meM,meM'>
+581	wumane		<fs af='wU,pn,any,pl,2,o,ne,ne'>
+582	wumapara		<fs af='wU,pn,any,pl,2,o,para,para'>
+583	wumase		<fs af='wumasA,adj,m,sg,,o,,'>|<fs af='wumasA,adj,m,pl,,d,,'>|<fs af='wumasA,adj,m,pl,,o,,'>|<fs af='wU,pn,any,pl,2,o,se,se'>
+584	wumhArA		<fs af='wU,pn,any,pl,2,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='d'>
+585	wumhAre		<fs af='wU,pn,any,pl,2,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='wU,pn,any,pl,2,o,kA,kA' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='wU,pn,any,pl,2,o,kA,kA' agr_gen='m' agr_num='pl' agr_cas='o'>
+586	wumhArI		<fs af='wU,pn,any,pl,2,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='wU,pn,any,pl,2,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='wU,pn,any,pl,2,o,kA,kA' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='wU,pn,any,pl,2,o,kA,kA' agr_gen='f' agr_num='pl' agr_cas='o'>
+587	wumheM		<fs af='wU,pn,any,pl,2,o,ko,ko'>
+588	wumhIko		<fs af='wU,pn,any,pl,2,o,ko,ko' emph='y'>
+589	wumhIM		<fs af='wU,pn,any,pl,2,o,0,0' emph='y'>
+590	wumhImeM		<fs af='wU,pn,any,pl,2,o,meM,meM' emph='y'>
+591	wumhIMkA		<fs af='wU,pn,any,pl,2,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='d'>
+592	wumhIMke		<fs af='wU,pn,any,pl,2,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='d'>|<fs af='wU,pn,any,pl,2,o,kA,kA' emph='y' agr_gen='m' agr_num='sg' agr_cas='o'>|<fs af='wU,pn,any,pl,2,o,kA,kA' emph='y' agr_gen='m' agr_num='pl' agr_cas='o'>
+593	wumhIMkI		<fs af='wU,pn,any,pl,2,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='d'>|<fs af='wU,pn,any,pl,2,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='d'>|<fs af='wU,pn,any,pl,2,o,kA,kA' emph='y' agr_gen='f' agr_num='sg' agr_cas='o'>|<fs af='wU,pn,any,pl,2,o,kA,kA' emph='y' agr_gen='f' agr_num='pl' agr_cas='o'>
+594	wumhIne		<fs af='wU,pn,any,pl,2,o,ne,ne' emph='y'>
+595	wumhIpara		<fs af='wU,pn,any,pl,2,o,para,para' emph='y'>
+596	wumhIse		<fs af='wU,pn,any,pl,2,o,se,se' emph='y'>
+597	wUne		<fs af='wU,pn,any,sg,2,o,ne,ne'>
+598	xasavAz		<fs af='xasavAz,n,m,sg,3,d,0,0'>|<fs af='xasavAz,adj,m,sg,,d,,'>
+599	xasavez		<fs af='xasavAz,n,m,pl,3,d,0,0'>|<fs af='xasavAz,n,m,sg,3,o,0,0'>|<fs af='xasavAz,adj,m,sg,,o,,'>|<fs af='xasavAz,adj,m,pl,,d,,'>|<fs af='xasavAz,adj,m,pl,,o,,'>
+600	xAyAz		<fs af='xAyAz,n,m,sg,3,d,0,0'>|<fs af='xAyAz,adj,m,sg,,d,,'>
+601	xAyez		<fs af='xAyAz,n,m,pl,3,d,0,0'>|<fs af='xAyAz,n,m,sg,3,o,0,0'>|<fs af='xAyAz,adj,m,sg,,o,,'>|<fs af='xAyAz,adj,m,pl,,d,,'>|<fs af='xAyAz,adj,m,pl,,o,,'>|<fs af='xA,v,any,pl,1,,e,e'>|<fs af='xA,v,any,pl,3,,e,e'>
+602	xAyoz		<fs af='xAyAz,n,m,pl,3,o,0,0'>
+603	yaha		<fs af='yaha,pn,any,sg,3,d,0,0'>
+604	yahIM		<fs af='yahIM,adv,,,,,,'>|<fs af='yaha,pn,any,sg,3,d,0,0' emph='y'>
+605	ye		<fs af='yaha,pn,any,pl,3,d,0,0'>

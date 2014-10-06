@@ -1,0 +1,109 @@
+1	aba		<fs af='aba,adv,,,,,,'>
+2	Apa		<fs af='Apa,pn,any,any,any,o,0,0'>|<fs af='Apa,adv,,,,,,'>
+3	Apako		<fs af='Apa,pn,any,any,any,o,ko,ko'>
+4	ApameM		<fs af='Apa,pn,any,any,any,o,meM,meM'>
+5	Apane		<fs af='Apa,pn,any,any,any,o,ne,ne'>
+6	Apapara		<fs af='Apa,pn,any,any,any,o,para,para'>
+7	Apase		<fs af='ApasA,adj,m,sg,,o,,'>|<fs af='ApasA,adj,m,pl,,d,,'>|<fs af='ApasA,adj,m,pl,,o,,'>|<fs af='Apa,pn,any,any,any,o,se,se'>
+8	hama		<fs af='mEM,pn,any,pl,1,d,0,0'>|<fs af='mEM,pn,any,pl,1,o,0,0'>
+9	hamameM		<fs af='mEM,pn,any,pl,1,o,meM,meM'>
+10	hamane		<fs af='mEM,pn,any,pl,1,o,ne,ne'>
+11	hamapara		<fs af='mEM,pn,any,pl,1,o,para,para'>
+12	hamase		<fs af='hamasA,adj,m,sg,,o,,'>|<fs af='hamasA,adj,m,pl,,d,,'>|<fs af='hamasA,adj,m,pl,,o,,'>|<fs af='mEM,pn,any,pl,1,o,se,se'>
+13	hameM		<fs af='mEM,pn,any,pl,1,o,ko,ko'>
+14	ina		<fs af='yaha,pn,any,pl,3,o,0,0'>
+15	inameM		<fs af='yaha,pn,any,pl,3,o,meM,meM'>
+16	inapara		<fs af='yaha,pn,any,pl,3,o,para,para'>
+17	inase		<fs af='inasA,adj,m,sg,,o,,'>|<fs af='inasA,adj,m,pl,,d,,'>|<fs af='inasA,adj,m,pl,,o,,'>|<fs af='yaha,pn,any,pl,3,o,se,se'>
+18	inheM		<fs af='yaha,pn,any,pl,3,o,ko,ko'>
+19	inhoMne		<fs af='yaha,pn,any,pl,3,o,ne,ne'>
+20	isa		<fs af='yaha,pn,any,sg,3,o,0,0'>
+21	isameM		<fs af='yaha,pn,any,sg,3,o,meM,meM'>
+22	isane		<fs af='yaha,pn,any,sg,3,o,ne,ne'>
+23	isapara		<fs af='yaha,pn,any,sg,3,o,para,para'>
+24	isase		<fs af='yaha,pn,any,sg,3,o,se,se'>
+25	ise		<fs af='yaha,pn,any,sg,3,o,ko,ko'>
+26	isI		<fs af='yaha,pn,any,sg,3,o,0,0' emph='y'>
+27	jahAz		<fs af='jahAz,adv,,,,,,'>|<fs af='jahAz,n,m,sg,3,d,0,0'>|<fs af='jahAz,n,m,pl,3,d,0,0'>|<fs af='jahAz,n,m,sg,3,o,0,0'>|<fs af='jahAz,n,m,pl,3,o,0,0'>
+28	jina		<fs af='jina,n,m,sg,3,d,0,0'>|<fs af='jina,n,m,pl,3,d,0,0'>|<fs af='jina,n,m,sg,3,o,0,0'>|<fs af='jo,pn,any,pl,3,o,0,0'>
+29	jinameM		<fs af='jo,pn,any,pl,3,o,meM,meM'>
+30	jinapara		<fs af='jo,pn,any,pl,3,o,para,para'>
+31	jinase		<fs af='jo,pn,any,pl,3,o,se,se'>
+32	jinheM		<fs af='jo,pn,any,pl,3,o,ko,ko'>
+33	jinhoMne		<fs af='jo,pn,any,pl,3,o,ne,ne'>
+34	jisa		<fs af='jo,pn,any,sg,3,o,0,0'>
+35	jisameM		<fs af='jo,pn,any,sg,3,o,meM,meM'>
+36	jisane		<fs af='jo,pn,any,sg,3,o,ne,ne'>
+37	jisapara		<fs af='jo,pn,any,sg,3,o,para,para'>
+38	jisase		<fs af='jo,pn,any,sg,3,o,se,se'>
+39	jise		<fs af='jo,pn,any,sg,3,o,ko,ko'>
+40	jo		<fs af='jo,avy,,,,,,'>|<fs af='jo,pn,any,sg,3,d,0,0'>|<fs af='jo,pn,any,pl,3,d,0,0'>
+41	kA		<fs af='kA,psp,m,sg,,d,kA,kA'>
+42	kahAz		<fs af='kahAz,adv,,,,,,'>
+43	kina		<fs af='kOna,pn,any,pl,3,o,0,0'>
+44	kinameM		<fs af='kOna,pn,any,pl,3,o,meM,meM'>
+45	kinapara		<fs af='kOna,pn,any,pl,3,o,para,para'>
+46	kinase		<fs af='kinasA,adj,m,sg,,o,,'>|<fs af='kinasA,adj,m,pl,,d,,'>|<fs af='kinasA,adj,m,pl,,o,,'>|<fs af='kOna,pn,any,pl,3,o,se,se'>
+47	kinheM		<fs af='kOna,pn,any,pl,3,o,ko,ko'>
+48	kinhIM		<fs af='koI,pn,any,pl,3,o,0,0'>
+49	kinhIMko		<fs af='koI,pn,any,pl,3,o,ko,ko'>
+50	kinhIMmeM		<fs af='koI,pn,any,pl,3,o,meM,meM'>
+51	kinhIMpara		<fs af='koI,pn,any,pl,3,o,para,para'>
+52	kinhIMse		<fs af='koI,pn,any,pl,3,o,se,se'>
+53	kinhoMne		<fs af='kOna,pn,any,pl,3,o,ne,ne'>|<fs af='koI,pn,any,pl,3,o,ne,ne'>
+54	kisa		<fs af='kOna,pn,any,sg,3,o,0,0'>
+55	kisameM		<fs af='kOna,pn,any,sg,3,o,meM,meM'>
+56	kisane		<fs af='kOna,pn,any,sg,3,o,ne,ne'>
+57	kisapara		<fs af='kOna,pn,any,sg,3,o,para,para'>
+58	kisase		<fs af='kOna,pn,any,sg,3,o,se,se'>
+59	kise		<fs af='kOna,pn,any,sg,3,o,ko,ko'>
+60	kisI		<fs af='koI,pn,any,sg,3,o,0,0'>
+61	kisIko		<fs af='koI,pn,any,sg,3,o,ko,ko'>
+62	kisImeM		<fs af='koI,pn,any,sg,3,o,meM,meM'>
+63	kisIne		<fs af='koI,pn,any,sg,3,o,ne,ne'>
+64	kisIpara		<fs af='koI,pn,any,sg,3,o,para,para'>
+65	kisIse		<fs af='koI,pn,any,sg,3,o,se,se'>
+66	koI		<fs af='koI,pn,any,sg,3,d,0,0'>|<fs af='koI,pn,any,pl,3,d,0,0'>
+67	kOna		<fs af='kOna,avy,,,,,,'>|<fs af='kOna,pn,any,sg,3,d,0,0'>|<fs af='kOna,pn,any,pl,3,d,0,0'>
+68	kuCa		<fs af='kuCa,adv,,,,,,'>|<fs af='kuCa,adj,any,any,,any,,'>|<fs af='kuCa,n,m,sg,3,d,0,0'>|<fs af='kuCa,n,m,pl,3,d,0,0'>|<fs af='kuCa,n,m,sg,3,o,0,0'>|<fs af='kuCa,n,m,pl,3,o,0,0'>
+69	mEM		<fs af='mEM,pn,any,sg,1,d,0,0'>
+70	mEMne		<fs af='mEM,pn,any,sg,1,o,ne,ne'>
+71	muJameM		<fs af='mEM,pn,any,sg,1,o,meM,meM'>
+72	muJapara		<fs af='mEM,pn,any,sg,1,o,para,para'>
+73	muJase		<fs af='muJasA,adj,m,sg,,o,,'>|<fs af='muJasA,adj,m,pl,,d,,'>|<fs af='muJasA,adj,m,pl,,o,,'>|<fs af='mEM,pn,any,sg,1,o,se,se'>
+74	muJe		<fs af='mEM,pn,any,sg,1,o,ko,ko'>
+75	sA		<fs af='sA,avy,,,,,,'>|<fs af='sA,psp,m,sg,,d,kA,kA'>
+76	se		<fs af='se,psp,,,,,,'>|<fs af='se,v,any,any,any,,0,0'>|<fs af='sA,psp,m,sg,,o,kA,kA'>|<fs af='sA,psp,m,pl,,d,kA,kA'>|<fs af='sA,psp,m,pl,,o,kA,kA'>
+77	sI		<fs af='sI,avy,,,,,,'>|<fs af='sI,v,any,any,any,,0,0'>|<fs af='sI,v,f,sg,any,,yA,yA'>|<fs af='sA,psp,f,sg,,d,kA,kA'>|<fs af='sA,psp,f,sg,,o,kA,kA'>|<fs af='sA,psp,f,pl,,d,kA,kA'>|<fs af='sA,psp,f,pl,,o,kA,kA'>
+78	una		<fs af='vaha,pn,any,pl,3,o,0,0'>
+79	unameM		<fs af='vaha,pn,any,pl,3,o,meM,meM'>
+80	unapara		<fs af='vaha,pn,any,pl,3,o,para,para'>
+81	unase		<fs af='unasA,adj,m,sg,,o,,'>|<fs af='unasA,adj,m,pl,,d,,'>|<fs af='unasA,adj,m,pl,,o,,'>|<fs af='vaha,pn,any,pl,3,o,se,se'>
+82	unheM		<fs af='vaha,pn,any,pl,3,o,ko,ko'>
+83	unhoMne		<fs af='vaha,pn,any,pl,3,o,ne,ne'>
+84	usa		<fs af='vaha,pn,any,sg,3,o,0,0'>
+85	usameM		<fs af='vaha,pn,any,sg,3,o,meM,meM'>
+86	usane		<fs af='usanA,adj,m,sg,,o,,'>|<fs af='usanA,adj,m,pl,,d,,'>|<fs af='usanA,adj,m,pl,,o,,'>|<fs af='usanA,n,m,pl,3,d,0,0'>|<fs af='usanA,n,m,sg,3,o,0,0'>|<fs af='vaha,pn,any,sg,3,o,ne,ne'>
+87	usapara		<fs af='vaha,pn,any,sg,3,o,para,para'>
+88	usase		<fs af='vaha,pn,any,sg,3,o,se,se'>
+89	use		<fs af='vaha,pn,any,sg,3,o,ko,ko'>
+90	usI		<fs af='vaha,pn,any,sg,3,o,0,0' emph='y'>
+91	vaha		<fs af='vaha,pn,any,sg,3,d,0,0'>
+92	vahAz		<fs af='vahAz,adv,,,,,,'>
+93	ve		<fs af='vaha,pn,any,pl,3,d,0,0'>
+94	wo		<fs af='wo,avy,,,,,,'>
+95	wU		<fs af='wU,pn,any,sg,2,d,0,0'>
+96	wuJameM		<fs af='wU,pn,any,sg,2,o,meM,meM'>
+97	wuJapara		<fs af='wU,pn,any,sg,2,o,para,para'>
+98	wuJase		<fs af='wU,pn,any,sg,2,o,se,se'>
+99	wuJe		<fs af='wU,pn,any,sg,2,o,ko,ko'>
+100	wuma		<fs af='wU,pn,any,pl,2,d,0,0'>|<fs af='wU,pn,any,sg,2,o,0,0'>
+101	wumameM		<fs af='wU,pn,any,pl,2,o,meM,meM'>
+102	wumane		<fs af='wU,pn,any,pl,2,o,ne,ne'>
+103	wumapara		<fs af='wU,pn,any,pl,2,o,para,para'>
+104	wumase		<fs af='wumasA,adj,m,sg,,o,,'>|<fs af='wumasA,adj,m,pl,,d,,'>|<fs af='wumasA,adj,m,pl,,o,,'>|<fs af='wU,pn,any,pl,2,o,se,se'>
+105	wumheM		<fs af='wU,pn,any,pl,2,o,ko,ko'>
+106	wUne		<fs af='wU,pn,any,sg,2,o,ne,ne'>
+107	yaha		<fs af='yaha,pn,any,sg,3,d,0,0'>
+108	yahAz		<fs af='yahAz,adv,,,,,,'>|<fs af='yahAz,psp,,,,,,'>
+109	ye		<fs af='yaha,pn,any,pl,3,d,0,0'>

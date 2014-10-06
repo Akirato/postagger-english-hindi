@@ -1,0 +1,25 @@
+<Sentence id="1">
+1	((	NP	
+1.1	britiSa	NN	<fs af='britiSa,adj,any,any,,,any,' poslcat="NM">
+	))		
+2	((	NP	
+2.1	SAsana	NN	<fs af='SAsana,n,m,s,,0,,'>
+2.2	ke	PSP	<fs af='kA,n,m,s,,1,Shashthi,' poslcat="NM">
+2.3	xOrAna	NN	<fs af='xOrAna,n,m,s,,0,,'>
+	))		
+3	((	NP	
+3.1	jayapura	NNP	<fs af='jayapura,unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	
+4.1	eka	QC	<fs af='eka,adj,any,any,,,any,' poslcat="NM">
+4.2	xeSI	JJ	<fs af='xeSI,adj,f,any,,,any,'>
+	))		
+5	((	NP	
+5.1	rajavAdaZe	NN	<fs af='rajavAdaZe,unk,,,,,,' poslcat="NM">
+5.2	kI	PSP	<fs af='kA,n,f,s,,0,Shashthi,' poslcat="NM">
+5.3	rAjaXAnI	NN	<fs af='rAjaXAnI,n,f,s,,0,,'>
+	))		
+6	((	VGF	
+6.1	WI	VM	<fs af='WA,v,f,s,any,,,WA'>
+	))		
+</Sentence>

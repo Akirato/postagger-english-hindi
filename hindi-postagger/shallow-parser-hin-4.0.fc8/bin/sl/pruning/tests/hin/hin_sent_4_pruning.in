@@ -1,0 +1,21 @@
+<Sentence id="4">
+1	((	CCP	
+1.1	isalie	CC	<fs af='isaliye,avy,,,,,,'>
+	))		
+2	((	NP	
+2.1	isa	DEM	<fs af='yaha,pn,any,sg,3,o,,'>
+2.2	JIla	NN	<fs af='JIla,n,f,sg,,d,,'>|<fs af='JIla,n,f,sg,,o,,'>
+2.3	ko	PSP	<fs af='ko,psp,,,,,,'>
+	))		
+3	((	NP	
+3.1	SeRanAga	XC	<fs af='SeRanAga,n,m,sg,,d,,'>|<fs af='SeRanAga,n,m,pl,,d,,'>|<fs af='SeRanAga,n,m,sg,,o,,'>|<fs af='SeRanAga,n,m,pl,,o,,'>
+3.2	JIla	NNP	<fs af='JIla,n,f,sg,,d,,'>|<fs af='JIla,n,f,sg,,o,,'>
+	))		
+4	((	VGF	
+4.1	kahA	VM	<fs af='kaha,v,m,sg,any,,yA,yA'>
+4.2	jAwA	VAUX	<fs af='jA,v,m,sg,any,,wA,wA'>
+4.3	hE	VAUX	<fs af='hE,v,any,sg,2,,hE,hE'>|<fs af='hE,v,any,sg,3,,hE,hE'>
+4.4	.	SYM	<fs af='.,punc,,,,,,'>
+	))
+</Sentence>
+

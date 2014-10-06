@@ -1,0 +1,96 @@
+						Shallow Parser Hindi (Version 4.0)
+						----------------------------------
+
+Shallow Parser Hindi :
+
+The Hindi shallow parser gives the analysis of a Hindi sentence at various
+levels. The analysis begins at the morphological level and accumulates at
+results of POS tagger and chunker*. The final ouput combines the results
+of all these levels and shows them in a single representation (called
+Shakti Standard Format)**. 
+
+0 - To Install:
+-  ------------
+
+ Please check INSTALL file.
+
+
+1 - How To Run??
+-- ------------
+
+To run shallow parser hindi from command prompt with the following command:
+
+  shallow_parser_hin < INPFILE   > OUTFILE
+          (or)
+  shallow_parser_hin INPFILE   OUTFILE
+
+  The above will run the parser on an input file called INPFILE containing
+  a single sentence of Hindi in UTF-8 (Unicode UTF-8), and produce the
+  output shallow parse in OUTFILE in UTF-8.
+  
+  Note: The shallow parser hindi runs with a single sentence in text form 
+  in the INPFILE.
+
+1.1 Handling other encodings (in case your input file is not in UTF-8 but
+--- in the popular wx encoding):
+
+  shallow_parser_hin --in_encoding=wx --out_encoding=utf \
+   < INPFILE   > OUTFILE
+
+  *sample test file is in tests/shallowparser_hin_wx.rin
+
+1.2 Getting output of different stages of shallow parser (such as morph
+--- analyzer, POS tagger, chunker, etc.):
+
+  shallow_parser_hin --mode=debug  < INPFILE   > OUTFILE
+
+  Note: To check the intermediate output check OUTPUT.tmp in current directory.
+
+1.3 For help regarding options:
+---
+  shallow_parser_hin --help 
+
+1.4 General form with all the options:
+---
+  shallow_parser_hin --mode=debug --in_encoding=wx \
+   --out_encoding=utf --input=tests/shallowparser_hin_wx.rin
+
+  Note: To check the intermediate output check 
+        OUTPUT.tmp/shallowparser_hin_wx.rin.tmp
+
+shallow_parser_hin [options]
+
+	--mode=fast|debug
+		Creates intermediate files in "debug" mode in 
+                OUTPUT.tmp/filename.tmp  
+	--in_encoding=wx|utf
+		encoding of the input text .
+        --out_encoding=wx|utf
+                encoding of the output text. 
+	--input
+		input file 
+	--output
+		output file (default stdout)
+	-h, --help
+		display help and exit
+	-v, --version
+		output version information and exit
+
+
+2 - Documents
+--  ----------
+     [i] doc/chunk_pos_ann_guidelines.pdf : Chunking and POS annotation 
+					    guidelines
+    [ii] doc/ssf-guide-4oct07.pdf         : Shakti Standard Format Guide
+   [iii] doc/wx-chart.jpg 		  : WX notation
+
+----------------------------------- ---   
+Any Queries Contact:
+---------------------------------------
+   Avinesh PVS,Kunal Sachdeva,Ankush Soni
+   Language Technologies Research Center
+   IIIT Hyderabad
+   (shallowparser@research.iiit.ac.in)
+----------------------------------------
+
+

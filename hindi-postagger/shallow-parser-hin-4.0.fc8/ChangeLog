@@ -1,0 +1,36 @@
+27-06-2013  Kunal Sachdeva  <kunal.sachdeva@students.iiit.ac.in>,<kunal.sachdeva90@gmail.com>
+
+	* Version 4.0
+	
+	Hindi Shallow Parser has comparises these below modules
+
+	1. Convertor-3.3.3
+	2. Tokenizer-1.8
+	3. Morph-hin-3.0.4
+	4. Postagger-crf-hin-2.2
+	5. Chunker-crf-hin-1.4
+	6. Pruning-1.9
+	7. Guess-Morph-1.2
+	7. Headcomputation-1.8 
+	8. Vibhakticomputation-2.3.4
+
+
+
+
+06-07-2009  Avinesh PVS  <avinesh@students.iiit.ac.in>,<avinesh.pvs@gmail.com>
+
+	* Version 3.0
+	
+	Hindi Shallow Parser has comparises these below modules
+
+	1. Convertor-3.3.3
+	2. Tokenizer-0.9922
+	3. Morph-hin-2.5.1
+	4. Postagger-crf-hin-1.4 
+	5. Chunker-crf-hin-1.3
+	6. Pruning-1.5 
+	7. Headcomputation-1.3 
+	8. Vibhakticomputation-2.2.2
+
+
+

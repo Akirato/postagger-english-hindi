@@ -1,0 +1,22 @@
+1	aKAdZe		<fs af='aKAdZA,n,m,pl,,d,0,0'>|<fs af='aKAdZA,n,m,sg,,o,0,0'>
+2	AraMBa		<fs af='AramBa,n,m,sg,,d,0,0'>|<fs af='AramBa,n,m,pl,,d,0,0'>|<fs af='AramBa,n,m,sg,,o,0,0'>|<fs af='AramBa,n,m,pl,,o,0,0'>
+3	baDZAvA		<fs af='baDZAvA,n,m,sg,,d,0,0'>
+4	bejodZa	1	<fs af='bejodZa,n,m,sg,,d,0,0'>|<fs af='bejodZa,n,m,pl,,d,0,0'>|<fs af='bejodZa,n,m,sg,,o,0,0'>|<fs af='bejodZa,adj,any,any,,any,0,0'>
+5	BIdZa-BAdZa		<fs af='BIdZa-BAdZa,unk,,,,,,'>
+6	caDZAve		<fs af='caDZAvA,n,m,pl,,d,0,0'>|<fs af='caDZAvA,n,m,sg,,o,0,0'>|<fs af='caDZAva,n,m,pl,,d,0,0'>
+7	CadZI		<fs af='CadZI,n,f,sg,,d,0,0'>|<fs af='CadZI,n,f,sg,,o,0,0'>
+8	gaDZavAla		<fs af='gaDZavAla,n,m,sg,,d,0,0'>|<fs af='gaDZavAla,n,m,pl,,d,0,0'>|<fs af='gaDZavAla,n,m,sg,,o,0,0'>|<fs af='gaDZavAla,n,m,pl,,o,0,0'>
+9	jZamIna		<fs af='jZamIna,n,f,sg,,d,0,0'>|<fs af='jZamIna,n,f,sg,,o,0,0'>
+10	kEmpa		<fs af='kEMpa,n,m,sg,,d,0,0'>|<fs af='kEMpa,n,m,pl,,d,0,0'>|<fs af='kEMpa,n,m,sg,,o,0,0'>
+11	kenxra		<fs af='keMxra,n,m,sg,,d,0,0'>|<fs af='keMxra,n,m,pl,,d,0,0'>|<fs af='keMxra,n,m,sg,,o,0,0'>
+12	kenxra	1	<fs af='keMxra,n,m,sg,,d,0,0'>|<fs af='keMxra,n,m,pl,,d,0,0'>|<fs af='keMxra,n,m,sg,,o,0,0'>
+13	manwrAlaya		<fs af='maMwrAlaya,n,m,sg,,d,0,0'>|<fs af='maMwrAlaya,n,m,pl,,d,0,0'>|<fs af='maMwrAlaya,n,m,sg,,o,0,0'>
+14	nae		<fs af='nayA,adj,m,sg,,o,,'>|<fs af='nayA,adj,m,pl,,d,,'>|<fs af='nayA,adj,m,pl,,o,,'>|<fs af='nayA,n,m,pl,,d,0,0'>|<fs af='nayA,n,m,sg,,o,0,0'>
+15	nae		<fs af='nayA,adj,m,sg,,o,,'>|<fs af='nayA,adj,m,pl,,d,,'>|<fs af='nayA,adj,m,pl,,o,,'>|<fs af='nayA,n,m,pl,,d,0,0'>|<fs af='nayA,n,m,sg,,o,0,0'>
+16	naye		<fs af='nayA,adj,m,sg,,o,,'>|<fs af='nayA,adj,m,pl,,d,,'>|<fs af='nayA,adj,m,pl,,o,,'>|<fs af='nayA,n,m,pl,3,d,0,0'>|<fs af='nayA,n,m,sg,3,o,0,0'>
+17	padZAva		<fs af='padZAva,n,m,sg,,d,0,0'>|<fs af='padZAva,n,m,pl,,d,0,0'>|<fs af='padZAva,n,m,sg,,o,0,0'>
+18	pahAdZI		<fs af='pahAdZI,adj,any,any,,any,,'>|<fs af='pahAdZI,n,f,sg,,d,0,0'>|<fs af='pahAdZI,n,f,sg,,o,0,0'>
+19	pahAdZiyoM		<fs af='pahAdZI,n,f,pl,,o,0,0'>
+20	pahAdZoM		<fs af='pahAdZa,n,m,pl,3,o,0,0'>
+21	suMxara		<fs af='sunxara,n,m,sg,,d,0,0'>|<fs af='sunxara,n,m,pl,,d,0,0'>|<fs af='sunxara,n,m,sg,,o,0,0'>|<fs af='sunxara,avy,m,sg,,o,0,0'>|<fs af='sunxara,adj,any,any,,any,0,0'>
+22	suMxarawA		<fs af='suMxarawA,n,f,sg,3,d,0,0'>|<fs af='suMxarawA,n,f,pl,3,d,0,0'>|<fs af='suMxarawA,n,f,sg,3,o,0,0'>|<fs af='suMxarawA,n,f,pl,3,o,0,0'>

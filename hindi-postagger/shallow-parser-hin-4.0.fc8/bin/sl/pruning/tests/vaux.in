@@ -1,0 +1,19 @@
+<Sentence id="1">
+1	((	NP	
+1.1	WodA	QF	<fs af='WodA,adv,,,,,,'>|<fs af='WodA,adj,m,sg,,d,,'>|<fs af='WodA,n,m,sg,3,d,0,0'>
+1.2	sA	RP	<fs af='sA,psp,m,sg,,d,kA,kA'>
+1.3	kAma	NN	<fs af='kAma,n,m,sg,3,d,0,0'>|<fs af='kAma,n,m,pl,3,d,0,0'>|<fs af='kAma,n,m,sg,3,o,0,0'>
+	))		
+2	((	VGF	
+2.1	kara	VM	<fs af='kara,n,m,sg,3,d,0,0'>|<fs af='kara,n,m,pl,3,d,0,0'>|<fs af='kara,n,m,sg,3,o,0,0'>|<fs af='kara,v,any,any,any,,0,0'>
+2.2	le	VAUX	<fs af='le,v,any,any,any,,0,0'>
+	))		
+3	((	NP	
+3.1	waba	PRP	<fs af='waba,adv,,,,,,'>|<fs af='waba,avy,,,,,,'>
+	))		
+4	((	VGF	
+4.1	AnA	VM	<fs af='AnA,n,m,sg,3,d,0,0'>|<fs af='A,v,m,sg,any,,nA,nA'>
+4.2	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>
+

@@ -1,0 +1,24 @@
+<Sentence id="1">
+1	mAnA	VM	<fs af='mAna,v,m,sg,any,,yA,yA'>
+2	jAwA	VAUX	<fs af='jA,v,m,sg,any,,wA,wA'>
+3	hE	VAUX	<fs af='hE,v,any,sg,2,,hE,hE'>|<fs af='hE,v,any,sg,3,,hE,hE'>
+4	ki	CC	<fs af='ki,avy,,,,,,'>
+5	amqwamaMWana	NN	<fs af='amqwamaMWana,n,m,sg,,d,,'>|<fs af='amqwamaMWana,n,m,pl,,d,,'>|<fs af='amqwamaMWana,n,m,sg,,o,,'>|<fs af='amqwamaMWana,n,m,pl,,o,,'>
+6	ke	PSP	<fs af='kA,psp,m,sg,,o,,'>|<fs af='kA,psp,m,pl,,d,,'>|<fs af='kA,psp,m,pl,,o,,'>
+7	bAxa	NST	<fs af='bAxa,adv,,,,,,'>|<fs af='bAxa,avy,,,,,,'>|<fs af='bAxa,psp,,,,,,'>
+8	amqwa	NN	<fs af='amqwa,n,m,sg,,d,,'>|<fs af='amqwa,n,m,pl,,d,,'>|<fs af='amqwa,n,m,sg,,o,,'>|<fs af='amqwa,n,m,pl,,o,,'>
+9	kI	PSP	<fs af='kA,psp,f,sg,,d,,'>|<fs af='kA,psp,f,sg,,o,,'>|<fs af='kA,psp,f,pl,,d,,'>|<fs af='kA,psp,f,pl,,o,,'>|<fs af='kara,v,f,sg,any,,yA,yA'>
+10	kuCa	QF	<fs af='kuCa,adv,,,,,,'>|<fs af='kuCa,adj,any,any,,d,,'>
+11	bUzxeM	NN	<fs af='bUzxa,n,f,pl,,d,,'>
+12	yahAz	PRP	<fs af='yahAz,adv,,,,,,'>|<fs af='yahAz,psp,,,,,,'>
+13	girI	VM	<fs af='gira,v,f,sg,any,,yA,yA'>
+14	WIM	VAUX	<fs af='WA,v,f,pl,any,,WA,WA'>
+15	,	SYM	<fs af=',,punc,,,,,,'>
+16	isalie	CC	<fs af='isaliye,avy,,,,,,'>
+17	ise	PRP	<fs af='yaha,pn,any,sg,3,o,,'>
+18	brahmakuMda	NN	<fs af='brahmakuMda,n,m,sg,,d,,'>|<fs af='brahmakuMda,n,m,pl,,d,,'>|<fs af='brahmakuMda,n,m,sg,,o,,'>|<fs af='brahmakuMda,n,m,pl,,o,,'>
+19	kahA	VM	<fs af='kaha,v,m,sg,any,,yA,yA'>
+20	jAwA	VAUX	<fs af='jA,v,m,sg,any,,wA,wA'>
+21	hE	VAUX	<fs af='hE,v,any,sg,2,,hE,hE'>|<fs af='hE,v,any,sg,3,,hE,hE'>
+22	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

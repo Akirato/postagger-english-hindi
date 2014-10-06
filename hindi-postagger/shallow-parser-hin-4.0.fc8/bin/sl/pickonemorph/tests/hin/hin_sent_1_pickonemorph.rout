@@ -1,0 +1,73 @@
+<Sentence id="1">
+1	((	NP	
+1.1	harixvAra	NNP	<fs af='harixvAra,n,m,sg,,d,,'>
+1.2	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+2	((	NP	
+2.1	mAz	XC	<fs af='mAz,n,f,sg,,d,,'>
+	))		
+3	((	NP	
+3.1	gaMgA	NNP	<fs af='gaMgA,n,f,sg,,d,,'>
+	))		
+4	((	NP	
+4.1	eka	QC	<fs af='eka,adj,any,any,,any,,' poslcat="NM">
+4.2	sire	NN	<fs af='sirA,n,m,pl,,d,,'>
+4.3	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+5	((	NP	
+5.1	xUsare	QC	<fs af='xUsarA,n,m,pl,,d,,' poslcat="NM">
+5.2	sire	NN	<fs af='sirA,n,m,pl,,d,,'>
+5.3	waka	RP	<fs af='waka,avy,,,,,,'>
+	))		
+6	((	VGF	
+6.1	bahawI	VM	<fs af='baha,v,f,sg,any,,wA,wA'>
+6.2	hEM	VAUX	<fs af='hE,v,any,pl,1,,hE,hE'>
+6.3	,	SYM	<fs af=',,punc,,,,,'>
+	))		
+7	((	CCP	
+7.1	lekina	CC	<fs af='lekina,avy,,,,,,'>
+	))		
+8	((	NP	
+8.1	jo	DEM	<fs af='jo,pn,any,sg,3,d,,'>
+8.2	puNya	NN	<fs af='puNya,n,m,sg,,d,,'>
+8.3	))		
+9	((	NP	
+9.1	hara	XC	<fs af='hara,adv,,,,,,'>
+9.2	kI	XC	<fs af='kA,psp,f,sg,,d,,'>
+9.3	pOdZI	NNP	<fs af='pOdZI,unk,,,,,,' poslcat="NM">
+9.4	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+10	((	JJP	
+10.1	sWiwa	JJ	<fs af='sWiwa,n,m,sg,,d,,' poslcat="NM">
+	))		
+11	((	NP	
+11.1	‘	SYM	<fs af='‘,punc,,,,,,' poslcat="NM">
+	))		
+12	((	NP	
+12.1	brahmakuMda	NNP	<fs af='brahmakuMda,n,m,sg,,d,,'>
+12.2	’	SYM	<fs af='’,punc,,,,,,' poslcat="NM">
+12.3	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+13	((	NP	
+13.1	snAna	NN	<fs af='snAna,n,m,sg,,d,,'>
+13.2	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+14	((	VGF	
+14.1	milawA	VM	<fs af='mila,v,m,sg,any,,wA,wA'>
+14.2	hE	VAUX	<fs af='hE,v,any,sg,2,,hE,hE'>
+14.3	,	SYM	<fs af=',,punc,,,,,,'>
+	))		
+15	((	NP	
+15.1	vaha	PRP	<fs af='vaha,pn,any,sg,3,d,,'>
+	))		
+16	((	NP	
+16.1	kahIM	PRP	<fs af='kahIM,adv,,,,,,' poslcat="NM">
+	))		
+17	((	VGF	
+17.1	nahIM	NEG	<fs af='nahIM,adv,,,,,,' poslcat="NM">
+	))		
+18	((	VGF	
+18.1	milawA	VM	<fs af='mila,v,m,sg,any,,wA,wA'>
+18.2	.	SYM	<fs af='.,punc,,,,,,' poslcat="NM">
+	))		
+</Sentence>

@@ -1,0 +1,32 @@
+<Sentence id="1">
+1	agale	unk	<fs af='agalA,adj,m,sg,,o,,'>|<fs af='agalA,adj,m,pl,,d,,'>|<fs af='agalA,adj,m,pl,,o,,'>
+2	xina	unk	<fs af='xina,n,m,sg,3,d,,'>|<fs af='xina,n,m,pl,3,d,,'>|<fs af='xina,n,m,sg,3,o,,'>
+3	julUsa	unk	<fs af='julUsa,n,m,sg,3,d,,'>|<fs af='julUsa,n,m,pl,3,d,,'>|<fs af='julUsa,n,m,sg,3,o,,'>
+4	vEgA	unk	<fs af='vEgA,n,m,sg,3,d,,'>|<fs af='vEgA,n,m,sg,3,o,,'>
+5	naxI	unk	<fs af='naxI,n,f,sg,3,d,,'>|<fs af='naxI,n,f,sg,3,o,,'>
+6	wata	unk	<fs af='wata,n,m,sg,3,d,,'>|<fs af='wata,n,m,pl,3,d,,'>|<fs af='wata,n,m,sg,3,o,,'>
+7	para	unk	<fs af='para,psp,,,,,,'>
+8	jAwA	unk	<fs af='jA,v,m,sg,any,,wA,wA'>
+9	hE	unk	<fs af='hE,v,any,sg,2,,hE,hE'>|<fs af='hE,v,any,sg,3,,hE,hE'>
+10	ZCOMMA	unk	<fs af='ZCOMMA,punc,,,,,,'>
+11	jahAz	unk	<fs af='jahAz,adv,,,,,,'>|<fs af='jahAz,pn,,,,,,'>
+12	alagAra	unk	<fs af='alagAra,n,m,sg,3,d,,'>|<fs af='alagAra,n,m,sg,3,o,,'>
+13	maMxira	unk	<fs af='maMxira,n,m,sg,3,d,,'>|<fs af='maMxira,n,m,pl,3,d,,'>|<fs af='maMxira,n,m,sg,3,o,,'>
+14	se	unk	<fs af='se,v,any,any,any,,0,0'>|<fs af='se,psp,,,,,,'>|<fs af='sA,psp,m,sg,,o,,'>|<fs af='sA,psp,m,pl,,d,,'>|<fs af='sA,psp,m,pl,,o,,'>
+15	alagArajI	unk	<fs af='alagArajI,n,m,sg,3,d,,'>|<fs af='alagArajI,n,m,sg,3,o,,'>
+16	kI	unk	<fs af='kA,psp,f,sg,,d,,'>|<fs af='kA,psp,f,sg,,o,,'>|<fs af='kA,psp,f,pl,,d,,'>|<fs af='kA,psp,f,pl,,o,,'>|<fs af='kara,v,f,sg,any,,yA,yA'>
+17	prawimA	unk	<fs af='prawimA,n,f,sg,3,d,,'>|<fs af='prawimA,n,f,sg,3,o,,'>
+18	naxI	unk	<fs af='naxI,n,f,sg,3,d,,'>|<fs af='naxI,n,f,sg,3,o,,'>
+19	ke	unk	<fs af='kA,psp,m,sg,,o,,'>|<fs af='kA,psp,m,pl,,d,,'>|<fs af='kA,psp,m,pl,,o,,'>
+20	xUsare	unk	<fs af='xUsarA,n,m,pl,,d,,'>|<fs af='xUsarA,n,m,sg,,o,,'>|<fs af='xUsarA,num,m,pl,,d,,'>|<fs af='xUsarA,num,m,sg,,d,,'>
+21	wata	unk	<fs af='wata,n,m,sg,3,d,,'>|<fs af='wata,n,m,pl,,d,,'>|<fs af='wata,n,m,sg,3,o,,'>
+22	para	unk	<fs af='para,psp,,,,,,'>
+23	lAkara	unk	<fs af='lA,v,any,any,any,,kara,kara'>
+24	vApasa	unk	<fs af='vApasa,adj,any,any,,any,,'>
+25	le	unk	<fs af='le,v,any,any,any,,0,0'>|<fs af='le,v,any,sg,2,,eM,eM'>|<fs af='le,v,any,sg,3,,eM,eM'>
+26	jAI	unk	<fs af='jA,v,f,sg,any,,yA,yA'>
+27	jAwI	unk	<fs af='jA,v,f,sg,any,,wA,wA'>
+28	hE	unk	<fs af='hE,v,any,sg,2,,hE,hE'>|<fs af='hE,v,any,sg,3,,hE,hE'>
+28	_	unk	<fs af='_,v,any,sg,2,,0_x_y,0_x_y' key="val" key="val" >|<fs af='_,v,any,sg,3,,hE,hE' key="val" key="val">
+29	.	unk	<fs af='.,punc,,,,,,'>
+</Sentence>
